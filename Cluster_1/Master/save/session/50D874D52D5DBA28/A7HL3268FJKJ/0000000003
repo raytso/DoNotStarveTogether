@@ -1,0 +1,2 @@
+
+‚return {x=30,z=70,data={inventory={items={{x=30,prefab="lighter",z=70},{x=30,prefab="bernie_inactive",z=70}},equip={}},touchstonetracker={usedinsessions={}},sanity={sane=true,current=120},age={age=0},rider={},temperature={current=35},health={health=150},moisture={moisture=0},skinner={clothing={legs="legs_skirt_basic_black_scribble",feet="feet_formal_stiletto_black_scribble",hand="hand_longgloves_yellow_straw",body="body_polo_red_higgsbury"},skin_name="willow_none"},builder={recipes={},buffered_builds={}}},age=1,prefab="willow"}
