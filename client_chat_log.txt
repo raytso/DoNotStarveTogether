@@ -1,0 +1,154 @@
+[00:27:47]: [Join Announcement] 41205mw
+[00:29:39]: [Join Announcement] ff8ff8888
+[00:32:05]: [Say] (KU_zME8F_OJ) ff8ff8888: 參天律
+[00:32:44]: [Say] (KU_zME8F_OJ) ff8ff8888: 唯一一款 打怪 有最惡值
+[00:32:52]: [Say] (KU_zME8F_OJ) ff8ff8888: 然後要靠拜拜 來洗淨的
+[00:32:54]: [Say] (KU_zME8F_OJ) ff8ff8888: 遊戲
+[00:33:04]: [Say] (KU_zME8F_OJ) ff8ff8888: 打怪有業障喔
+[00:33:13]: [Say] (KU_zME8F_OJ) ff8ff8888: 業障重 都有問題
+[00:33:26]: [Say] (KU_zME8F_OJ) ff8ff8888: 業障重!
+[00:33:49]: [Say] (KU_zME8F_OJ) ff8ff8888: 我之前 玩 百刃 業障值 30萬
+[00:33:55]: [Say] (KU_zME8F_OJ) ff8ff8888: 很扯!
+[00:40:15]: [Say] (KU_zME8F_OJ) ff8ff8888: 老奶奶 + 麥斯威爾 可以 組合成 魔法書 陣容
+[00:40:22]: [Say] (KU_zME8F_OJ) ff8ff8888: 麥斯威爾會恢復理智
+[00:40:27]: [Say] (KU_zME8F_OJ) ff8ff8888: 但是非常脆弱
+[00:40:36]: [Say] (KU_zME8F_OJ) ff8ff8888: 老奶奶可以製作大量書本
+[00:40:41]: [Say] (KU_zME8F_OJ) ff8ff8888: 包含催眠
+[00:40:52]: [Say] (KU_zME8F_OJ) ff8ff8888: 但是由他自己本身閱讀 代價太高
+[00:41:02]: [Say] (KU_zME8F_OJ) ff8ff8888: 如果給麥斯威爾閱讀代價會變很低
+[00:41:19]: [Say] (KU_zME8F_OJ) ff8ff8888: 女武神 可以刷 告密之心
+[00:41:35]: [Say] (KU_zME8F_OJ) ff8ff8888: 由於打怪過程會恢復hp
+[00:41:45]: [Say] (KU_zME8F_OJ) ff8ff8888: 所以變成 刷 復活心臟的好角色
+[00:42:00]: [Say] (KU_zME8F_OJ) ff8ff8888: 再來是沃維剛 他是 全隊伍裡輸出變化最大的
+[00:57:17]: [Join Announcement] hovered24
+[00:57:37]: [Leave Announcement] 41205mw
+[00:57:45]: [Leave Announcement] ff8ff8888
+[00:57:45]: [Leave Announcement] hovered24
+[00:58:39]: [Join Announcement] hovered24
+[00:58:39]: [Join Announcement] 41205mw
+[00:59:09]: [Join Announcement] ff8ff8888
+[01:01:07]: [Say] (KU_OYtV7mCV) hovered24: 這樣可以嗎
+[01:01:13]: [Say] (KU_zME8F_OJ) ff8ff8888: OK
+[01:03:22]: [Say] (KU_zME8F_OJ) ff8ff8888: .
+[01:03:34]: [Say] (KU_OYtV7mCV) hovered24: 給我一個打作工具的時候
+[01:03:48]: [Say] (KU_OYtV7mCV) hovered24: 石頭
+[01:04:03]: [Say] (KU_OYtV7mCV) hovered24: HET
+[01:04:11]: [Say] (KU_OYtV7mCV) hovered24: GET
+[01:07:57]: [Say] (KU_OYtV7mCV) hovered24: 個位  我找到ˋ牛了
+[01:08:22]: [Say] (KU_OYtV7mCV) hovered24: 一路向北
+[01:10:07]: [Say] (KU_OYtV7mCV) hovered24: 你們有找到蓋家的地方嗎
+[01:10:23]: [Say] (KU_OYtV7mCV) hovered24: 林怡君
+[01:13:02]: [Say] (KU_OYtV7mCV) hovered24: DOGS RUN AFTER ME
+[01:14:32]: [Say] (KU_OYtV7mCV) hovered24: 找到一堆狗狗的地方
+[01:15:10]: [Say] (KU_OYtV7mCV) hovered24: 燒炭自殺
+[01:17:11]: [Say] (KU_OYtV7mCV) hovered24: 言大條路走
+[01:18:55]: [Say] (KU_OYtV7mCV) hovered24: 上面事草原
+[01:21:44]: [Say] (KU_OYtV7mCV) hovered24: 我們還沒蓋加耶
+[01:22:13]: [Say] (KU_OYtV7mCV) hovered24: 哭魯米
+[01:22:39]: [Say] (KU_OYtV7mCV) hovered24: 她的功能
+[01:22:55]: [Say] (KU_OYtV7mCV) hovered24: 哭魯米可以回李志\
+[01:24:38]: [Say] (KU_OYtV7mCV) hovered24: 吃曼德拉有副作用嗎 888老師
+[01:24:44]: [Say] (KU_OYtV7mCV) hovered24: 我快餓死了
+[01:26:29]: [Say] (KU_OYtV7mCV) hovered24: 要繞
+[01:27:19]: [Say] (KU_OYtV7mCV) hovered24: MANY SPIDER
+[01:28:21]: [Say] (KU_OYtV7mCV) hovered24: 活的漫的拉可以幹嘛
+[01:28:46]: [Death Announcement] hovered24 死亡，因為： 夜晚。他變成一個毛骨悚然的鬼！
+[01:28:50]: [Say] (KU_OYtV7mCV) hovered24: = =
+[01:29:24]: [Say] (KU_OYtV7mCV) hovered24: NO
+[01:29:34]: [Resurrect Announcement] hovered24 復活自 臨時傳送門.
+[01:31:03]: [Say] (KU_OYtV7mCV) hovered24: 找不到屍體
+[01:32:55]: [Skin Announcement] 41205mw hand_shortgloves_black_scribble
+[01:33:54]: [Say] (KU_OYtV7mCV) hovered24: 家在傳送點的哪個相對位置
+[01:34:34]: [Say] (KU_OYtV7mCV) hovered24: 蓋鍋子了嗎
+[01:38:34]: [Say] (KU_OYtV7mCV) hovered24: BUTTER MUFFIN
+[01:39:37]: [Say] (KU_OYtV7mCV) hovered24: 不用曬
+[01:39:59]: [Say] (KU_OYtV7mCV) hovered24: 配兩個數之一個香菇
+[01:40:14]: [Say] (KU_OYtV7mCV) hovered24: 就是兩個數之一個菜
+[01:40:27]: [Say] (KU_OYtV7mCV) hovered24: 可以阿
+[01:41:32]: [Say] (KU_OYtV7mCV) hovered24: 怪物肉可以煮肉丸子
+[01:45:06]: [Say] (KU_OYtV7mCV) hovered24: 你都怎麼決定在哪裡蓋家
+[01:45:14]: [Say] (KU_OYtV7mCV) hovered24: 對阿
+[01:45:24]: [Say] (KU_OYtV7mCV) hovered24: 喔~
+[01:45:58]: [Say] (KU_OYtV7mCV) hovered24: 那不會翻船了QAQ
+[01:48:23]: [Say] (KU_OYtV7mCV) hovered24: 我怎麼煮出黑暗料理了
+[01:48:45]: [Say] (KU_OYtV7mCV) hovered24: 蝴蝶跟樹枝
+[01:49:16]: [Say] (KU_OYtV7mCV) hovered24: 我有老人癡呆症 再說一次正確的配方
+[01:49:29]: [Say] (KU_zME8F_OJ) ff8ff8888: 1個蝴蝶 3個蔬菜
+[01:49:55]: [Say] (KU_OYtV7mCV) hovered24: 我剛剛放一個蝴蝶三個果 然後便果教耶
+[01:50:00]: [Say] (KU_OYtV7mCV) hovered24: 果醬
+[01:50:23]: [Say] (KU_OYtV7mCV) hovered24: 哈哈 我忘記了
+[01:51:00]: [Say] (KU_OYtV7mCV) hovered24: 葛萊芬多扣一百分
+[01:52:15]: [Say] (KU_OYtV7mCV) hovered24: 不會
+[01:52:29]: [Say] (KU_OYtV7mCV) hovered24: 找腳印
+[01:54:25]: [Say] (KU_OYtV7mCV) hovered24: 不要拆之珠 我們需要怪物肉做肉丸子
+[01:55:51]: [Say] (KU_OYtV7mCV) hovered24: 生蛋
+[01:55:59]: [Say] (KU_OYtV7mCV) hovered24: 煮好吃的\
+[01:56:21]: [Say] (KU_OYtV7mCV) hovered24: 為她蘿蔔會有蘿蔔種子 可以保存比較久
+[01:59:29]: [Say] (KU_OYtV7mCV) hovered24: 作蛙腿三明治
+[01:59:38]: [Say] (KU_OYtV7mCV) hovered24: 葛萊芬多家一百分
+[02:00:04]: [Say] (KU_OYtV7mCV) hovered24: 李志
+[02:00:14]: [Skin Announcement] ff8ff8888 legs_checkered_pleats_green_laurel
+[02:01:56]: [Say] (KU_OYtV7mCV) hovered24: 家裡 宅
+[02:06:18]: [Say] (KU_OYtV7mCV) hovered24: 家裡有肉丸 餓得自己吃\
+[02:07:15]: [Say] (KU_OYtV7mCV) hovered24: 我來打理家園
+[02:08:44]: [Say] (KU_OYtV7mCV) hovered24: 噴裝了xd
+[02:10:26]: [Say] (KU_OYtV7mCV) hovered24: 你們有經過草原檢一些牛糞
+[02:10:35]: [Say] (KU_OYtV7mCV) hovered24: 我有
+[02:11:16]: [Say] (KU_OYtV7mCV) hovered24: 遊戲匯回朔耶
+[02:11:21]: [Say] (KU_OYtV7mCV) hovered24: 你們會嗎
+[02:13:23]: [Say] (KU_OYtV7mCV) hovered24: 難過了
+[02:13:39]: [Say] (KU_OYtV7mCV) hovered24: 可以有飯吃
+[02:14:01]: [Say] (KU_OYtV7mCV) hovered24: 88你開?
+[02:14:18]: [Say] (KU_OYtV7mCV) hovered24: 我也可以開
+[02:14:24]: [Say] (KU_OYtV7mCV) hovered24: 我有之前的進度
+[02:14:29]: [Leave Announcement] ff8ff8888
+[02:14:38]: [Say] (KU_OYtV7mCV) hovered24: 你們在網咖嗎
+[02:15:15]: [Say] (KU_OYtV7mCV) hovered24: 網咖沒糾
+[02:16:24]: [Join Announcement] ff8ff8888
+[02:17:09]: [Say] (KU_OYtV7mCV) hovered24: 我燒的
+[02:18:10]: [Skin Announcement] ff8ff8888 hand_shortgloves_white_smoke
+[02:19:51]: [Say] (KU_OYtV7mCV) hovered24: 我智商一職˙很高
+[02:20:12]: [Say] (KU_OYtV7mCV) hovered24: 火機怎麼打
+[02:21:08]: [Say] (KU_OYtV7mCV) hovered24: 打不到她警界心很高
+[02:21:18]: [Say] (KU_OYtV7mCV) hovered24: 火雞
+[02:22:59]: [Say] (KU_OYtV7mCV) hovered24: 在家下面一點點的地方而已
+[02:23:19]: [Say] (KU_OYtV7mCV) hovered24: 11天
+[02:23:33]: [Say] (KU_zME8F_OJ) ff8ff8888: 開局 11天滿月 之後每 20天滿月
+[02:23:43]: [Say] (KU_zME8F_OJ) ff8ff8888: 11 31 51 71
+[02:24:08]: [Say] (KU_OYtV7mCV) hovered24: 叫她88
+[02:24:35]: [Say] (KU_OYtV7mCV) hovered24: 地上有一朵花 見了可以收服她
+[02:24:52]: [Say] (KU_OYtV7mCV) hovered24: 提升你的智商
+[02:26:13]: [Say] (KU_OYtV7mCV) hovered24: 我也想要針灸
+[02:27:39]: [Say] (KU_OYtV7mCV) hovered24: 我發現我一職在做一件很蠢的事 漿果樹要先踩江果再挖掉
+[02:27:56]: [Say] (KU_OYtV7mCV) hovered24: 真的嗎
+[02:29:01]: [Say] (KU_OYtV7mCV) hovered24: 我不用
+[02:29:23]: [Say] (KU_OYtV7mCV) hovered24: 兩蘑菇一肉一果就可以了
+[02:34:36]: [Say] (KU_OYtV7mCV) hovered24: 率肉價還要做嗎
+[02:34:44]: [Say] (KU_OYtV7mCV) hovered24: 曬
+[02:36:22]: [Say] (KU_OYtV7mCV) hovered24: cp直jp4wu6
+[02:37:14]: [Say] (KU_OYtV7mCV) hovered24: 蘿蔔有辦法大量生產嗎
+[02:37:39]: [Say] (KU_OYtV7mCV) hovered24: 我來瓜牛毛
+[02:37:45]: [Say] (KU_OYtV7mCV) hovered24: 要幾個牛毛
+[02:39:16]: [Say] (KU_OYtV7mCV) hovered24: = =
+[02:39:23]: [Say] (KU_OYtV7mCV) hovered24: 我忘記學刮鬍刀了
+[02:39:35]: [Say] (KU_OYtV7mCV) hovered24: 雷
+[02:41:40]: [Death Announcement] ff8ff8888 死亡，因為： 獵犬。他變成一個毛骨悚然的鬼！
+[02:42:04]: [Death Announcement] hovered24 死亡，因為： 獵犬。他變成一個毛骨悚然的鬼！
+[02:42:14]: [Say] (KU_OYtV7mCV) hovered24: ME 2
+[02:42:20]: [Say] (KU_zME8F_OJ) ff8ff8888: 我這隻太脆了
+[02:42:26]: [Say] (KU_zME8F_OJ) ff8ff8888: 只有 75 HP
+[02:42:33]: [Say] (KU_zME8F_OJ) ff8ff8888: 幾乎被怪物打一下就死了
+[02:42:41]: [Say] (KU_OYtV7mCV) hovered24: 跑船點吧
+[02:42:52]: [Say] (KU_zME8F_OJ) ff8ff8888: 沒關係 我得先睡了
+[02:42:54]: [Say] (KU_OYtV7mCV) hovered24: 其實代去處首那邊也可以
+[02:43:00]: [Say] (KU_zME8F_OJ) ff8ff8888: 明天我得上班@@
+[02:43:13]: [Say] (KU_zME8F_OJ) ff8ff8888: 先睡了@@
+[02:43:23]: [Say] (KU_zME8F_OJ) ff8ff8888: 房主在哪裡? 是網咖嗎?
+[02:43:30]: [Say] (KU_zME8F_OJ) ff8ff8888: 你有時候會lag
+[02:43:34]: [Say] (KU_OYtV7mCV) hovered24: 我也要休息了
+[02:43:40]: [Death Announcement] whatsupdude 死亡，因為： 獵犬。它成了一個令人毛骨悚然的鬼！
+[02:43:47]: [Say] (KU_zME8F_OJ) ff8ff8888: 所以 = =||| 有時候會莫名 被怪物摸到@@
+[02:43:57]: [Say] (KU_OYtV7mCV) hovered24: 下次我可以開 我台北那邊網路比較順
+[02:44:04]: [Leave Announcement] ff8ff8888
+[02:44:24]: [Leave Announcement] hovered24
+[02:44:26]: [Leave Announcement] 41205mw
