@@ -1674,3 +1674,76 @@ Process Memory:
 [00:04:45]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000003
 [00:05:54]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
 [00:05:54]: toggling	
+[00:09:19]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[00:09:19]: toggling	
+[00:09:19]: OnGPUnpause	
+[00:13:45]: Validating portal[8] <-> 993164935[8] (active)	
+[00:16:09]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000003
+[00:16:09]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000003
+[00:16:09]: Serializing world: session/50D874D52D5DBA28/0000000003
+[00:24:09]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000004
+[00:24:09]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000004
+[00:24:09]: Serializing world: session/50D874D52D5DBA28/0000000004
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:32:09]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000005
+[00:32:09]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000005
+[00:32:09]: Serializing world: session/50D874D52D5DBA28/0000000005
+[00:40:09]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000006
+[00:40:09]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000006
+[00:40:10]: Serializing world: session/50D874D52D5DBA28/0000000006
+[00:48:10]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000007
+[00:48:10]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000007
+[00:48:10]: Serializing world: session/50D874D52D5DBA28/0000000007
+[00:56:10]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000008
+[00:56:10]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000008
+[00:56:10]: Serializing world: session/50D874D52D5DBA28/0000000008
+[01:00:04]: [200] Account Communication Success (6)
+[01:00:04]: Received (KU_DHYCXywJ) from TokenPurpose
+[01:04:10]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000009
+[01:04:10]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000009
+[01:04:11]: Serializing world: session/50D874D52D5DBA28/0000000009
+[01:12:11]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000010
+[01:12:11]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000010
+[01:12:11]: Serializing world: session/50D874D52D5DBA28/0000000010
+[01:17:50]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[01:17:50]: toggling	
+[01:23:59]: [Steam] SendUserDisconnect for '76561198061882216'
+[01:23:59]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[01:23:59]: [IPC] Received shutdown signal.
+[01:23:59]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000011
+[01:23:59]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000011
+[01:23:59]: Serializing world: session/50D874D52D5DBA28/0000000011
+[01:23:59]: Truncating to snapshot #11...
+[01:23:59]:  - session/50D874D52D5DBA28/0000000002
+[01:23:59]:  - session/50D874D52D5DBA28/0000000003
+[01:23:59]:  - session/50D874D52D5DBA28/0000000004
+[01:23:59]:  - session/50D874D52D5DBA28/0000000005
+[01:23:59]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000005
+[01:23:59]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000004
+[01:23:59]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000003
+[01:23:59]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000005
+[01:23:59]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000004
+[01:23:59]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000003
+[01:23:59]:    10 file(s) removed
+[01:23:59]: unloading prefabs for mod MOD_workshop-758532836	
+[01:23:59]: unloading prefabs for mod MOD_workshop-347079953	
+[01:23:59]: unloading prefabs for mod MOD_workshop-375859599	
+[01:23:59]: unloading prefabs for mod MOD_workshop-362175979	
+[01:23:59]: unloading prefabs for mod MOD_workshop-1079538195	
+[01:23:59]: unloading prefabs for mod MOD_workshop-503919639	
+[01:23:59]: unloading prefabs for mod MOD_workshop-378160973	
+[01:23:59]: [Shard] Stopping shard mode
+[01:24:00]: Collecting garbage...
+[01:24:00]: lua_gc took 0.15 seconds
+[01:24:00]: ~ShardLuaProxy()
+[01:24:00]: ~ItemServerLuaProxy()
+[01:24:00]: ~InventoryLuaProxy()
+[01:24:00]: ~NetworkLuaProxy()
+[01:24:00]: ~SimLuaProxy()
+[01:24:00]: lua_close took 0.28 seconds
+[01:24:00]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:24:00]: shaders/ui_yuv.ksh - 1
+[01:24:00]: CurlRequestManager::ClientThread::Main() complete
+[01:24:00]: HttpClient2 discarded 1 callbacks.
+[01:24:00]: Shutting down

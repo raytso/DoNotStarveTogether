@@ -1592,3 +1592,52 @@ Process Memory:
 [00:00:21]: [IPC] Sending signal... #000004FC
 [00:00:21]: Sim paused
 [00:04:42]: Sim unpaused
+[00:16:09]: Serializing world: session/2B8241F9302FDBC9/0000000003
+[00:24:09]: Serializing world: session/2B8241F9302FDBC9/0000000004
+[00:30:04]: [200] Account Communication Success (6)
+[00:30:04]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:32:09]: Serializing world: session/2B8241F9302FDBC9/0000000005
+[00:40:10]: Serializing world: session/2B8241F9302FDBC9/0000000006
+[00:48:10]: Serializing world: session/2B8241F9302FDBC9/0000000007
+[00:56:10]: Serializing world: session/2B8241F9302FDBC9/0000000008
+[00:56:10]: Truncating to snapshot #8...
+[00:56:10]:  - session/2B8241F9302FDBC9/0000000002
+[00:56:10]:    1 file(s) removed
+[01:00:04]: [200] Account Communication Success (6)
+[01:00:04]: Received (KU_DHYCXywJ) from TokenPurpose
+[01:04:10]: Serializing world: session/2B8241F9302FDBC9/0000000009
+[01:04:10]: Truncating to snapshot #9...
+[01:04:10]:  - session/2B8241F9302FDBC9/0000000003
+[01:04:10]:    1 file(s) removed
+[01:12:11]: Serializing world: session/2B8241F9302FDBC9/0000000010
+[01:12:11]: Truncating to snapshot #10...
+[01:12:11]:  - session/2B8241F9302FDBC9/0000000004
+[01:12:11]:    1 file(s) removed
+[01:23:59]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[01:23:59]: Sim paused
+[01:24:00]: [IPC] Received shutdown signal.
+[01:24:00]: Serializing world: session/2B8241F9302FDBC9/0000000011
+[01:24:00]: Truncating to snapshot #11...
+[01:24:00]:  - session/2B8241F9302FDBC9/0000000005
+[01:24:00]:    1 file(s) removed
+[01:24:01]: unloading prefabs for mod MOD_workshop-758532836	
+[01:24:01]: unloading prefabs for mod MOD_workshop-347079953	
+[01:24:01]: unloading prefabs for mod MOD_workshop-375859599	
+[01:24:01]: unloading prefabs for mod MOD_workshop-362175979	
+[01:24:01]: unloading prefabs for mod MOD_workshop-1079538195	
+[01:24:01]: unloading prefabs for mod MOD_workshop-503919639	
+[01:24:01]: unloading prefabs for mod MOD_workshop-378160973	
+[01:24:01]: [Shard] Stopping shard mode
+[01:24:01]: Collecting garbage...
+[01:24:01]: lua_gc took 0.08 seconds
+[01:24:01]: ~ShardLuaProxy()
+[01:24:01]: ~ItemServerLuaProxy()
+[01:24:01]: ~InventoryLuaProxy()
+[01:24:01]: ~NetworkLuaProxy()
+[01:24:01]: ~SimLuaProxy()
+[01:24:01]: lua_close took 0.16 seconds
+[01:24:01]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:24:01]: shaders/ui_yuv.ksh - 1
+[01:24:01]: CurlRequestManager::ClientThread::Main() complete
+[01:24:01]: HttpClient2 discarded 0 callbacks.
+[01:24:01]: Shutting down

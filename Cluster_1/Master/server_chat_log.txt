@@ -1,2 +1,6 @@
 [00:00:31]: [Join Announcement] whatsupdude
 [00:02:14]: [Join Announcement] 41205mw
+[00:32:54]: [Skin Announcement] 41205mw legs_skirt_basic_pink_pigman
+[00:46:56]: [Skin Announcement] whatsupdude legs_skirt_basic_tan_cream
+[01:23:59]: [Leave Announcement] whatsupdude
+[01:23:59]: [Leave Announcement] 41205mw
