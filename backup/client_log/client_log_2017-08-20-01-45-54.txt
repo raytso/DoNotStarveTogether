@@ -1,0 +1,311 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 27%
+	Available Physical Memory: 5925m/8134m
+	Available Page File: 13909m/16266m
+	Available Virtual Memory: 3989m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 27m
+	Working Set Size: 26m
+	Quota Peak Page Pool Usage: 198k
+	Quota Page Pool Usage: 193k
+	Quota Peak Non Paged Pool Usage:16k
+	Quota Non Paged Pool Usage: 15k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 226323
+[00:00:00]: Current time: Sun Aug 20 01:45:16 2017
+
+[00:00:00]: Don't Starve Together: 226323 WIN32_STEAM
+[00:00:00]: Build Date: 2144
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 2006924
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (3852)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.83
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:00]: [Warning] Failed to initialize, ignoring AuthorizeApp request
+[00:00:00]: could not load ping_cache
+[00:00:00]: THREAD - started 'StreamInput' (1620)
+[00:00:00]: Offline user ID: OU_76561198061882216
+[00:00:00]: SteamID: 76561198061882216
+[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 7 旗艦版 
+    version                   6.1.7601
+    architecture              64-bit
+    platformSpecific          SP 1.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3201
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 1070
+    driverDate                20161211000000.000000-000
+    megsOfRam                 4095
+    refreshRate               239
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    driverVersion             21.21.13.7633
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1920,1018 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: RestoreWindowPosition
+[00:00:00]:    Saved Client Pos (0 x 22)
+[00:00:00]:    Adjusted Window Pos (-8 x -8)
+[00:00:00]: EnsureWindowOnScreen
+[00:00:00]:    All good.
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1070)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: THREAD - started 'WindowsInputManager' (3548)
+[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence.
+	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:01]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:00:01]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:00:01]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.3 (Old API! (mod: 4 game: 10) )	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:00:01]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:00:01]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:00:01]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:01]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:00:01]: ../mods/workshop-609429306//language.lua font installed.	
+[00:00:01]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: PlayerDeaths loaded morgue	129	
+[00:00:02]: PlayerHistory loaded player_history	328	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:00:04]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:00:04]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:00:04]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:04]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:04]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:04]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:00:04]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:00:04]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:00:04]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:00:04]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:00:04]: 	Load FE	
+[00:00:04]: 	Load FE: done	
+[00:00:04]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:04]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:04]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:04]: SimLuaProxy::QueryServer()
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:11]: [Steam] Auth Session Ticket requested...
+[00:00:12]: [Steam] Got Auth Session Ticket
+[00:00:14]: [200] Account Communication Success (3)
+[00:00:14]: loaded inventory_cache
+[00:00:14]: Logging in as KU_DHYCXywJ
+[00:00:15]: saved inventory_cache
+[00:00:15]: saved inventory_cache_sig
+[00:00:16]: SimLuaProxy::QueryServer()
+[00:00:20]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:20]: Frontend-Unloading mod 'all'.	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:20]: FrontendLoadMod	workshop-503919639	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:00:20]: Fontend-Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:00:20]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:20]: FrontendLoadMod	workshop-758532836	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:20]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:20]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:20]: FrontendLoadMod	workshop-347079953	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:20]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:20]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:20]: FrontendLoadMod	workshop-378160973	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:20]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:20]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:20]: FrontendLoadMod	workshop-1079538195	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:20]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:20]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:20]: FrontendLoadMod	workshop-362175979	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:00:20]: Fontend-Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:20]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:20]: FrontendLoadMod	workshop-375859599	
+[00:00:20]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:20]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:20]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:20]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:31]: Frontend-Unloading mod 'all'.	
+[00:00:33]: unloading prefabs for mod MOD_workshop-714735102	
+[00:00:33]: unloading prefabs for mod MOD_workshop-609429306	
+[00:00:33]: unloading prefabs for mod MOD_workshop-345692228	
+[00:00:33]: unloading prefabs for mod MOD_workshop-604196908	
+[00:00:33]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:33]: Collecting garbage...
+[00:00:33]: lua_gc took 0.02 seconds
+[00:00:33]: ~ShardLuaProxy()
+[00:00:33]: ~ItemServerLuaProxy()
+[00:00:33]: ~InventoryLuaProxy()
+[00:00:33]: ~NetworkLuaProxy()
+[00:00:33]: ~SimLuaProxy()
+[00:00:33]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:33]: lua_close took 0.03 seconds
+[00:00:34]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:34]: [Steam] Auth ticket cancelled
+[00:00:34]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:00:34]: shaders/ui_yuv.ksh - 1
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:34]: CurlRequestManager::ClientThread::Main() complete
+[00:00:34]: HttpClient2 discarded 0 callbacks.
+[00:00:34]: Shutting down

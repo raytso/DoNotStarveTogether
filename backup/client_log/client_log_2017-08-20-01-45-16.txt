@@ -1,0 +1,2066 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 26%
+	Available Physical Memory: 5989m/8129m
+	Available Page File: 13904m/16257m
+	Available Virtual Memory: 3989m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 27m
+	Working Set Size: 26m
+	Quota Peak Page Pool Usage: 198k
+	Quota Page Pool Usage: 193k
+	Quota Peak Non Paged Pool Usage:16k
+	Quota Non Paged Pool Usage: 15k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 226323
+[00:00:00]: Current time: Sun Aug 06 02:57:04 2017
+
+[00:00:00]: Don't Starve Together: 226323 WIN32_STEAM
+[00:00:00]: Build Date: 2144
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 2006924
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (4912)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:8.63
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:01]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:01]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:01]: [Warning] Failed to initialize, ignoring AuthorizeApp request
+[00:00:01]: could not load ping_cache
+[00:00:01]: THREAD - started 'StreamInput' (2808)
+[00:00:01]: Offline user ID: OU_76561198061882216
+[00:00:01]: SteamID: 76561198061882216
+[00:00:01]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:01]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 7 旗艦版 
+    version                   6.1.7601
+    architecture              64-bit
+    platformSpecific          SP 1.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3201
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 970
+    driverDate                20160208000000.000000-000
+    megsOfRam                 4095
+    refreshRate               60
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    driverVersion             10.18.13.6191
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1280,720 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: RestoreWindowPosition
+[00:00:01]:    Saved Client Pos (228 x 191)
+[00:00:01]:    Adjusted Window Pos (220 x 161)
+[00:00:01]: EnsureWindowOnScreen
+[00:00:01]:    All good.
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 970)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (4280)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:00:02]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:00:02]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.3 (Old API! (mod: 4 game: 10) )	
+[00:00:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:02]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:00:02]: ../mods/workshop-609429306//language.lua font installed.	
+[00:00:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths could not load morgue	
+[00:00:03]: PlayerHistory could not load player_history	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: Could not load saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:05]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:05]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:00:05]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:05]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:05]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:05]: SimLuaProxy::QueryServer()
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:10]: [Steam] Auth Session Ticket requested...
+[00:00:10]: [Steam] Got Auth Session Ticket
+[00:00:12]: [200] Account Communication Success (3)
+[00:00:12]: loaded inventory_cache
+[00:00:12]: Logging in as KU_DHYCXywJ
+[00:00:14]: saved inventory_cache
+[00:00:14]: saved inventory_cache_sig
+[00:00:15]: SimLuaProxy::QueryServer()
+[00:00:21]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:21]: Frontend-Unloading mod 'all'.	
+[00:01:29]: FrontendLoadMod	workshop-362175979	
+[00:01:29]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:01:29]: Fontend-Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:01:29]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:01:29]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:30]: FrontendLoadMod	workshop-503919639	
+[00:01:30]: Could not load mod_config_data/modconfiguration_workshop-503919639	
+[00:01:30]: Fontend-Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:01:30]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:01:30]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:03:02]: Could not load mod_config_data/modconfiguration_workshop-503919639	
+[00:03:02]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:03:02]: Not applying level data overrides.	
+[00:03:02]: Not applying world gen overrides.	
+[00:03:02]: [IPC] Signal 'DST_Master_Starting' created  #00000290
+[00:03:02]: [IPC] Clearing pending signals #00000290...
+[00:03:02]: [IPC] Registering handler for signal #00000290
+[00:03:02]: [IPC] Handle #00000290 added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Master_WorldGen' created  #0000028C
+[00:03:02]: [IPC] Clearing pending signals #0000028C...
+[00:03:02]: [IPC] Registering handler for signal #0000028C
+[00:03:02]: [IPC] Handle #0000028C added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Master_Ready' created  #00000288
+[00:03:02]: [IPC] Clearing pending signals #00000288...
+[00:03:02]: [IPC] Registering handler for signal #00000288
+[00:03:02]: [IPC] Handle #00000288 added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Master_ErrPort' created  #0000027C
+[00:03:02]: [IPC] Clearing pending signals #0000027C...
+[00:03:02]: [IPC] Registering handler for signal #0000027C
+[00:03:02]: [IPC] Handle #0000027C added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000280
+[00:03:02]: [IPC] Clearing pending signals #00000280...
+[00:03:02]: [IPC] Registering handler for signal #00000280
+[00:03:02]: [IPC] Handle #00000280 added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Master_Kill' created  #00000284
+[00:03:02]: [IPC] Clearing pending signals #00000284...
+[00:03:02]: [IPC] Signal 'DST_Slave_Starting' created  #0000051C
+[00:03:02]: [IPC] Clearing pending signals #0000051C...
+[00:03:02]: [IPC] Registering handler for signal #0000051C
+[00:03:02]: [IPC] Handle #0000051C added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Slave_WorldGen' created  #000004FC
+[00:03:02]: [IPC] Clearing pending signals #000004FC...
+[00:03:02]: [IPC] Registering handler for signal #000004FC
+[00:03:02]: [IPC] Handle #000004FC added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Slave_Ready' created  #0000055C
+[00:03:02]: [IPC] Clearing pending signals #0000055C...
+[00:03:02]: [IPC] Registering handler for signal #0000055C
+[00:03:02]: [IPC] Handle #0000055C added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Slave_ErrPort' created  #00000564
+[00:03:02]: [IPC] Clearing pending signals #00000564...
+[00:03:02]: [IPC] Registering handler for signal #00000564
+[00:03:02]: [IPC] Handle #00000564 added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Slave_ErrStartup' created  #0000056C
+[00:03:02]: [IPC] Clearing pending signals #0000056C...
+[00:03:02]: [IPC] Registering handler for signal #0000056C
+[00:03:02]: [IPC] Handle #0000056C added to the Eventhandles
+[00:03:02]: [IPC] Signal 'DST_Slave_Kill' created  #00000568
+[00:03:02]: [IPC] Clearing pending signals #00000568...
+[00:03:07]: [IPC] Received DST_Master Starting signal !
+[00:03:07]: [IPC] Received DST_Slave Starting signal !
+[00:03:08]: [IPC] Received DST_Master WorldGen signal !
+[00:03:08]: [IPC] Received DST_Slave WorldGen signal !
+[00:03:17]: [IPC] Received DST_Master Ready signal !
+[00:03:19]: [IPC] Received error signal
+[00:03:19]: [IPC] Sending signal... #00000284
+[00:03:20]: [IPC] Unregistering handler for signal #00000290
+[00:03:20]: [IPC] Unregistering handler for signal #0000028C
+[00:03:20]: [IPC] Unregistering handler for signal #00000288
+[00:03:20]: [IPC] Unregistering handler for signal #0000027C
+[00:03:20]: [IPC] Unregistering handler for signal #00000280
+[00:03:20]: [IPC] Sending signal... #00000568
+[00:03:21]: [IPC] Unregistering handler for signal #0000051C
+[00:03:21]: [IPC] Unregistering handler for signal #000004FC
+[00:03:21]: [IPC] Unregistering handler for signal #0000055C
+[00:03:21]: [IPC] Unregistering handler for signal #00000564
+[00:03:21]: [IPC] Unregistering handler for signal #0000056C
+[00:03:40]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:03:43]: Could not load mod_config_data/modconfiguration_workshop-503919639	
+[00:03:43]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:03:43]: [IPC] Clearing pending signals #00000290...
+[00:03:43]: [IPC] Registering handler for signal #00000290
+[00:03:43]: [IPC] Handle #00000290 added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #0000028C...
+[00:03:43]: [IPC] Registering handler for signal #0000028C
+[00:03:43]: [IPC] Handle #0000028C added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #00000288...
+[00:03:43]: [IPC] Registering handler for signal #00000288
+[00:03:43]: [IPC] Handle #00000288 added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #0000027C...
+[00:03:43]: [IPC] Registering handler for signal #0000027C
+[00:03:43]: [IPC] Handle #0000027C added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #00000280...
+[00:03:43]: [IPC] Registering handler for signal #00000280
+[00:03:43]: [IPC] Handle #00000280 added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #00000284...
+[00:03:43]: [IPC] Clearing pending signals #0000051C...
+[00:03:43]: [IPC] Registering handler for signal #0000051C
+[00:03:43]: [IPC] Handle #0000051C added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #000004FC...
+[00:03:43]: [IPC] Registering handler for signal #000004FC
+[00:03:43]: [IPC] Handle #000004FC added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #0000055C...
+[00:03:43]: [IPC] Registering handler for signal #0000055C
+[00:03:43]: [IPC] Handle #0000055C added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #00000564...
+[00:03:43]: [IPC] Registering handler for signal #00000564
+[00:03:43]: [IPC] Handle #00000564 added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #0000056C...
+[00:03:43]: [IPC] Registering handler for signal #0000056C
+[00:03:43]: [IPC] Handle #0000056C added to the Eventhandles
+[00:03:43]: [IPC] Clearing pending signals #00000568...
+[00:03:48]: [IPC] Received DST_Slave Starting signal !
+[00:03:48]: [IPC] Received DST_Master Starting signal !
+[00:03:55]: [IPC] Received DST_Master Ready signal !
+[00:04:00]: [IPC] Received DST_Slave Ready signal !
+[00:04:00]: [Connect] Init client connection to 127.0.0.1|10999
+[00:04:00]: [Connect] PendingConnection::Reset(true)
+[00:04:00]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:00]: [Connect] InternalInitClient <7352477219081710677>
+[00:04:00]: [Shard] Starting shard mode as player
+[00:04:00]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:04:00]: [Connect] Sending ping(s)...
+[00:04:00]: [Connect] Ping 127.0.0.1|10999
+[00:04:00]: [Connect] Ping response from 127.0.0.1|10999
+[00:04:00]: [Connect] Joining server from ping response...
+[00:04:00]: Friends are currently playing in 0 games(s)!
+[00:04:00]: You belong to 0 clan(s)!
+[00:04:00]: [Connect] Got join server response from lua
+[00:04:01]: [200] Account Communication Success (13)
+[00:04:01]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:04:01]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:04:01]: Connection accepted to 127.0.0.1|10999 <3167276339703633761>
+[00:04:01]: Network external address discovered: 127.0.0.1|53363
+[00:04:01]: SendClientHandShakePacket "pgs-sing^KU_DHYCXywJ^DontStarveTogether^ESKAGNq2wPHYTWrqI4EqeestNdoUDWiI8tBJcAVK1PY=" to <3167276339703633761>
+[00:04:01]: DeserializeHandShakeServerListing
+[00:04:01]: Network tick rate: U=10(3), D=15
+[00:04:01]: Version: 226323
+[00:04:01]: [Steam] Game Connection initiated
+[00:04:01]: SendClientInventoryHandShakePacket to <3167276339703633761>
+[00:04:03]: Begin Session: 3EEA60E5FB9E6279
+[00:04:03]: Done Downloading Client Object Data
+[00:04:03]: DownloadMods and temp disable	
+[00:04:03]: We now have the required mods, enable them for server	
+[00:04:03]: Temp Enabling workshop-503919639	
+[00:04:03]: Temp Enabling workshop-362175979	
+[00:04:03]: ModIndex:SetTempModConfigData	
+[00:04:03]: Setting temp mod config for mod 	workshop-503919639	
+[00:04:03]: Setting temp mod config for mod 	workshop-362175979	
+[00:04:03]: Mods are setup for server, save the mod index and proceed.	
+[00:04:03]: Downloading [0] From: server_temp
+[00:04:03]: 0 (38%) 1/1 server_temp\server_save 114000b / 292383b
+[00:04:03]: 0 (77%) 1/1 server_temp\server_save 228000b / 292383b
+[00:04:03]: 0 (100%) 1/1 server_temp\server_save 292383b / 292383b
+[00:04:03]: Download complete[0] Files: 1 Size: 292383
+[00:04:05]: unloading prefabs for mod MOD_workshop-609429306	
+[00:04:05]: unloading prefabs for mod MOD_workshop-604196908	
+[00:04:05]: Collecting garbage...
+[00:04:05]: lua_gc took 0.02 seconds
+[00:04:05]: ~ShardLuaProxy()
+[00:04:05]: ~ItemServerLuaProxy()
+[00:04:05]: ~InventoryLuaProxy()
+[00:04:05]: ~NetworkLuaProxy()
+[00:04:05]: ~SimLuaProxy()
+[00:04:05]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:04:05]: lua_close took 0.03 seconds
+[00:04:05]: ReleaseAll
+[00:04:05]: ReleaseAll Finished
+[00:04:05]: cGame::StartPlaying
+[00:04:05]: LOADING LUA
+[00:04:05]: DoLuaFile scripts/main.lua
+[00:04:05]: DoLuaFile loading buffer scripts/main.lua
+[00:04:05]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:04:06]: running main.lua
+	
+[00:04:06]: loaded modindex	
+[00:04:06]: ModIndex: Beginning normal load sequence.
+	
+[00:04:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:04:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-503919639	
+[00:04:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:04:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:04:06]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:04:06]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:04:06]: Could not load mod_config_data/modconfiguration_workshop-503919639_CLIENT	
+[00:04:06]: Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:04:06]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:04:06]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:04:06]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:04:06]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.3 (Old API! (mod: 4 game: 10) )	
+[00:04:06]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:04:06]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:06]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:04:06]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:04:06]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:06]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:04:06]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:04:06]: ../mods/workshop-609429306//language.lua font installed.	
+[00:04:06]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:04:06]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:06]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modmain.lua	
+[00:04:06]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:04:06]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:06]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:04:06]: LOADING LUA SUCCESS
+[00:04:06]: PlayerDeaths could not load morgue	
+[00:04:06]: PlayerHistory could not load player_history	
+[00:04:06]: bloom_enabled	false	
+[00:04:06]: OnLoad slot	2	: World options was nil! Populating with default.	
+[00:04:06]: OnLoad slot	3	: World options was nil! Populating with default.	
+[00:04:06]: OnLoad slot	4	: World options was nil! Populating with default.	
+[00:04:06]: OnLoad slot	5	: World options was nil! Populating with default.	
+[00:04:06]: loaded saveindex	
+[00:04:06]: OnFilesLoaded()	
+[00:04:06]: OnUpdatePurchaseStateComplete	
+[00:04:06]: 	Unload FE	
+[00:04:06]: 	Unload FE done	
+[00:04:07]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:04:07]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:04:07]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:04:07]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:04:07]: Mod: workshop-503919639 (DST Equipment Switcher)	Registering prefabs	
+[00:04:07]: Mod: workshop-503919639 (DST Equipment Switcher)	  Registering default mod prefab	
+[00:04:07]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:04:07]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:04:07]: 	LOAD BE	
+[00:04:09]: 	LOAD BE: done	
+[00:04:09]: Loading world: client_temp/server_save	
+[00:04:09]: Save file is at version 4.77	
+[00:04:09]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:04:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:04:10]: Loading Nav Grid	
+[00:04:10]: setting 	summerlength	15	
+[00:04:10]: setting 	isnightmaredawn	false	
+[00:04:10]: setting 	elapseddaysinseason	0	
+[00:04:10]: setting 	isfullmoon	false	
+[00:04:10]: setting 	moisture	0.033333335071802	
+[00:04:10]: setting 	springlength	20	
+[00:04:10]: setting 	isnightmarewild	false	
+[00:04:10]: setting 	moonphase	new	
+[00:04:10]: setting 	precipitationrate	0	
+[00:04:10]: setting 	iswet	false	
+[00:04:10]: setting 	isnewmoon	false	
+[00:04:10]: setting 	iswinter	false	
+[00:04:10]: setting 	israining	false	
+[00:04:10]: setting 	issummer	false	
+[00:04:10]: setting 	time	0.000277837117513	
+[00:04:10]: setting 	wetness	0	
+[00:04:10]: setting 	moistureceil	711.34985351563	
+[00:04:10]: setting 	isday	true	
+[00:04:10]: setting 	nightmaretimeinphase	0	
+[00:04:10]: setting 	season	autumn	
+[00:04:10]: setting 	isnight	false	
+[00:04:10]: setting 	cycles	0	
+[00:04:10]: setting 	isnightmarecalm	false	
+[00:04:10]: setting 	timeinphase	0.000555674235026	
+[00:04:10]: setting 	isdusk	false	
+[00:04:10]: setting 	iscavedusk	false	
+[00:04:10]: setting 	isautumn	true	
+[00:04:10]: setting 	iscaveday	true	
+[00:04:10]: setting 	remainingdaysinseason	20	
+[00:04:10]: setting 	phase	day	
+[00:04:10]: setting 	snowlevel	0	
+[00:04:10]: setting 	iswaxingmoon	true	
+[00:04:10]: setting 	autumnlength	20	
+[00:04:10]: setting 	pop	4.6859270311314e-005	
+[00:04:10]: setting 	nightmaretime	0	
+[00:04:10]: setting 	isspring	false	
+[00:04:10]: setting 	winterlength	15	
+[00:04:10]: setting 	nightmarephase	none	
+[00:04:10]: setting 	issnowcovered	false	
+[00:04:10]: setting 	issnowing	false	
+[00:04:10]: setting 	iscavenight	false	
+[00:04:10]: setting 	temperature	30.033215972026	
+[00:04:10]: setting 	cavephase	day	
+[00:04:10]: setting 	precipitation	none	
+[00:04:10]: setting 	isnightmarewarn	false	
+[00:04:10]: Reconstructing topology	
+[00:04:10]: 	...Sorting points	
+[00:04:10]: 	...Sorting edges	
+[00:04:10]: 	...Connecting nodes	
+[00:04:10]: 	...Validating connections	
+[00:04:10]: 	...Housekeeping	
+[00:04:10]: 	...Done!	
+[00:04:10]: ModIndex: Load sequence finished successfully.	
+[00:04:10]: Reset() returning
+[00:04:10]: Attempting to send resume request
+[00:04:11]: ReceiveResumeNotification
+[00:04:11]: Deleting user: session/3EEA60E5FB9E6279/A7HL3268FJKJ/0000000001
+[00:04:30]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:05:03]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:05:15]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:05:26]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:06:16]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:06:33]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[00:06:36]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[00:06:40]: Could not find anim [emote_hands] in bank [FROMNUM]
+[00:06:43]: Could not find anim [emote_hands] in bank [FROMNUM]
+[00:06:45]: Could not find anim [emote_pants] in bank [FROMNUM]
+[00:06:48]: Could not find anim [emote_pants] in bank [FROMNUM]
+[00:06:50]: Could not find anim [emote_pants] in bank [FROMNUM]
+[00:06:52]: Could not find anim [emote_pants] in bank [FROMNUM]
+[00:06:58]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[00:07:00]: Movement prediction enabled	
+[00:07:01]: Deserializing tile data (425 x 425)
+[00:14:54]: Serializing user: session/3EEA60E5FB9E6279/A7HL3268FJKJ/0000000001
+[00:22:49]: SAVING Morgue	1	
+[00:22:54]: Serializing user: session/3EEA60E5FB9E6279/A7HL3268FJKJ/0000000001
+[00:23:54]: DoRestart:	true	
+[00:23:55]: Serializing user: session/3EEA60E5FB9E6279/A7HL3268FJKJ/0000000001
+[00:23:55]: [Steam] Game Connection terminated (16777343|10999)
+[00:23:55]: [Shard] Stopping shard mode
+[00:23:55]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:23:55]: [IPC] Sending signal... #00000284
+[00:23:57]: [IPC] Unregistering handler for signal #00000290
+[00:23:57]: [IPC] Unregistering handler for signal #0000028C
+[00:23:57]: [IPC] Unregistering handler for signal #00000288
+[00:23:57]: [IPC] Unregistering handler for signal #0000027C
+[00:23:57]: [IPC] Unregistering handler for signal #00000280
+[00:23:57]: [IPC] Sending signal... #00000568
+[00:23:57]: [IPC] Unregistering handler for signal #0000051C
+[00:23:57]: [IPC] Unregistering handler for signal #000004FC
+[00:23:57]: [IPC] Unregistering handler for signal #0000055C
+[00:23:57]: [IPC] Unregistering handler for signal #00000564
+[00:23:57]: [IPC] Unregistering handler for signal #0000056C
+[00:23:57]: unloading prefabs for mod MOD_workshop-362175979	
+[00:23:57]: unloading prefabs for mod MOD_workshop-609429306	
+[00:23:57]: unloading prefabs for mod MOD_workshop-503919639	
+[00:23:57]: unloading prefabs for mod MOD_workshop-604196908	
+[00:23:57]: Collecting garbage...
+[00:23:57]: lua_gc took 0.02 seconds
+[00:23:57]: ~ShardLuaProxy()
+[00:23:57]: ~ItemServerLuaProxy()
+[00:23:57]: ~InventoryLuaProxy()
+[00:23:57]: ~NetworkLuaProxy()
+[00:23:57]: ~SimLuaProxy()
+[00:23:57]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:23:57]: lua_close took 0.03 seconds
+[00:23:57]: ReleaseAll
+[00:23:57]: ReleaseAll Finished
+[00:23:57]: cGame::StartPlaying
+[00:23:57]: LOADING LUA
+[00:23:57]: DoLuaFile scripts/main.lua
+[00:23:57]: DoLuaFile loading buffer scripts/main.lua
+[00:23:57]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:23:58]: running main.lua
+	
+[00:23:58]: loaded modindex	
+[00:23:58]: ModIndex: Beginning normal load sequence.
+	
+[00:23:58]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:23:58]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:23:58]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:23:58]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:23:58]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:23:58]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.3 (Old API! (mod: 4 game: 10) )	
+[00:23:58]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:23:58]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:23:58]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:23:58]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:23:58]: ../mods/workshop-609429306//language.lua font installed.	
+[00:23:58]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:23:58]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:23:58]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:23:58]: LOADING LUA SUCCESS
+[00:23:58]: PlayerDeaths loaded morgue	129	
+[00:23:58]: PlayerHistory loaded player_history	287	
+[00:23:58]: bloom_enabled	false	
+[00:23:58]: OnLoad slot	2	: World options was nil! Populating with default.	
+[00:23:58]: OnLoad slot	3	: World options was nil! Populating with default.	
+[00:23:58]: OnLoad slot	4	: World options was nil! Populating with default.	
+[00:23:58]: OnLoad slot	5	: World options was nil! Populating with default.	
+[00:23:58]: loaded saveindex	
+[00:23:58]: OnFilesLoaded()	
+[00:23:58]: OnUpdatePurchaseStateComplete	
+[00:23:58]: 	Unload BE	
+[00:23:58]: 	Unload BE done	
+[00:23:58]: Could not unload undefined prefab 0xa796fa (minotaurchest)
+[00:23:58]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[00:23:58]: Could not unload undefined prefab 0x399804b (hat_chester_costume)
+[00:23:58]: Could not unload undefined prefab 0xc01796b (corn_seeds)
+[00:23:58]: Could not unload undefined prefab 0xb1e7b61 (dragonfruit)
+[00:23:58]: Could not unload undefined prefab 0x71127e3 (carrot_cooked)
+[00:23:58]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[00:23:58]: Could not unload undefined prefab 0x1765df93 (monkey)
+[00:23:58]: Could not unload undefined prefab 0x13c2a611 (gridplacer)
+[00:23:58]: Could not unload undefined prefab 0x162c669d (marble)
+[00:23:58]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[00:23:58]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[00:23:58]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[00:23:58]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:23:58]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:23:58]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[00:23:58]: Could not unload undefined prefab 0x184178b (meat)
+[00:23:58]: Could not unload undefined prefab 0x2cf27a76 (bishop_charge)
+[00:23:58]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[00:23:58]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[00:23:58]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[00:23:58]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[00:23:58]: Could not unload undefined prefab 0x1d19e671 (chessjunk_spawner)
+[00:23:58]: Could not unload undefined prefab 0x55862b48 (stalker_minion1)
+[00:23:58]: Could not unload undefined prefab 0x55862b49 (stalker_minion2)
+[00:23:58]: Could not unload undefined prefab 0x184178b (meat)
+[00:23:58]: Could not unload undefined prefab 0xd84f8ee (minotaurchestspawner)
+[00:23:58]: Could not unload undefined prefab 0x4c79e836 (atrium_key_icon)
+[00:23:58]: Could not unload undefined prefab 0x318ff1b0 (minotaur_spawner)
+[00:23:58]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[00:23:58]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[00:23:58]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[00:23:58]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:23:58]: Could not unload undefined prefab 0x4790f393 (deciduoustree)
+[00:23:58]: Could not unload undefined prefab 0x203935e6 (shadowheart)
+[00:23:58]: Could not unload undefined prefab 0x1fa19f1a (fossilspike)
+[00:23:58]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:23:58]: Could not unload undefined prefab 0x10c53670 (stalker_forest)
+[00:23:58]: Could not unload undefined prefab 0x1fa19f1a (fossilspike)
+[00:23:58]: Could not unload undefined prefab 0x67e02798 (fossilspike2)
+[00:23:58]: Could not unload undefined prefab 0x351e1215 (stalker_shield1)
+[00:23:58]: Could not unload undefined prefab 0x351e1216 (stalker_shield2)
+[00:23:58]: Could not unload undefined prefab 0x351e1217 (stalker_shield3)
+[00:23:58]: Could not unload undefined prefab 0x351e1218 (stalker_shield4)
+[00:23:58]: Could not unload undefined prefab 0x5c4a9f29 (stalker_minion)
+[00:23:58]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:23:58]: Could not unload undefined prefab 0x41fa4c33 (thurible_smoke)
+[00:23:58]: Could not unload undefined prefab 0x2ffe1998 (flower_evil)
+[00:23:58]: Could not unload undefined prefab 0x24c01fd0 (planted_flower)
+[00:23:58]: Could not unload undefined prefab 0x39eb2c81 (ancient_altar_broken)
+[00:23:58]: Could not unload undefined prefab 0x107f3fc2 (seeds)
+[00:23:58]: Could not unload undefined prefab 0x6d529a32 (smallmeat)
+[00:23:58]: Could not unload undefined prefab 0x39d1762b (cookedsmallmeat)
+[00:23:58]: Could not unload undefined prefab 0x39ecf974 (cutgrass)
+[00:23:58]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:23:58]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:23:58]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[00:23:58]: Could not unload undefined prefab 0x427b5b39 (shatter)
+[00:23:58]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[00:23:58]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[00:23:58]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[00:23:58]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x184178b (meat)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:23:58]: Could not unload undefined prefab 0x184178b (meat)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x1078732c (character_fire)
+[00:23:58]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[00:23:58]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[00:23:58]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[00:23:58]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[00:23:58]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[00:23:58]: Could not unload undefined prefab 0x57d6a669 (petrified_tree_fx_short)
+[00:23:58]: Could not unload undefined prefab 0x39dfc71a (petrified_tree_fx_normal)
+[00:23:58]: Could not unload undefined prefab 0x15e8f040 (petrified_tree_fx_tall)
+[00:23:58]: Could not unload undefined prefab 0xb14e9054 (petrified_tree_fx_old)
+[00:23:58]: Could not unload undefined prefab 0x47f35864 (petrified_trunk_break_fx)
+[00:23:58]: Could not unload undefined prefab 0xb50c4e4c (pinecone_sapling)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[00:23:58]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[00:23:58]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[00:23:58]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[00:23:58]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[00:23:58]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[00:23:58]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[00:23:58]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[00:23:58]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[00:23:58]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[00:23:58]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[00:23:58]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[00:23:58]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[00:23:58]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[00:23:58]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[00:23:58]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[00:23:58]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[00:23:58]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[00:23:58]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[00:23:58]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[00:23:58]: Could not unload undefined prefab 0x2e54b535 (cane)
+[00:23:58]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[00:23:58]: Could not unload undefined prefab 0x303eb17b (strawhat_floppy)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:23:58]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:23:58]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0xed18eed (spore_small)
+[00:23:58]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[00:23:58]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[00:23:58]: Could not unload undefined prefab 0x79922e (cane_ancient_fx1)
+[00:23:58]: Could not unload undefined prefab 0x79922f (cane_ancient_fx2)
+[00:23:58]: Could not unload undefined prefab 0x799230 (cane_ancient_fx3)
+[00:23:58]: Could not unload undefined prefab 0x3532833e (minisign_item)
+[00:23:58]: Could not unload undefined prefab 0x65eb274a (petals_evil)
+[00:23:58]: Could not unload undefined prefab 0x359da624 (log)
+[00:23:58]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[00:23:58]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[00:23:58]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[00:23:58]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[00:23:58]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[00:23:58]: Could not unload undefined prefab 0xbc5dcbd5 (poopcloud)
+[00:23:58]: Could not unload undefined prefab 0x2cf27a76 (bishop_charge)
+[00:23:58]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[00:23:58]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[00:23:58]: Could not unload undefined prefab 0xc6739a73 (thulecite_pieces)
+[00:23:58]: Could not unload undefined prefab 0x96bf006 (bishop_nightmare_spawner)
+[00:23:58]: Could not unload undefined prefab 0xc2911ec3 (cane_ancient_fx)
+[00:23:58]: Could not unload undefined prefab 0x42a4d2ca (shadow_puff_large_front)
+[00:23:58]: Could not unload undefined prefab 0xc7cceaa6 (shadow_puff_large_back)
+[00:23:58]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[00:23:58]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[00:23:58]: Could not unload undefined prefab 0xc5912515 (gargoyle_werepighowl_fx)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[00:23:58]: Could not unload undefined prefab 0x674707c2 (acorn_sapling)
+[00:23:58]: Could not unload undefined prefab 0x7e58aebd (acorn_cooked)
+[00:23:58]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:23:58]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[00:23:58]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[00:23:58]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[00:23:58]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[00:23:58]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[00:23:58]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[00:23:58]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[00:23:58]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[00:23:58]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[00:23:58]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[00:23:58]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[00:23:58]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[00:23:58]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[00:23:58]: Could not unload undefined prefab 0xc49ee298 (green_leaves)
+[00:23:58]: Could not unload undefined prefab 0x7132400a (red_leaves)
+[00:23:58]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[00:23:58]: Could not unload undefined prefab 0x5a4e2f2d (orange_leaves)
+[00:23:58]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[00:23:58]: Could not unload undefined prefab 0xc3289d07 (yellow_leaves)
+[00:23:58]: Could not unload undefined prefab 0x6831af1e (yellow_leaves_chop)
+[00:23:58]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[00:23:58]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[00:23:58]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[00:23:58]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[00:23:58]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[00:23:58]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[00:23:58]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[00:23:58]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[00:23:58]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[00:23:58]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[00:23:58]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[00:23:58]: Could not unload undefined prefab 0x2e54b535 (cane)
+[00:23:58]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[00:23:58]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[00:23:58]: Could not unload undefined prefab 0x97bd555d (gargoyle_hounddeath)
+[00:23:58]: Could not unload undefined prefab 0x956d0cc5 (monstermeat)
+[00:23:58]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[00:23:58]: Could not unload undefined prefab 0x2c345110 (gargoyle_houndatk_fx)
+[00:23:58]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[00:23:58]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[00:23:58]: Could not unload undefined prefab 0xb0a48afd (gargoyle_werepigdeath_fx)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0xa94d6852 (gift_unwrap)
+[00:23:58]: Could not unload undefined prefab 0xc2b7de33 (ancient_altar)
+[00:23:58]: Could not unload undefined prefab 0x92132840 (poop)
+[00:23:58]: Could not unload undefined prefab 0xb430ba46 (splash_ocean)
+[00:23:58]: Could not unload undefined prefab 0xec8853ad (charcoal)
+[00:23:58]: Could not unload undefined prefab 0x3036fc96 (ash)
+[00:23:58]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[00:23:58]: Could not unload undefined prefab 0xec587250 (gift)
+[00:23:58]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[00:23:58]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[00:23:58]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[00:23:58]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[00:23:58]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[00:23:58]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[00:23:58]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[00:23:58]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[00:23:58]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[00:23:58]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[00:23:58]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[00:23:58]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[00:23:58]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[00:23:58]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[00:23:58]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[00:23:58]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[00:23:58]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[00:23:58]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[00:23:58]: Could not unload undefined prefab 0xf07d70f5 (bluegem)
+[00:23:58]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[00:23:58]: Could not unload undefined prefab 0xe5306269 (flint)
+[00:23:58]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[00:23:58]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[00:23:58]: Could not unload undefined prefab 0xdf809124 (gears)
+[00:23:58]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[00:23:58]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[00:23:58]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[00:23:58]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[00:23:58]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[00:23:58]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[00:23:58]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[00:23:58]: Could not unload undefined prefab 0xe6af29d2 (compass)
+[00:23:58]: Could not unload undefined prefab 0xec43b9f4 (sewing_kit)
+[00:23:58]: Could not unload undefined prefab 0xf0330963 (panflute)
+[00:23:58]: Could not unload undefined prefab 0x2e54b535 (cane)
+[00:23:58]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[00:23:58]: Could not unload undefined prefab 0xe609bac6 (batwing_cooked)
+[00:23:58]: Could not unload undefined prefab 0x4f30b406 (meat_dried)
+[00:23:58]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[00:23:59]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:23:59]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:23:59]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:23:59]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:23:59]: 	Load FE	
+[00:23:59]: 	Load FE: done	
+[00:23:59]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:23:59]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:23:59]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:23:59]: SimLuaProxy::QueryServer()
+[00:23:59]: ModIndex: Load sequence finished successfully.	
+[00:23:59]: Reset() returning
+[00:24:15]: [200] Account Communication Success (6)
+[00:24:15]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:24:15]: [Steam] Auth Session Ticket requested...
+[00:24:15]: loaded inventory_cache
+[00:24:16]: [Steam] Got Auth Session Ticket
+[00:24:17]: loaded inventory_cache
+[00:24:18]: SimLuaProxy::QueryServer()
+[00:24:28]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:24:54]: DownloadPublishedFileV2()
+[00:24:54]: OnDownloadPublishedFileResultV2 
+[00:24:54]:    EResult 1, 288602101460363505
+[00:24:54]:    245850, 12828, [mod_publish_data_file.zip], 76561197960431333
+[00:24:54]: THREAD - started 'cUnpackModThread' (4824)
+[00:24:54]: DelDirectory [../mods/workshop-345692228] 2: FAILED
+[00:24:54]: cWorkshopMod::UnzipMod ../mods/workshop-345692228
+[00:29:34]: DownloadPublishedFileV2()
+[00:29:34]: OnDownloadPublishedFileResultV2 
+[00:29:34]:    EResult 1, 511504063354293545
+[00:29:34]:    245850, 34793, [mod_publish_data_file.zip], 76561197969822695
+[00:29:34]: THREAD - started 'cUnpackModThread' (1856)
+[00:29:34]: DelDirectory [../mods/workshop-462469447] 2: FAILED
+[00:29:34]: cWorkshopMod::UnzipMod ../mods/workshop-462469447
+[00:29:54]: DownloadPublishedFileV2()
+[00:29:54]: OnDownloadPublishedFileResultV2 
+[00:29:54]:    EResult 1, 859477733470501516
+[00:29:54]:    245850, 184347, [mod_publish_data_file.zip], 76561198025931302
+[00:29:54]: THREAD - started 'cUnpackModThread' (4636)
+[00:29:54]: DelDirectory [../mods/workshop-378160973] 2: FAILED
+[00:29:54]: cWorkshopMod::UnzipMod ../mods/workshop-378160973
+[00:31:02]: DownloadPublishedFileV2()
+[00:31:02]: OnDownloadPublishedFileResultV2 
+[00:31:02]:    EResult 1, 226696864092565917
+[00:31:02]:    245850, 268396, [mod_publish_data_file.zip], 76561198097315001
+[00:31:02]: THREAD - started 'cUnpackModThread' (4840)
+[00:31:02]: DelDirectory [../mods/workshop-714735102] 2: FAILED
+[00:31:02]: cWorkshopMod::UnzipMod ../mods/workshop-714735102
+[00:31:34]: DownloadPublishedFileV2()
+[00:31:34]: OnDownloadPublishedFileResultV2 
+[00:31:34]:    EResult 1, 107357223490494217
+[00:31:34]:    245850, 31870, [mod_publish_data_file.zip], 76561198025486794
+[00:31:34]: THREAD - started 'cUnpackModThread' (2616)
+[00:31:34]: DelDirectory [../mods/workshop-375859599] 2: FAILED
+[00:31:34]: cWorkshopMod::UnzipMod ../mods/workshop-375859599
+[00:33:12]: DownloadPublishedFileV2()
+[00:33:12]: OnDownloadPublishedFileResultV2 
+[00:33:12]:    EResult 1, 832455290852058235
+[00:33:12]:    245850, 79702, [mod_publish_data_file.zip], 76561197972487188
+[00:33:12]: THREAD - started 'cUnpackModThread' (3804)
+[00:33:12]: DelDirectory [../mods/workshop-1079538195] 2: FAILED
+[00:33:12]: cWorkshopMod::UnzipMod ../mods/workshop-1079538195
+[00:35:10]: DownloadPublishedFileV2()
+[00:35:10]: OnDownloadPublishedFileResultV2 
+[00:35:10]:    EResult 1, 529544281346802040
+[00:35:10]:    245850, 271856, [mod_publish_data_file.zip], 76561198049829886
+[00:35:10]: THREAD - started 'cUnpackModThread' (4524)
+[00:35:10]: DelDirectory [../mods/workshop-347079953] 2: FAILED
+[00:35:10]: cWorkshopMod::UnzipMod ../mods/workshop-347079953
+[00:35:54]: DownloadPublishedFileV2()
+[00:35:54]: OnDownloadPublishedFileResultV2 
+[00:35:54]:    EResult 1, 267225002014536996
+[00:35:54]:    245850, 104477, [mod_publish_data_file.zip], 76561198075237023
+[00:35:54]: THREAD - started 'cUnpackModThread' (3400)
+[00:35:54]: DelDirectory [../mods/workshop-758532836] 2: FAILED
+[00:35:54]: cWorkshopMod::UnzipMod ../mods/workshop-758532836
+[00:36:27]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:36:27]: Frontend-Unloading mod 'all'.	
+[00:36:27]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:36:27]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:36:27]: FrontendLoadMod	workshop-503919639	
+[00:36:27]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:36:27]: Fontend-Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:36:27]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:36:27]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:27]: FrontendLoadMod	workshop-362175979	
+[00:36:27]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:36:27]: Fontend-Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:36:27]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:36:27]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:32]: FrontendLoadMod	workshop-347079953	
+[00:36:32]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:36:32]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:36:32]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:36:32]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:33]: FrontendLoadMod	workshop-758532836	
+[00:36:33]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:36:33]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:36:33]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:36:33]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:34]: FrontendLoadMod	workshop-378160973	
+[00:36:34]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:36:34]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:36:34]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:36:34]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:36]: FrontendLoadMod	workshop-375859599	
+[00:36:36]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:36:36]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:36:36]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:36:36]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:38]: FrontendLoadMod	workshop-1079538195	
+[00:36:38]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:36:38]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:36:38]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:36:38]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:36:44]: FrontendLoadMod	workshop-345692228	
+[00:36:44]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:36:44]: Fontend-Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:36:44]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:36:44]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:37:17]: FrontendLoadMod	workshop-714735102	
+[00:37:17]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:37:17]: Fontend-Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:37:17]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:37:17]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:38:46]: Frontend-Unloading mod 'all'.	
+[00:43:19]: FrontendLoadMod	workshop-378160973	
+[00:43:19]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:43:19]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:43:19]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:43:19]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:19]: FrontendLoadMod	workshop-375859599	
+[00:43:19]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:43:19]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:43:19]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:43:19]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:20]: FrontendLoadMod	workshop-360770741	
+[00:43:20]: Could not load mod_config_data/modconfiguration_workshop-360770741	
+[00:43:20]: Fontend-Loading mod: workshop-360770741 (Increased Max Players) Version:1.0	
+[00:43:20]: Mod: workshop-360770741 (Increased Max Players)	Loading modworldgenmain.lua	
+[00:43:20]: Mod: workshop-360770741 (Increased Max Players)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:20]: Frontend-Unloading mod 'workshop-360770741'.	
+[00:43:21]: FrontendLoadMod	workshop-1079538195	
+[00:43:21]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:43:21]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:43:21]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:43:21]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:22]: FrontendLoadMod	workshop-362175979	
+[00:43:22]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:43:22]: Fontend-Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:43:22]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:43:22]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:24]: Frontend-Unloading mod 'workshop-378160973'.	
+[00:43:24]: FrontendLoadMod	workshop-378160973	
+[00:43:24]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:43:24]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:43:24]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:43:24]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:26]: FrontendLoadMod	workshop-758532836	
+[00:43:26]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:43:26]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:43:26]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:43:26]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:27]: FrontendLoadMod	workshop-503919639	
+[00:43:27]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:43:27]: Fontend-Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:43:27]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:43:27]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:28]: FrontendLoadMod	workshop-347079953	
+[00:43:28]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:43:28]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:43:28]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:43:28]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:43:49]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:43:49]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:43:49]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:43:49]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:43:49]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:43:49]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:43:49]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:43:49]: Not applying level data overrides.	
+[00:43:49]: Not applying world gen overrides.	
+[00:43:49]: [IPC] Clearing pending signals #00000290...
+[00:43:49]: [IPC] Registering handler for signal #00000290
+[00:43:49]: [IPC] Handle #00000290 added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #0000028C...
+[00:43:49]: [IPC] Registering handler for signal #0000028C
+[00:43:49]: [IPC] Handle #0000028C added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #00000288...
+[00:43:49]: [IPC] Registering handler for signal #00000288
+[00:43:49]: [IPC] Handle #00000288 added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #0000027C...
+[00:43:49]: [IPC] Registering handler for signal #0000027C
+[00:43:49]: [IPC] Handle #0000027C added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #00000280...
+[00:43:49]: [IPC] Registering handler for signal #00000280
+[00:43:49]: [IPC] Handle #00000280 added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #00000284...
+[00:43:49]: [IPC] Clearing pending signals #0000051C...
+[00:43:49]: [IPC] Registering handler for signal #0000051C
+[00:43:49]: [IPC] Handle #0000051C added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #000004FC...
+[00:43:49]: [IPC] Registering handler for signal #000004FC
+[00:43:49]: [IPC] Handle #000004FC added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #0000055C...
+[00:43:49]: [IPC] Registering handler for signal #0000055C
+[00:43:49]: [IPC] Handle #0000055C added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #00000564...
+[00:43:49]: [IPC] Registering handler for signal #00000564
+[00:43:49]: [IPC] Handle #00000564 added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #0000056C...
+[00:43:49]: [IPC] Registering handler for signal #0000056C
+[00:43:49]: [IPC] Handle #0000056C added to the Eventhandles
+[00:43:49]: [IPC] Clearing pending signals #00000568...
+[00:43:54]: [IPC] Received DST_Master Starting signal !
+[00:43:54]: [IPC] Received DST_Slave Starting signal !
+[00:43:55]: [IPC] Received DST_Master WorldGen signal !
+[00:43:55]: [IPC] Received DST_Slave WorldGen signal !
+[00:44:06]: [IPC] Received DST_Master Ready signal !
+[00:44:11]: [IPC] Received DST_Slave Ready signal !
+[00:44:12]: [Connect] Init client connection to 127.0.0.1|10999
+[00:44:12]: [Connect] PendingConnection::Reset(true)
+[00:44:12]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:44:12]: [Connect] InternalInitClient <4449887441949217766>
+[00:44:12]: [Shard] Starting shard mode as player
+[00:44:12]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:44:12]: [Connect] Sending ping(s)...
+[00:44:12]: [Connect] Ping 127.0.0.1|10999
+[00:44:12]: [Connect] Ping response from 127.0.0.1|10999
+[00:44:12]: [Connect] Joining server from ping response...
+[00:44:12]: [Connect] Got join server response from lua
+[00:44:12]: [200] Account Communication Success (13)
+[00:44:12]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:44:12]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:44:12]: Connection accepted to 127.0.0.1|10999 <8680979414738128391>
+[00:44:12]: Network external address discovered: 127.0.0.1|49416
+[00:44:12]: SendClientHandShakePacket "pgs-sing^KU_DHYCXywJ^DontStarveTogether^dyM6Vqh6/EJrDCx/hUDkBGrgIn6SbhSWw5qaFdFfpF4=" to <8680979414738128391>
+[00:44:13]: DeserializeHandShakeServerListing
+[00:44:13]: Network tick rate: U=10(3), D=15
+[00:44:13]: Version: 226323
+[00:44:13]: [Steam] Game Connection initiated
+[00:44:13]: SendClientInventoryHandShakePacket to <8680979414738128391>
+[00:44:14]: Begin Session: 50D874D52D5DBA28
+[00:44:14]: Done Downloading Client Object Data
+[00:44:14]: DownloadMods and temp disable	
+[00:44:14]: We now have the required mods, enable them for server	
+[00:44:14]: Temp Enabling workshop-503919639	
+[00:44:14]: Temp Enabling workshop-347079953	
+[00:44:14]: Temp Enabling workshop-758532836	
+[00:44:14]: Temp Enabling workshop-362175979	
+[00:44:14]: Temp Enabling workshop-378160973	
+[00:44:14]: Temp Enabling workshop-1079538195	
+[00:44:14]: Temp Enabling workshop-375859599	
+[00:44:14]: ModIndex:SetTempModConfigData	
+[00:44:14]: Setting temp mod config for mod 	workshop-503919639	
+[00:44:14]: Setting temp mod config for mod 	workshop-758532836	
+[00:44:14]: Setting temp mod config for mod 	workshop-362175979	
+[00:44:14]: Setting temp mod config for mod 	workshop-378160973	
+[00:44:14]: Setting temp mod config for mod 	workshop-1079538195	
+[00:44:14]: Setting temp mod config for mod 	workshop-347079953	
+[00:44:14]: Setting temp mod config for mod 	workshop-375859599	
+[00:44:14]: Mods are setup for server, save the mod index and proceed.	
+[00:44:14]: Downloading [1] From: server_temp
+[00:44:15]: 1 (39%) 1/1 server_temp\server_save 114000b / 289179b
+[00:44:15]: 1 (78%) 1/1 server_temp\server_save 228000b / 289179b
+[00:44:15]: 1 (100%) 1/1 server_temp\server_save 289179b / 289179b
+[00:44:15]: Download complete[1] Files: 1 Size: 289179
+[00:44:17]: unloading prefabs for mod MOD_workshop-609429306	
+[00:44:17]: unloading prefabs for mod MOD_workshop-604196908	
+[00:44:17]: Collecting garbage...
+[00:44:17]: lua_gc took 0.02 seconds
+[00:44:17]: ~ShardLuaProxy()
+[00:44:17]: ~ItemServerLuaProxy()
+[00:44:17]: ~InventoryLuaProxy()
+[00:44:17]: ~NetworkLuaProxy()
+[00:44:17]: ~SimLuaProxy()
+[00:44:17]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:44:17]: lua_close took 0.03 seconds
+[00:44:17]: ReleaseAll
+[00:44:17]: ReleaseAll Finished
+[00:44:17]: cGame::StartPlaying
+[00:44:17]: LOADING LUA
+[00:44:17]: DoLuaFile scripts/main.lua
+[00:44:17]: DoLuaFile loading buffer scripts/main.lua
+[00:44:17]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:44:17]: running main.lua
+	
+[00:44:17]: loaded modindex	
+[00:44:17]: ModIndex: Beginning normal load sequence.
+	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-503919639	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:44:17]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:44:17]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:44:17]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:44:17]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:44:17]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:44:17]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-503919639_CLIENT	
+[00:44:17]: Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:44:17]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:44:17]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.3 (Old API! (mod: 4 game: 10) )	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:44:17]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:44:17]: Could not load mod_config_data/modconfiguration_workshop-758532836_CLIENT	
+[00:44:17]: Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:44:17]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-758532836 (Global Pause)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:44:17]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:44:17]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:44:17]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:44:17]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:44:17]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:44:17]: ../mods/workshop-609429306//language.lua font installed.	
+[00:44:17]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:44:17]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:44:17]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:44:17]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-503919639	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:44:17]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:44:17]: LOADING LUA SUCCESS
+[00:44:17]: Registering mod namespace "globalpause"
+[00:44:17]: Registering mod namespace "workshop-378160973"
+[00:44:17]: Registering mod namespace "food item"
+[00:44:17]: PlayerDeaths loaded morgue	129	
+[00:44:17]: PlayerHistory loaded player_history	287	
+[00:44:17]: bloom_enabled	false	
+[00:44:17]: loaded saveindex	
+[00:44:17]: OnFilesLoaded()	
+[00:44:17]: OnUpdatePurchaseStateComplete	
+[00:44:17]: 	Unload FE	
+[00:44:17]: 	Unload FE done	
+[00:44:18]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:44:18]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:44:18]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:44:18]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:44:18]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:44:18]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:44:18]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:44:18]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:44:18]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[00:44:18]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[00:44:18]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[00:44:18]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[00:44:18]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:44:18]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-503919639 (DST Equipment Switcher)	Registering prefabs	
+[00:44:18]: Mod: workshop-503919639 (DST Equipment Switcher)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:44:18]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:44:18]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:44:19]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:44:19]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:44:19]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:44:19]: 	LOAD BE	
+[00:44:20]: 	LOAD BE: done	
+[00:44:21]: Loading world: client_temp/server_save	
+[00:44:21]: Save file is at version 4.77	
+[00:44:21]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-714735102/images/flagmini.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:44:21]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:44:21]: Loading Nav Grid	
+[00:44:21]: Reconstructing topology	
+[00:44:21]: 	...Sorting points	
+[00:44:21]: 	...Sorting edges	
+[00:44:21]: 	...Connecting nodes	
+[00:44:21]: 	...Validating connections	
+[00:44:21]: 	...Housekeeping	
+[00:44:21]: 	...Done!	
+[00:44:21]: ModIndex: Load sequence finished successfully.	
+[00:44:22]: Reset() returning
+[00:44:22]: Attempting to send resume request
+[00:44:22]: ReceiveResumeNotification
+[00:44:22]: Deleting user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[00:44:53]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:45:06]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:45:14]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:45:24]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:45:32]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:45:45]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:45:56]: Could not find anim [emoteXL_waving2] in bank [FROMNUM]
+[00:46:06]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:46:17]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:46:43]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:47:00]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:47:11]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:47:17]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:47:23]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:47:31]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:48:04]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:48:10]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[00:48:13]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[00:48:16]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[00:48:19]: Could not find anim [emote_pants] in bank [FROMNUM]
+[00:48:23]: Could not find anim [emote_pants] in bank [FROMNUM]
+[00:48:26]: Could not find anim [emote_feet] in bank [FROMNUM]
+[00:48:30]: Could not find anim [emote_hands] in bank [FROMNUM]
+[00:48:32]: Movement prediction enabled	
+[00:48:32]: Deserializing tile data (425 x 425)
+[00:49:44]: SendRemoteExecute(GPTogglePause())
+[00:53:09]: SendRemoteExecute(GPTogglePause())
+[00:53:09]: OnGPUnpause	
+[00:54:15]: [200] Account Communication Success (6)
+[00:54:15]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:55:08]: [waypoint] moving to 35.199893951416, 0, 165.48138427734	
+[00:59:58]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:07:58]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:15:58]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:23:58]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:24:15]: [200] Account Communication Success (6)
+[01:24:15]: Received (KU_DHYCXywJ) from TokenPurpose
+[01:31:59]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:39:59]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:47:59]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[01:54:16]: [200] Account Communication Success (6)
+[01:54:16]: Received (KU_DHYCXywJ) from TokenPurpose
+[01:55:45]: [waypoint] moving to 247.48651123047, -5.3342716910265e-009, 352.83847045898	
+[01:55:59]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[02:01:40]: SendRemoteExecute(GPTogglePause())
+[02:07:48]: DoRestart:	true	
+[02:07:49]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000001
+[02:07:49]: [Steam] Game Connection terminated (16777343|10999)
+[02:07:49]: [Shard] Stopping shard mode
+[02:07:49]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:07:49]: [IPC] Sending signal... #00000284
+[02:07:50]: [IPC] Unregistering handler for signal #00000290
+[02:07:50]: [IPC] Unregistering handler for signal #0000028C
+[02:07:50]: [IPC] Unregistering handler for signal #00000288
+[02:07:50]: [IPC] Unregistering handler for signal #0000027C
+[02:07:50]: [IPC] Unregistering handler for signal #00000280
+[02:07:50]: [IPC] Sending signal... #00000568
+[02:07:51]: [IPC] Unregistering handler for signal #0000051C
+[02:07:51]: [IPC] Unregistering handler for signal #000004FC
+[02:07:51]: [IPC] Unregistering handler for signal #0000055C
+[02:07:51]: [IPC] Unregistering handler for signal #00000564
+[02:07:51]: [IPC] Unregistering handler for signal #0000056C
+[02:07:51]: unloading prefabs for mod MOD_workshop-758532836	
+[02:07:51]: unloading prefabs for mod MOD_workshop-347079953	
+[02:07:51]: unloading prefabs for mod MOD_workshop-375859599	
+[02:07:51]: unloading prefabs for mod MOD_workshop-362175979	
+[02:07:51]: unloading prefabs for mod MOD_workshop-714735102	
+[02:07:51]: unloading prefabs for mod MOD_workshop-609429306	
+[02:07:51]: unloading prefabs for mod MOD_workshop-1079538195	
+[02:07:51]: unloading prefabs for mod MOD_workshop-345692228	
+[02:07:51]: unloading prefabs for mod MOD_workshop-503919639	
+[02:07:51]: unloading prefabs for mod MOD_workshop-604196908	
+[02:07:51]: unloading prefabs for mod MOD_workshop-378160973	
+[02:07:51]: Collecting garbage...
+[02:07:51]: lua_gc took 0.04 seconds
+[02:07:51]: ~ShardLuaProxy()
+[02:07:51]: ~ItemServerLuaProxy()
+[02:07:51]: ~InventoryLuaProxy()
+[02:07:51]: ~NetworkLuaProxy()
+[02:07:51]: ~SimLuaProxy()
+[02:07:51]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:07:51]: lua_close took 0.05 seconds
+[02:07:51]: ReleaseAll
+[02:07:51]: ReleaseAll Finished
+[02:07:51]: cGame::StartPlaying
+[02:07:51]: LOADING LUA
+[02:07:51]: DoLuaFile scripts/main.lua
+[02:07:51]: DoLuaFile loading buffer scripts/main.lua
+[02:07:51]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[02:07:52]: running main.lua
+	
+[02:07:52]: loaded modindex	
+[02:07:52]: ModIndex: Beginning normal load sequence.
+	
+[02:07:52]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[02:07:52]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[02:07:52]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[02:07:52]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[02:07:52]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[02:07:52]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[02:07:52]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[02:07:52]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[02:07:52]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[02:07:52]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.3 (Old API! (mod: 4 game: 10) )	
+[02:07:52]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[02:07:52]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[02:07:52]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[02:07:52]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:07:52]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[02:07:52]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[02:07:52]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[02:07:52]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:07:52]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[02:07:52]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[02:07:52]: ../mods/workshop-609429306//language.lua font installed.	
+[02:07:52]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[02:07:52]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:07:52]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[02:07:52]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[02:07:52]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[02:07:52]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[02:07:52]: LOADING LUA SUCCESS
+[02:07:52]: PlayerDeaths loaded morgue	129	
+[02:07:52]: PlayerHistory loaded player_history	328	
+[02:07:52]: bloom_enabled	false	
+[02:07:52]: loaded saveindex	
+[02:07:52]: OnFilesLoaded()	
+[02:07:52]: OnUpdatePurchaseStateComplete	
+[02:07:52]: 	Unload BE	
+[02:07:52]: 	Unload BE done	
+[02:07:52]: Could not unload undefined prefab 0xa796fa (minotaurchest)
+[02:07:52]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[02:07:52]: Could not unload undefined prefab 0x399804b (hat_chester_costume)
+[02:07:52]: Could not unload undefined prefab 0xc01796b (corn_seeds)
+[02:07:52]: Could not unload undefined prefab 0xb1e7b61 (dragonfruit)
+[02:07:52]: Could not unload undefined prefab 0x71127e3 (carrot_cooked)
+[02:07:52]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[02:07:52]: Could not unload undefined prefab 0x1765df93 (monkey)
+[02:07:52]: Could not unload undefined prefab 0x13c2a611 (gridplacer)
+[02:07:52]: Could not unload undefined prefab 0x162c669d (marble)
+[02:07:52]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[02:07:52]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[02:07:52]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[02:07:52]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[02:07:52]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[02:07:52]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[02:07:52]: Could not unload undefined prefab 0x184178b (meat)
+[02:07:52]: Could not unload undefined prefab 0x2cf27a76 (bishop_charge)
+[02:07:52]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[02:07:52]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[02:07:52]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[02:07:52]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[02:07:52]: Could not unload undefined prefab 0x1d19e671 (chessjunk_spawner)
+[02:07:52]: Could not unload undefined prefab 0x55862b48 (stalker_minion1)
+[02:07:52]: Could not unload undefined prefab 0x55862b49 (stalker_minion2)
+[02:07:52]: Could not unload undefined prefab 0x184178b (meat)
+[02:07:52]: Could not unload undefined prefab 0xd84f8ee (minotaurchestspawner)
+[02:07:52]: Could not unload undefined prefab 0x4c79e836 (atrium_key_icon)
+[02:07:52]: Could not unload undefined prefab 0x318ff1b0 (minotaur_spawner)
+[02:07:52]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[02:07:52]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[02:07:52]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[02:07:52]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[02:07:52]: Could not unload undefined prefab 0x4790f393 (deciduoustree)
+[02:07:52]: Could not unload undefined prefab 0x203935e6 (shadowheart)
+[02:07:52]: Could not unload undefined prefab 0x1fa19f1a (fossilspike)
+[02:07:52]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[02:07:52]: Could not unload undefined prefab 0x10c53670 (stalker_forest)
+[02:07:52]: Could not unload undefined prefab 0x1fa19f1a (fossilspike)
+[02:07:52]: Could not unload undefined prefab 0x67e02798 (fossilspike2)
+[02:07:52]: Could not unload undefined prefab 0x351e1215 (stalker_shield1)
+[02:07:52]: Could not unload undefined prefab 0x351e1216 (stalker_shield2)
+[02:07:52]: Could not unload undefined prefab 0x351e1217 (stalker_shield3)
+[02:07:52]: Could not unload undefined prefab 0x351e1218 (stalker_shield4)
+[02:07:52]: Could not unload undefined prefab 0x5c4a9f29 (stalker_minion)
+[02:07:52]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[02:07:52]: Could not unload undefined prefab 0x41fa4c33 (thurible_smoke)
+[02:07:52]: Could not unload undefined prefab 0x2ffe1998 (flower_evil)
+[02:07:52]: Could not unload undefined prefab 0x24c01fd0 (planted_flower)
+[02:07:52]: Could not unload undefined prefab 0x39eb2c81 (ancient_altar_broken)
+[02:07:52]: Could not unload undefined prefab 0x107f3fc2 (seeds)
+[02:07:52]: Could not unload undefined prefab 0x6d529a32 (smallmeat)
+[02:07:52]: Could not unload undefined prefab 0x39d1762b (cookedsmallmeat)
+[02:07:52]: Could not unload undefined prefab 0x39ecf974 (cutgrass)
+[02:07:52]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[02:07:52]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[02:07:52]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[02:07:52]: Could not unload undefined prefab 0x427b5b39 (shatter)
+[02:07:52]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[02:07:52]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[02:07:52]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[02:07:52]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x184178b (meat)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x1078732c (character_fire)
+[02:07:52]: Could not unload undefined prefab 0x184178b (meat)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x1078732c (character_fire)
+[02:07:52]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[02:07:52]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[02:07:52]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[02:07:52]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[02:07:52]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[02:07:52]: Could not unload undefined prefab 0x57d6a669 (petrified_tree_fx_short)
+[02:07:52]: Could not unload undefined prefab 0x39dfc71a (petrified_tree_fx_normal)
+[02:07:52]: Could not unload undefined prefab 0x15e8f040 (petrified_tree_fx_tall)
+[02:07:52]: Could not unload undefined prefab 0xb14e9054 (petrified_tree_fx_old)
+[02:07:52]: Could not unload undefined prefab 0x47f35864 (petrified_trunk_break_fx)
+[02:07:52]: Could not unload undefined prefab 0xb50c4e4c (pinecone_sapling)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[02:07:52]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[02:07:52]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[02:07:52]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[02:07:52]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[02:07:52]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[02:07:52]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[02:07:52]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[02:07:52]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[02:07:52]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[02:07:52]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[02:07:52]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[02:07:52]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[02:07:52]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[02:07:52]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[02:07:52]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[02:07:52]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[02:07:52]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[02:07:52]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[02:07:52]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[02:07:52]: Could not unload undefined prefab 0x2e54b535 (cane)
+[02:07:52]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[02:07:52]: Could not unload undefined prefab 0x303eb17b (strawhat_floppy)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[02:07:52]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[02:07:52]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0xed18eed (spore_small)
+[02:07:52]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[02:07:52]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[02:07:52]: Could not unload undefined prefab 0x79922e (cane_ancient_fx1)
+[02:07:52]: Could not unload undefined prefab 0x79922f (cane_ancient_fx2)
+[02:07:52]: Could not unload undefined prefab 0x799230 (cane_ancient_fx3)
+[02:07:52]: Could not unload undefined prefab 0x3532833e (minisign_item)
+[02:07:52]: Could not unload undefined prefab 0x65eb274a (petals_evil)
+[02:07:52]: Could not unload undefined prefab 0x359da624 (log)
+[02:07:52]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[02:07:52]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[02:07:52]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[02:07:52]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[02:07:52]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[02:07:52]: Could not unload undefined prefab 0xbc5dcbd5 (poopcloud)
+[02:07:52]: Could not unload undefined prefab 0x2cf27a76 (bishop_charge)
+[02:07:52]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[02:07:52]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[02:07:52]: Could not unload undefined prefab 0xc6739a73 (thulecite_pieces)
+[02:07:52]: Could not unload undefined prefab 0x96bf006 (bishop_nightmare_spawner)
+[02:07:52]: Could not unload undefined prefab 0xc2911ec3 (cane_ancient_fx)
+[02:07:52]: Could not unload undefined prefab 0x42a4d2ca (shadow_puff_large_front)
+[02:07:52]: Could not unload undefined prefab 0xc7cceaa6 (shadow_puff_large_back)
+[02:07:52]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[02:07:52]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[02:07:52]: Could not unload undefined prefab 0xc5912515 (gargoyle_werepighowl_fx)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[02:07:52]: Could not unload undefined prefab 0x674707c2 (acorn_sapling)
+[02:07:52]: Could not unload undefined prefab 0x7e58aebd (acorn_cooked)
+[02:07:52]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[02:07:52]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[02:07:52]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[02:07:52]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[02:07:52]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[02:07:52]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[02:07:52]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[02:07:52]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[02:07:52]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[02:07:52]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[02:07:52]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[02:07:52]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[02:07:52]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[02:07:52]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[02:07:52]: Could not unload undefined prefab 0xc49ee298 (green_leaves)
+[02:07:52]: Could not unload undefined prefab 0x7132400a (red_leaves)
+[02:07:52]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[02:07:52]: Could not unload undefined prefab 0x5a4e2f2d (orange_leaves)
+[02:07:52]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[02:07:52]: Could not unload undefined prefab 0xc3289d07 (yellow_leaves)
+[02:07:52]: Could not unload undefined prefab 0x6831af1e (yellow_leaves_chop)
+[02:07:52]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[02:07:52]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[02:07:52]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[02:07:52]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[02:07:52]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[02:07:52]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[02:07:52]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[02:07:52]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[02:07:52]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[02:07:52]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[02:07:52]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[02:07:52]: Could not unload undefined prefab 0x2e54b535 (cane)
+[02:07:52]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[02:07:52]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[02:07:52]: Could not unload undefined prefab 0x97bd555d (gargoyle_hounddeath)
+[02:07:52]: Could not unload undefined prefab 0x956d0cc5 (monstermeat)
+[02:07:52]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[02:07:52]: Could not unload undefined prefab 0x2c345110 (gargoyle_houndatk_fx)
+[02:07:52]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[02:07:52]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[02:07:52]: Could not unload undefined prefab 0xb0a48afd (gargoyle_werepigdeath_fx)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0xa94d6852 (gift_unwrap)
+[02:07:52]: Could not unload undefined prefab 0xc2b7de33 (ancient_altar)
+[02:07:52]: Could not unload undefined prefab 0x92132840 (poop)
+[02:07:52]: Could not unload undefined prefab 0xb430ba46 (splash_ocean)
+[02:07:52]: Could not unload undefined prefab 0xec8853ad (charcoal)
+[02:07:52]: Could not unload undefined prefab 0x3036fc96 (ash)
+[02:07:52]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[02:07:52]: Could not unload undefined prefab 0xec587250 (gift)
+[02:07:52]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[02:07:52]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[02:07:52]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[02:07:52]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[02:07:52]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[02:07:52]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[02:07:52]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[02:07:52]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[02:07:52]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[02:07:52]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[02:07:52]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[02:07:52]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[02:07:52]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[02:07:52]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[02:07:52]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[02:07:52]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[02:07:52]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[02:07:52]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[02:07:52]: Could not unload undefined prefab 0xf07d70f5 (bluegem)
+[02:07:52]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[02:07:52]: Could not unload undefined prefab 0xe5306269 (flint)
+[02:07:52]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[02:07:52]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[02:07:52]: Could not unload undefined prefab 0xdf809124 (gears)
+[02:07:52]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[02:07:52]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[02:07:52]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[02:07:52]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[02:07:52]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[02:07:52]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[02:07:52]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[02:07:52]: Could not unload undefined prefab 0xe6af29d2 (compass)
+[02:07:52]: Could not unload undefined prefab 0xec43b9f4 (sewing_kit)
+[02:07:52]: Could not unload undefined prefab 0xf0330963 (panflute)
+[02:07:52]: Could not unload undefined prefab 0x2e54b535 (cane)
+[02:07:52]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[02:07:52]: Could not unload undefined prefab 0xe609bac6 (batwing_cooked)
+[02:07:52]: Could not unload undefined prefab 0x4f30b406 (meat_dried)
+[02:07:52]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[02:07:53]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[02:07:53]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[02:07:53]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[02:07:53]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[02:07:53]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[02:07:53]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[02:07:53]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[02:07:53]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[02:07:53]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[02:07:53]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[02:07:53]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[02:07:53]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[02:07:53]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[02:07:53]: 	Load FE	
+[02:07:53]: 	Load FE: done	
+[02:07:53]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[02:07:53]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[02:07:53]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[02:07:53]: SimLuaProxy::QueryServer()
+[02:07:53]: ModIndex: Load sequence finished successfully.	
+[02:07:53]: Reset() returning
+[02:14:15]: unloading prefabs for mod MOD_workshop-714735102	
+[02:14:15]: unloading prefabs for mod MOD_workshop-609429306	
+[02:14:15]: unloading prefabs for mod MOD_workshop-345692228	
+[02:14:15]: unloading prefabs for mod MOD_workshop-604196908	
+[02:14:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:14:15]: Collecting garbage...
+[02:14:15]: lua_gc took 0.02 seconds
+[02:14:15]: ~ShardLuaProxy()
+[02:14:15]: ~ItemServerLuaProxy()
+[02:14:15]: ~InventoryLuaProxy()
+[02:14:15]: ~NetworkLuaProxy()
+[02:14:15]: ~SimLuaProxy()
+[02:14:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:14:15]: lua_close took 0.03 seconds
+[02:14:15]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:14:15]: [Steam] Auth ticket cancelled
+[02:14:15]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:14:15]: anim/armor_sanity.zip - 2
+[02:14:15]: anim/batwing.zip - 10
+[02:14:15]: anim/structure_collapse_fx.zip - 4
+[02:14:15]: anim/splash_ocean.zip - 2
+[02:14:15]: anim/gems.zip - 12
+[02:14:15]: anim/pig_build.zip - 2
+[02:14:15]: anim/amulets.zip - 12
+[02:14:15]: anim/tree_leaf_fx_orange.zip - 2
+[02:14:15]: anim/ds_spider_basic.zip - 4
+[02:14:15]: anim/meat.zip - 10
+[02:14:15]: anim/blueprint_sketch.zip - 6
+[02:14:15]: anim/trinkets.zip - 74
+[02:14:15]: anim/flowers_evil.zip - 2
+[02:14:15]: anim/kiki_nightmare_skin.zip - 2
+[02:14:15]: anim/statue_ruins_small.zip - 8
+[02:14:15]: anim/bishop_attack.zip - 2
+[02:14:15]: anim/hat_mole.zip - 2
+[02:14:15]: anim/ds_pig_actions.zip - 2
+[02:14:15]: anim/reticule.zip - 2
+[02:14:15]: anim/statue_ruins.zip - 8
+[02:14:15]: anim/ds_spider2_caves.zip - 2
+[02:14:15]: anim/gears.zip - 2
+[02:14:15]: anim/meat_human.zip - 10
+[02:14:15]: anim/pig_guard_build.zip - 2
+[02:14:15]: anim/wilsonstatue.zip - 2
+[02:14:15]: anim/statue_ruins_small_gem.zip - 8
+[02:14:15]: anim/flowers.zip - 2
+[02:14:15]: anim/flower_petals_evil.zip - 2
+[02:14:15]: anim/swap_staffs.zip - 12
+[02:14:15]: anim/armor_slurtleshell.zip - 2
+[02:14:15]: anim/star_hot.zip - 2
+[02:14:15]: anim/cutgrass.zip - 2
+[02:14:15]: anim/spoiled_food.zip - 2
+[02:14:15]: anim/ds_spider_caves.zip - 2
+[02:14:15]: anim/swap_cane.zip - 2
+[02:14:15]: anim/tentacle_arm.zip - 2
+[02:14:15]: anim/pigspotted_build.zip - 2
+[02:14:15]: anim/nightmarefuel.zip - 2
+[02:14:15]: anim/moonrock_nugget.zip - 2
+[02:14:15]: anim/shadow_insanity1_basic.zip - 2
+[02:14:15]: anim/staffs.zip - 12
+[02:14:15]: anim/log.zip - 2
+[02:14:15]: anim/smoke_puff_small.zip - 2
+[02:14:15]: anim/ds_pig_basic.zip - 2
+[02:14:15]: anim/armor_marble.zip - 2
+[02:14:15]: anim/werepig_build.zip - 2
+[02:14:15]: anim/fire_large_character.zip - 2
+[02:14:15]: anim/poop.zip - 2
+[02:14:15]: anim/cane.zip - 2
+[02:14:15]: anim/tentacle_arm_build.zip - 2
+[02:14:15]: anim/fossil_spike.zip - 2
+[02:14:15]: anim/ds_pig_attacks.zip - 2
+[02:14:15]: anim/werepig_basic.zip - 2
+[02:14:15]: anim/poop_cloud.zip - 2
+[02:14:15]: anim/torso_amulets.zip - 12
+[02:14:15]: anim/meat_small.zip - 10
+[02:14:15]: anim/hat_winter.zip - 2
+[02:14:15]: anim/kiki_build.zip - 2
+[02:14:15]: anim/twiggy_nut.zip - 2
+[02:14:15]: anim/spider_gland.zip - 2
+[02:14:15]: anim/meat_rack_food.zip - 10
+[02:14:15]: anim/hat_catcoon.zip - 2
+[02:14:15]: anim/die.zip - 2
+[02:14:15]: anim/werepig_actions.zip - 2
+[02:14:15]: anim/plant_meat.zip - 10
+[02:14:15]: anim/tree_leaf_fx_red.zip - 2
+[02:14:15]: anim/spider_spit.zip - 2
+[02:14:15]: anim/winter_ornaments.zip - 62
+[02:14:15]: anim/drumstick.zip - 10
+[02:14:15]: anim/hat_walrus.zip - 2
+[02:14:15]: anim/nitre.zip - 2
+[02:14:15]: anim/kiki_basic.zip - 2
+[02:14:15]: anim/charcoal.zip - 2
+[02:14:15]: anim/bat_basic.zip - 2
+[02:14:15]: anim/mushrooms.zip - 6
+[02:14:15]: anim/mandrake.zip - 2
+[02:14:15]: anim/statue_ruins_gem.zip - 8
+[02:14:15]: anim/thulecite.zip - 2
+[02:14:15]: anim/shadow_insanity2_basic.zip - 2
+[02:14:15]: anim/statue_ruins_fx.zip - 2
+[02:14:15]: anim/ash.zip - 2
+[02:14:15]: anim/silk.zip - 2
+[02:14:15]: anim/hat_beefalo.zip - 2
+[02:14:15]: anim/marble.zip - 2
+[02:14:15]: anim/crafting_table.zip - 4
+[02:14:15]: anim/meat_monster.zip - 10
+[02:14:15]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:14:15]: shaders/ui_yuv.ksh - 1
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[02:14:15]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:14:15]: anim/ds_spider_caves.zip:DS_spider_caves--atlas-0.tex - 1
+[02:14:15]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[02:14:15]: anim/kiki_basic.zip:kiki_basic--atlas-0.tex - 1
+[02:14:15]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[02:14:15]: anim/fire_large_character.zip:fire_large_character--atlas-0.tex - 1
+[02:14:15]: anim/hat_winter.zip:hat_winter--atlas-0.tex - 1
+[02:14:15]: anim/nitre.zip:nitre--atlas-0.tex - 1
+[02:14:15]: anim/tree_leaf_fx_red.zip:tree_leaf_fx_red--atlas-0.tex - 1
+[02:14:15]: anim/fossil_spike.zip:fossil_spike--atlas-0.tex - 1
+[02:14:15]: anim/werepig_build.zip:werepig_build--atlas-0.tex - 1
+[02:14:15]: anim/bat_basic.zip:bat_basic--atlas-0.tex - 1
+[02:14:15]: anim/gems.zip:gems--atlas-0.tex - 1
+[02:14:15]: anim/hat_catcoon.zip:hat_catcoon--atlas-0.tex - 1
+[02:14:15]: anim/kiki_nightmare_skin.zip:kiki_nightmare_skin--atlas-0.tex - 1
+[02:14:15]: anim/meat_rack_food.zip:meat_rack_food--atlas-0.tex - 1
+[02:14:15]: anim/moonrock_nugget.zip:moonrock_nugget--atlas-0.tex - 1
+[02:14:15]: anim/pig_guard_build.zip:pig_guard_build--atlas-0.tex - 1
+[02:14:15]: anim/flowers_evil.zip:flowers_evil--atlas-0.tex - 1
+[02:14:15]: anim/amulets.zip:amulets--atlas-0.tex - 1
+[02:14:15]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[02:14:15]: anim/staffs.zip:staffs--atlas-0.tex - 1
+[02:14:15]: anim/swap_cane.zip:swap_cane--atlas-0.tex - 1
+[02:14:15]: anim/ash.zip:ash--atlas-0.tex - 1
+[02:14:15]: anim/fire_large_character.zip:fire_large_character--atlas-1.tex - 1
+[02:14:15]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[02:14:15]: anim/armor_slurtleshell.zip:armor_slurtleshell--atlas-0.tex - 1
+[02:14:15]: anim/pig_build.zip:pig_build--atlas-0.tex - 1
+[02:14:15]: anim/hat_beefalo.zip:hat_beefalo--atlas-0.tex - 1
+[02:14:15]: anim/meat_human.zip:meat_human--atlas-0.tex - 1
+[02:14:15]: anim/meat_small.zip:meat_small--atlas-0.tex - 1
+[02:14:15]: anim/shadow_insanity1_basic.zip:shadow_insanity1_basic--atlas-0.tex - 1
+[02:14:15]: anim/wilsonstatue.zip:wilsonstatue--atlas-0.tex - 1
+[02:14:15]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[02:14:15]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[02:14:15]: anim/shadow_insanity2_basic.zip:shadow_insanity2_basic--atlas-0.tex - 1
+[02:14:15]: anim/tree_leaf_fx_orange.zip:tree_leaf_fx_orange--atlas-0.tex - 1
+[02:14:15]: anim/flower_petals_evil.zip:flower_petals_evil--atlas-0.tex - 1
+[02:14:15]: anim/spider_gland.zip:spider_gland--atlas-0.tex - 1
+[02:14:15]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[02:14:15]: anim/hat_mole.zip:hat_mole--atlas-0.tex - 1
+[02:14:15]: anim/star_hot.zip:star_hot--atlas-0.tex - 1
+[02:14:15]: anim/charcoal.zip:charcoal--atlas-0.tex - 1
+[02:14:15]: anim/flowers.zip:flowers--atlas-0.tex - 1
+[02:14:15]: anim/ds_spider2_caves.zip:DS_spider2_caves--atlas-0.tex - 1
+[02:14:15]: anim/cutgrass.zip:cutgrass--atlas-0.tex - 1
+[02:14:15]: anim/drumstick.zip:drumstick--atlas-0.tex - 1
+[02:14:15]: anim/poop.zip:poop--atlas-0.tex - 1
+[02:14:15]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[02:14:15]: anim/trinkets.zip:trinkets--atlas-0.tex - 1
+[02:14:15]: anim/meat.zip:meat--atlas-0.tex - 1
+[02:14:15]: anim/swap_staffs.zip:swap_staffs--atlas-0.tex - 1
+[02:14:15]: anim/poop_cloud.zip:poop_cloud--atlas-0.tex - 1
+[02:14:15]: anim/splash_ocean.zip:splash_ocean--atlas-0.tex - 1
+[02:14:15]: anim/pigspotted_build.zip:pigspotted_build--atlas-0.tex - 1
+[02:14:15]: anim/marble.zip:marble--atlas-0.tex - 1
+[02:14:15]: anim/batwing.zip:batwing--atlas-0.tex - 1
+[02:14:15]: anim/spider_spit.zip:spider_spit--atlas-0.tex - 1
+[02:14:15]: anim/shadow_insanity1_basic.zip:shadow_insanity1_basic--atlas-1.tex - 1
+[02:14:15]: anim/mushrooms.zip:mushrooms--atlas-0.tex - 1
+[02:14:15]: anim/log.zip:log--atlas-0.tex - 1
+[02:14:15]: anim/smoke_puff_small.zip:smoke_puff_small--atlas-0.tex - 1
+[02:14:15]: anim/plant_meat.zip:plant_meat--atlas-0.tex - 1
+[02:14:15]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[02:14:15]: anim/silk.zip:silk--atlas-0.tex - 1
+[02:14:15]: anim/hat_walrus.zip:hat_walrus--atlas-0.tex - 1
+[02:14:15]: anim/mandrake.zip:mandrake--atlas-0.tex - 1
+[02:14:15]: anim/armor_sanity.zip:armor_sanity--atlas-0.tex - 1
+[02:14:15]: anim/armor_marble.zip:armor_marble--atlas-0.tex - 1
+[02:14:15]: anim/bishop_attack.zip:bishop_attack--atlas-0.tex - 1
+[02:14:15]: anim/blueprint_sketch.zip:blueprint_sketch--atlas-0.tex - 1
+[02:14:15]: anim/crafting_table.zip:crafting_table--atlas-0.tex - 1
+[02:14:15]: anim/torso_amulets.zip:torso_amulets--atlas-0.tex - 1
+[02:14:15]: anim/gears.zip:gears--atlas-0.tex - 1
+[02:14:15]: anim/die.zip:die--atlas-0.tex - 1
+[02:14:15]: anim/winter_ornaments.zip:winter_ornaments--atlas-0.tex - 1
+[02:14:15]: anim/tentacle_arm_build.zip:tentacle_arm_build--atlas-0.tex - 1
+[02:14:15]: anim/reticule.zip:reticule--atlas-0.tex - 1
+[02:14:15]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[02:14:15]: anim/batwing.zip:batwing--atlas-1.tex - 1
+[02:14:15]: anim/meat_monster.zip:meat_monster--atlas-0.tex - 1
+[02:14:15]: anim/twiggy_nut.zip:twiggy_nut--atlas-0.tex - 1
+[02:14:15]: CurlRequestManager::ClientThread::Main() complete
+[02:14:15]: HttpClient2 discarded 0 callbacks.
+[02:14:15]: Shutting down
