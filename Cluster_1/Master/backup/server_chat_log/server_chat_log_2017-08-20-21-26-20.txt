@@ -1,0 +1,15 @@
+[00:00:47]: [Join Announcement] whatsupdude
+[00:01:45]: [Join Announcement] JeiHang
+[00:01:54]: [Join Announcement] 41205mw
+[00:01:54]: [Join Announcement] billy0719888
+[00:02:10]: [Join Announcement] Gentleman
+[00:10:38]: [Skin Announcement] whatsupdude body_buttons_pink_hibiscus
+[00:10:56]: [Death Announcement] billy0719888 死亡，因為： 海象爸爸。她成了一個令人毛骨悚然的鬼！
+[00:16:52]: [Resurrect Announcement] billy0719888 復活自 臨時傳送門.
+[00:19:22]: [Death Announcement] Gentleman 死亡，因為： 海象爸爸。他變成一個毛骨悚然的鬼！
+[00:19:35]: [Death Announcement] billy0719888 死亡，因為： 凍結。她成了一個令人毛骨悚然的鬼！
+[00:23:44]: [Leave Announcement] whatsupdude
+[00:23:45]: [Leave Announcement] billy0719888
+[00:23:45]: [Leave Announcement] JeiHang
+[00:23:45]: [Leave Announcement] 41205mw
+[00:23:45]: [Leave Announcement] Gentleman

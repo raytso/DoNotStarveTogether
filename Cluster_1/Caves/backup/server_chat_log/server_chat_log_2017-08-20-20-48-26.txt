@@ -1,0 +1,18 @@
+[00:00:40]: [Join Announcement] whatsupdude
+[00:01:43]: [Join Announcement] JeiHang
+[00:01:43]: [Join Announcement] 41205mw
+[00:02:12]: [Join Announcement] Gentleman
+[00:03:02]: [Join Announcement] billy0719888
+[00:29:29]: [Death Announcement] 41205mw 死亡，因為： 浣熊貓。他變成一個毛骨悚然的鬼！
+[00:30:48]: [Skin Announcement] whatsupdude body_sweatervest_brown_beaver
+[00:33:55]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
+[00:41:38]: [Skin Announcement] JeiHang body_silk_eveningrobe_blue_frost
+[00:55:12]: [Death Announcement] Gentleman 死亡，因為： 豬人。他變成一個毛骨悚然的鬼！
+[01:02:37]: [Leave Announcement] Gentleman
+[01:05:56]: [Join Announcement] Gentleman
+[01:09:24]: [Resurrect Announcement] Gentleman 復活自 臨時傳送門.
+[01:18:17]: [Skin Announcement] 41205mw body_wendy_shadow
+[01:33:02]: [Skin Announcement] JeiHang body_flannel_green_napier
+[02:01:32]: [Skin Announcement] 41205mw body_sweatervest_brown_beaver
+[02:42:18]: [Death Announcement] Gentleman 死亡，因為： 火獵犬。他變成一個毛骨悚然的鬼！
+[03:01:36]: [Leave Announcement] whatsupdude
