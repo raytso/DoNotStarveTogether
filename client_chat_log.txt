@@ -1,29 +1,10 @@
-[00:05:51]: [Join Announcement] JeiHang
-[00:05:51]: [Join Announcement] 41205mw
-[00:06:20]: [Join Announcement] Gentleman
-[00:07:10]: [Join Announcement] billy0719888
-[00:33:37]: [Death Announcement] 41205mw 死亡，因為： 浣熊貓。他變成一個毛骨悚然的鬼！
-[00:38:03]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
-[00:45:46]: [Skin Announcement] JeiHang body_silk_eveningrobe_blue_frost
-[00:59:20]: [Death Announcement] Gentleman 死亡，因為： 豬人。他變成一個毛骨悚然的鬼！
-[01:06:45]: [Leave Announcement] Gentleman
-[01:10:04]: [Join Announcement] Gentleman
-[01:13:32]: [Resurrect Announcement] Gentleman 復活自 臨時傳送門.
-[01:22:25]: [Skin Announcement] 41205mw body_wendy_shadow
-[01:37:10]: [Skin Announcement] JeiHang body_flannel_green_napier
-[02:05:40]: [Skin Announcement] 41205mw body_sweatervest_brown_beaver
-[02:46:26]: [Death Announcement] Gentleman 死亡，因為： 火獵犬。他變成一個毛骨悚然的鬼！
-[03:07:18]: [Join Announcement] 41205mw
-[03:07:28]: [Join Announcement] JeiHang
-[03:07:34]: [Join Announcement] billy0719888
-[03:07:47]: [Join Announcement] Gentleman
-[03:13:44]: [Skin Announcement] JeiHang legs_tweed_knickerbocker_tan_grass
-[03:18:35]: [Death Announcement] billy0719888 死亡，因為： 海象爸爸。她成了一個令人毛骨悚然的鬼！
-[03:21:15]: [Join Announcement] JeiHang
-[03:21:24]: [Join Announcement] 41205mw
-[03:21:24]: [Join Announcement] billy0719888
-[03:21:40]: [Join Announcement] Gentleman
-[03:30:26]: [Death Announcement] billy0719888 死亡，因為： 海象爸爸。她成了一個令人毛骨悚然的鬼！
-[03:36:22]: [Resurrect Announcement] billy0719888 復活自 臨時傳送門.
-[03:38:52]: [Death Announcement] Gentleman 死亡，因為： 海象爸爸。他變成一個毛骨悚然的鬼！
-[03:39:05]: [Death Announcement] billy0719888 死亡，因為： 凍結。她成了一個令人毛骨悚然的鬼！
+[00:10:28]: [Join Announcement] 41205mw
+[00:11:31]: [Join Announcement] billy0719888
+[00:26:10]: [Death Announcement] 41205mw 死亡，因為： 巨喙夢魘。他變成一個毛骨悚然的鬼！
+[00:29:01]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
+[00:40:59]: [Skin Announcement] billy0719888 body_trimmed_blouse_white_pure
+[00:49:59]: [Join Announcement] Gentleman
+[00:50:36]: [Say] (KU_NTeGaFO-) 41205mw: DISCORD  SHI
+[00:50:46]: [Whisper] (KU_XZORSqxe) billy0719888: discord
+[01:01:54]: [Say] (KU_NTeGaFO-) 41205mw: WE DONT HEAR YOU SHI
+[01:03:47]: [Say] (KU_NTeGaFO-) 41205mw: 泡哥說話阿

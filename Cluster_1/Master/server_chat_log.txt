@@ -1,2 +1,16 @@
-[00:01:03]: [Join Announcement] whatsupdude
-[00:01:10]: [Leave Announcement] whatsupdude
+[00:00:29]: [Join Announcement] whatsupdude
+[00:00:33]: [Join Announcement] 41205mw
+[00:01:36]: [Join Announcement] billy0719888
+[00:16:15]: [Death Announcement] 41205mw 死亡，因為： 巨喙夢魘。他變成一個毛骨悚然的鬼！
+[00:19:06]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
+[00:30:55]: [Skin Announcement] whatsupdude legs_skirt_basic_pink_pigman
+[00:31:04]: [Skin Announcement] billy0719888 body_trimmed_blouse_white_pure
+[00:40:04]: [Join Announcement] Gentleman
+[00:40:41]: [Say] (KU_NTeGaFO-) 41205mw: DISCORD  SHI
+[00:40:51]: [Whisper] (KU_XZORSqxe) billy0719888: discord
+[00:51:59]: [Say] (KU_NTeGaFO-) 41205mw: WE DONT HEAR YOU SHI
+[00:53:52]: [Say] (KU_NTeGaFO-) 41205mw: 泡哥說話阿
+[01:03:23]: [Leave Announcement] whatsupdude
+[01:03:23]: [Leave Announcement] 41205mw
+[01:03:23]: [Leave Announcement] Gentleman
+[01:03:23]: [Leave Announcement] billy0719888
