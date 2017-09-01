@@ -1,0 +1,8 @@
+[00:00:32]: [Join Announcement] whatsupdude
+[00:01:14]: [Join Announcement] 41205mw
+[00:01:59]: [Join Announcement] Gentleman
+[00:38:48]: [Death Announcement] Gentleman 死亡，因為： 夜晚。他變成一個毛骨悚然的鬼！
+[00:38:50]: [Skin Announcement] 41205mw feet_sneakers_blue_catcoon
+[00:40:27]: [Leave Announcement] whatsupdude
+[00:40:28]: [Leave Announcement] Gentleman
+[00:40:28]: [Leave Announcement] 41205mw
