@@ -1,0 +1,53 @@
+[00:00:50]: [Join Announcement] 41205mw
+[00:00:53]: [Join Announcement] whatsupdude
+[00:01:37]: [Join Announcement] JeiHang
+[00:01:42]: [Join Announcement] billy0719888
+[00:02:05]: [Join Announcement] henryliang39
+[00:06:38]: [Say] (KU_XZORSqxe) billy0719888: discord
+[00:06:48]: [Say] (KU_XZORSqxe) billy0719888: 先別進
+[00:06:49]: [Say] (KU_NTeGaFO-) 41205mw: dicksuck
+[00:06:52]: [Join Announcement] Gentleman
+[00:06:54]: [Say] (KU_gwdm4ts4) henryliang39: pao ge
+[00:07:05]: [Say] (KU_gwdm4ts4) henryliang39: pussy whipped
+[00:07:10]: [Say] (KU_NTeGaFO-) 41205mw: we dont hear you
+[00:07:13]: [Say] (KU_NTeGaFO-) 41205mw: shi
+[00:08:27]: [Leave Announcement] Gentleman
+[00:15:49]: [Join Announcement] Gentleman
+[00:17:57]: [Death Announcement] Gentleman 死亡，因為： 夜晚。她成了一個令人毛骨悚然的鬼！
+[00:18:51]: [Resurrect Announcement] Gentleman 復活自 臨時傳送門.
+[00:23:09]: [Death Announcement] whatsupdude 死亡，因為： 發條犀牛。他變成一個毛骨悚然的鬼！
+[00:26:12]: [Resurrect Announcement] whatsupdude 復活自 臨時傳送門.
+[00:26:23]: [Death Announcement] whatsupdude 死亡，因為： 夜晚。他變成一個毛骨悚然的鬼！
+[00:26:37]: [Resurrect Announcement] whatsupdude 復活自 臨時傳送門.
+[00:33:09]: [Skin Announcement] 41205mw legs_skirt_basic_tan_cream
+[00:37:21]: [Death Announcement] whatsupdude 死亡，因為： 獵犬。他變成一個毛骨悚然的鬼！
+[00:39:36]: [Resurrect Announcement] whatsupdude 復活自 臨時傳送門.
+[00:43:08]: [Skin Announcement] billy0719888 body_polo_white_marble
+[01:10:26]: [Death Announcement] JeiHang 死亡，因為： 豬人。她成了一個令人毛骨悚然的鬼！
+[01:12:14]: [Resurrect Announcement] JeiHang 復活自 臨時傳送門.
+[01:13:55]: [Death Announcement] JeiHang 死亡，因為： 夜晚。她成了一個令人毛骨悚然的鬼！
+[01:16:23]: [Resurrect Announcement] JeiHang 復活自 臨時傳送門.
+[01:21:37]: [Death Announcement] whatsupdude 死亡，因為： 觸手。他變成一個毛骨悚然的鬼！
+[01:23:51]: [Resurrect Announcement] whatsupdude 復活自 臨時傳送門.
+[01:24:34]: [Skin Announcement] JeiHang body_flannel_purple_grape
+[01:25:47]: [Death Announcement] whatsupdude 死亡，因為： 觸手。他變成一個毛骨悚然的鬼！
+[01:30:39]: [Resurrect Announcement] whatsupdude 復活自 臨時傳送門.
+[01:32:31]: [Death Announcement] billy0719888 死亡，因為： 豬人。他變成一個毛骨悚然的鬼！
+[01:34:56]: [Resurrect Announcement] billy0719888 復活自 臨時傳送門.
+[01:38:09]: [Skin Announcement] billy0719888 body_trimmed_blouse_white_pure
+[01:49:26]: [Death Announcement] henryliang39 死亡，因為： 青蛙。他變成一個毛骨悚然的鬼！
+[01:54:47]: [Resurrect Announcement] henryliang39 復活自 臨時傳送門.
+[02:38:14]: [Skin Announcement] billy0719888 feet_sneakers_green_cactus
+[03:00:19]: [Death Announcement] henryliang39 死亡，因為： 企鵝。他變成一個毛骨悚然的鬼！
+[03:01:47]: [Resurrect Announcement] henryliang39 復活自 臨時傳送門.
+[03:03:06]: [Death Announcement] henryliang39 死亡，因為： 凍結。他變成一個毛骨悚然的鬼！
+[03:03:31]: [Resurrect Announcement] henryliang39 復活自 JeiHang.
+[03:23:27]: [Leave Announcement] henryliang39
+[03:24:35]: [Leave Announcement] 41205mw
+[03:25:00]: [Join Announcement] 41205mw
+[03:36:42]: [Death Announcement] billy0719888 死亡，因為： 蜘蛛。他變成一個毛骨悚然的鬼！
+[03:39:22]: [Resurrect Announcement] billy0719888 復活自 臨時傳送門.
+[03:45:36]: [Death Announcement] billy0719888 死亡，因為： 爬行夢魘。他變成一個毛骨悚然的鬼！
+[03:49:18]: [Skin Announcement] Gentleman body_polo_white_marble
+[03:49:38]: [Resurrect Announcement] billy0719888 復活自 臨時傳送門.
+[03:54:48]: [Skin Announcement] 41205mw legs_skirt_basic_brown_sepia
