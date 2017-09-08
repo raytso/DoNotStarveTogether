@@ -1388,3 +1388,169 @@ Process Memory:
 [00:28:58]: toggling	
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:32:49]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[00:32:49]: toggling	
+[00:32:49]: OnGPUnpause	
+[00:33:53]: Could not find anim [idle_loop] in bank [ghost]
+[00:33:56]: Could not find anim [transform] in bank [wilson]
+[00:33:57]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000027
+[00:37:07]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000027
+[00:37:07]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000027
+[00:37:07]: Serializing world: session/50D874D52D5DBA28/0000000027
+[00:45:07]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000028
+[00:45:07]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000028
+[00:45:08]: Serializing world: session/50D874D52D5DBA28/0000000028
+[00:50:35]: Activating portal[8] to 993164935	
+[00:50:35]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000029
+[00:50:35]: [Shard] Migration request: (KU_DHYCXywJ) to Caves(993164935)
+[00:50:35]: [Shard] Begin migration #1 for (KU_DHYCXywJ)
+[00:50:35]: [Shard] #1 [SHDMASTER](1) -> Caves(993164935)
+[00:50:35]: [Shard] #1 <- session/50D874D52D5DBA28/A7HL3268FJKJ/0000000029
+[00:50:36]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:50:36]: [Steam] SendUserDisconnect for '76561198061882216'
+[00:50:36]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[00:50:38]: [Shard] Completed migration #1 for player (KU_DHYCXywJ)
+[00:50:38]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[00:53:08]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000029
+[00:53:08]: Serializing world: session/50D874D52D5DBA28/0000000029
+[00:55:39]: [Shard] Begin migration #2 for (KU_DHYCXywJ)
+[00:55:39]: [Shard] #2 Caves(993164935) -> [SHDMASTER](1)
+[00:55:39]: [Shard] #2 -> session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[00:55:39]: [Shard] Received migration #2 data for (KU_DHYCXywJ)
+[00:55:39]: [Shard] (KU_DHYCXywJ) disconnected from Caves(993164935)
+[00:55:41]: New incoming connection 127.0.0.1|50605 <4751976891735965241>
+[00:55:41]: Client connected from [LAN] 127.0.0.1|50605 <4751976891735965241>
+[00:55:41]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^0H7d420gzJsihzKzXtQWabm4gGOx/dTR4AJ3jxCljno= for <4751976891735965241>
+[00:55:42]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:55:42]: [Steam] Authenticated host '76561198061882216'
+[00:55:42]: [Shard] Completed incoming migration #2 for (KU_DHYCXywJ)
+[00:55:42]: [Shard] Completed migration #2 for player (KU_DHYCXywJ)
+[00:55:42]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[00:55:49]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[00:55:49]: Player will spawn close to portal #5	
+[00:55:49]: Spawning player at: [Load] (-364.10, 0.00, -406.06)	
+[00:55:49]: Validating portal[5] <-> 993164935[5] (active)	
+[00:56:27]: Activating portal[5] to 993164935	
+[00:56:27]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[00:56:27]: [Shard] Migration request: (KU_DHYCXywJ) to Caves(993164935)
+[00:56:27]: [Shard] Begin migration #3 for (KU_DHYCXywJ)
+[00:56:27]: [Shard] #3 [SHDMASTER](1) -> Caves(993164935)
+[00:56:27]: [Shard] #3 <- session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[00:56:27]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:56:27]: [Steam] SendUserDisconnect for '76561198061882216'
+[00:56:27]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[00:56:30]: [Shard] Completed migration #3 for player (KU_DHYCXywJ)
+[00:56:30]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[00:57:09]: [Shard] Begin migration #4 for (KU_DHYCXywJ)
+[00:57:09]: [Shard] #4 Caves(993164935) -> [SHDMASTER](1)
+[00:57:09]: [Shard] #4 -> session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[00:57:09]: [Shard] Received migration #4 data for (KU_DHYCXywJ)
+[00:57:09]: [Shard] (KU_DHYCXywJ) disconnected from Caves(993164935)
+[00:57:11]: New incoming connection 127.0.0.1|51335 <234481333921657370>
+[00:57:11]: Client connected from [LAN] 127.0.0.1|51335 <234481333921657370>
+[00:57:11]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^BSx7kk0tyPYE6sk15OPtnjuDj5qbc2D9kWVsT2MKu1I= for <234481333921657370>
+[00:57:11]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:57:11]: [Steam] Authenticated host '76561198061882216'
+[00:57:11]: [Shard] Completed incoming migration #4 for (KU_DHYCXywJ)
+[00:57:11]: [Shard] Completed migration #4 for player (KU_DHYCXywJ)
+[00:57:11]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[00:57:18]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[00:57:18]: Player will spawn close to portal #8	
+[00:57:18]: Spawning player at: [Load] (286.10, 0.00, 295.77)	
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_DHYCXywJ) from TokenPurpose
+[01:01:08]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000030
+[01:01:08]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000030
+[01:01:09]: Serializing world: session/50D874D52D5DBA28/0000000030
+[01:04:14]: Activating portal[8] to 993164935	
+[01:04:15]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000031
+[01:04:15]: [Shard] Migration request: (KU_DHYCXywJ) to Caves(993164935)
+[01:04:15]: [Shard] Begin migration #5 for (KU_DHYCXywJ)
+[01:04:15]: [Shard] #5 [SHDMASTER](1) -> Caves(993164935)
+[01:04:15]: [Shard] #5 <- session/50D874D52D5DBA28/A7HL3268FJKJ/0000000031
+[01:04:15]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:04:15]: [Steam] SendUserDisconnect for '76561198061882216'
+[01:04:15]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[01:04:18]: [Shard] Completed migration #5 for player (KU_DHYCXywJ)
+[01:04:18]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[01:09:09]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000031
+[01:09:09]: Serializing world: session/50D874D52D5DBA28/0000000031
+[01:14:58]: [Shard] Begin migration #6 for (KU_DHYCXywJ)
+[01:14:58]: [Shard] #6 Caves(993164935) -> [SHDMASTER](1)
+[01:14:58]: [Shard] #6 -> session/50D874D52D5DBA28/A7HL3268FJKJ/0000000032
+[01:14:58]: [Shard] Received migration #6 data for (KU_DHYCXywJ)
+[01:14:58]: [Shard] (KU_DHYCXywJ) disconnected from Caves(993164935)
+[01:15:00]: New incoming connection 127.0.0.1|55694 <7832395345546513897>
+[01:15:00]: Client connected from [LAN] 127.0.0.1|55694 <7832395345546513897>
+[01:15:00]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^jdMZo0aLpGIhAFw54YnLlWYfgl22j2TN8DsXcURHBS4= for <7832395345546513897>
+[01:15:01]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[01:15:01]: [Steam] Authenticated host '76561198061882216'
+[01:15:01]: [Shard] Completed incoming migration #6 for (KU_DHYCXywJ)
+[01:15:01]: [Shard] Completed migration #6 for player (KU_DHYCXywJ)
+[01:15:01]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[01:15:07]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000032
+[01:15:07]: Could not find anim [idle_loop] in bank [ghost]
+[01:15:07]: Player will spawn close to portal #8	
+[01:15:07]: Spawning player at: [Load] (287.21, 0.00, 297.78)	
+[01:16:22]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[01:16:22]: toggling	
+[01:23:31]: [Steam] SendUserDisconnect for '76561198061882216'
+[01:23:31]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[01:23:31]: [IPC] Received shutdown signal.
+[01:23:32]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000032
+[01:23:32]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000032
+[01:23:32]: Serializing world: session/50D874D52D5DBA28/0000000032
+[01:23:32]: Truncating to snapshot #32...
+[01:23:32]:  - session/50D874D52D5DBA28/0000000018
+[01:23:32]:  - session/50D874D52D5DBA28/0000000019
+[01:23:32]:  - session/50D874D52D5DBA28/0000000020
+[01:23:32]:  - session/50D874D52D5DBA28/0000000021
+[01:23:32]:  - session/50D874D52D5DBA28/0000000022
+[01:23:32]:  - session/50D874D52D5DBA28/0000000023
+[01:23:32]:  - session/50D874D52D5DBA28/0000000024
+[01:23:32]:  - session/50D874D52D5DBA28/0000000025
+[01:23:32]:  - session/50D874D52D5DBA28/0000000026
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000026
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000025
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000024
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000023
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000022
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000021
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000020
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000019
+[01:23:32]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000018
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000026
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000025
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000024
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000023
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000022
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000021
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000020
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000019
+[01:23:32]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000018
+[01:23:32]:  - session/50D874D52D5DBA28/A7M255N7KVHT/0000000022
+[01:23:32]:  - session/50D874D52D5DBA28/A7M255N7KVHT/0000000021
+[01:23:32]:  - session/50D874D52D5DBA28/A7M255N7KVHT/0000000020
+[01:23:32]:  - session/50D874D52D5DBA28/A7M255N7KVHT/0000000019
+[01:23:32]:    31 file(s) removed
+[01:23:32]: unloading prefabs for mod MOD_workshop-758532836	
+[01:23:32]: unloading prefabs for mod MOD_workshop-347079953	
+[01:23:32]: unloading prefabs for mod MOD_workshop-375859599	
+[01:23:32]: unloading prefabs for mod MOD_workshop-362175979	
+[01:23:32]: unloading prefabs for mod MOD_workshop-1079538195	
+[01:23:32]: unloading prefabs for mod MOD_workshop-503919639	
+[01:23:32]: unloading prefabs for mod MOD_workshop-378160973	
+[01:23:32]: [Shard] Stopping shard mode
+[01:23:32]: Collecting garbage...
+[01:23:33]: lua_gc took 0.20 seconds
+[01:23:33]: ~ShardLuaProxy()
+[01:23:33]: ~ItemServerLuaProxy()
+[01:23:33]: ~InventoryLuaProxy()
+[01:23:33]: ~NetworkLuaProxy()
+[01:23:33]: ~SimLuaProxy()
+[01:23:33]: lua_close took 0.33 seconds
+[01:23:33]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:23:33]: shaders/ui_yuv.ksh - 1
+[01:23:33]: CurlRequestManager::ClientThread::Main() complete
+[01:23:33]: HttpClient2 discarded 0 callbacks.
+[01:23:33]: Shutting down

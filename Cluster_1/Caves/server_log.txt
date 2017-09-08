@@ -1371,3 +1371,115 @@ Process Memory:
 [00:25:16]:    1 file(s) removed
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:37:07]: Serializing world: session/2B8241F9302FDBC9/0000000027
+[00:37:07]: Truncating to snapshot #27...
+[00:37:07]:  - session/2B8241F9302FDBC9/0000000021
+[00:37:07]:    1 file(s) removed
+[00:45:08]: Serializing world: session/2B8241F9302FDBC9/0000000028
+[00:45:08]: Truncating to snapshot #28...
+[00:45:08]:  - session/2B8241F9302FDBC9/0000000022
+[00:45:08]:    1 file(s) removed
+[00:50:36]: [Shard] #1 -> session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000029
+[00:50:36]: [Shard] Received migration #1 data for (KU_DHYCXywJ)
+[00:50:38]: New incoming connection 127.0.0.1|57497 <8021887423043693658>
+[00:50:38]: Client connected from [LAN] 127.0.0.1|57497 <8021887423043693658>
+[00:50:38]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^YqPafhaXXl2rWRDsuA9hMnODXKAnGhOCO4LZuyOq9UA= for <8021887423043693658>
+[00:50:38]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:50:38]: [Steam] Authenticated host '76561198061882216'
+[00:50:38]: [Shard] Completed incoming migration #1 for (KU_DHYCXywJ)
+[00:50:45]: Resuming user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000029
+[00:50:45]: Player will spawn close to portal #8	
+[00:50:45]: Spawning player at: [Load] (-33.40, 0.00, -561.95)	
+[00:53:08]: Serializing user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000029
+[00:53:08]: Serializing world: session/2B8241F9302FDBC9/0000000029
+[00:55:39]: Activating portal[5] to 1	
+[00:55:39]: Serializing user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000030
+[00:55:39]: [Shard] Migration request: (KU_DHYCXywJ) to [SHDMASTER](1)
+[00:55:39]: [Shard] #2 <- session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000030
+[00:55:39]: Ignored request to resume during migration
+[00:55:39]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:55:39]: [Steam] SendUserDisconnect for '76561198061882216'
+[00:56:27]: [Shard] #3 -> session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000030
+[00:56:27]: [Shard] Received migration #3 data for (KU_DHYCXywJ)
+[00:56:29]: New incoming connection 127.0.0.1|51316 <8107339975271971914>
+[00:56:29]: Client connected from [LAN] 127.0.0.1|51316 <8107339975271971914>
+[00:56:29]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^uKm+wwvs/XcW5nVwlygulphaeHg7OdXhljJJPDezHko= for <8107339975271971914>
+[00:56:30]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:56:30]: [Steam] Authenticated host '76561198061882216'
+[00:56:30]: [Shard] Completed incoming migration #3 for (KU_DHYCXywJ)
+[00:56:36]: Resuming user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000030
+[00:56:36]: Player will spawn close to portal #5	
+[00:56:36]: Spawning player at: [Load] (-138.01, 0.00, -496.50)	
+[00:57:09]: Activating portal[8] to 1	
+[00:57:09]: Serializing user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000030
+[00:57:09]: [Shard] Migration request: (KU_DHYCXywJ) to [SHDMASTER](1)
+[00:57:09]: [Shard] #4 <- session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000030
+[00:57:09]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:57:09]: [Steam] SendUserDisconnect for '76561198061882216'
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_DHYCXywJ) from TokenPurpose
+[01:01:08]: Serializing world: session/2B8241F9302FDBC9/0000000030
+[01:01:08]: Truncating to snapshot #30...
+[01:01:08]:  - session/2B8241F9302FDBC9/0000000023
+[01:01:08]:  - session/2B8241F9302FDBC9/0000000024
+[01:01:08]:    2 file(s) removed
+[01:04:15]: [Shard] #5 -> session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000031
+[01:04:15]: [Shard] Received migration #5 data for (KU_DHYCXywJ)
+[01:04:17]: New incoming connection 127.0.0.1|55376 <3818829157909844118>
+[01:04:17]: Client connected from [LAN] 127.0.0.1|55376 <3818829157909844118>
+[01:04:17]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^cmC53GT6Ie7B7Lbwt5NtbZwny7i424mBpv+NYgpUsRk= for <3818829157909844118>
+[01:04:17]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[01:04:18]: [Steam] Authenticated host '76561198061882216'
+[01:04:18]: [Shard] Completed incoming migration #5 for (KU_DHYCXywJ)
+[01:04:24]: Resuming user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000031
+[01:04:24]: Player will spawn close to portal #8	
+[01:04:24]: Spawning player at: [Load] (-30.34, 0.00, -558.10)	
+[01:09:09]: Serializing user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000031
+[01:09:09]: Serializing world: session/2B8241F9302FDBC9/0000000031
+[01:12:18]: Could not find anim [death] in bank [ghost]
+[01:12:18]: Serializing user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000032
+[01:12:44]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[01:12:44]: toggling	
+[01:12:51]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[01:12:51]: toggling	
+[01:12:51]: OnGPUnpause	
+[01:12:52]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[01:12:52]: toggling	
+[01:14:01]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[01:14:01]: toggling	
+[01:14:01]: OnGPUnpause	
+[01:14:58]: Activating portal[8] to 1	
+[01:14:58]: Serializing user: session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000032
+[01:14:58]: [Shard] Migration request: (KU_DHYCXywJ) to [SHDMASTER](1)
+[01:14:58]: [Shard] #6 <- session/2B8241F9302FDBC9/A7HL3268FJKJ/0000000032
+[01:14:58]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[01:14:58]: [Steam] SendUserDisconnect for '76561198061882216'
+[01:23:32]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[01:23:32]: Sim paused
+[01:23:33]: [IPC] Received shutdown signal.
+[01:23:33]: Serializing world: session/2B8241F9302FDBC9/0000000032
+[01:23:33]: Truncating to snapshot #32...
+[01:23:33]:  - session/2B8241F9302FDBC9/0000000025
+[01:23:33]:  - session/2B8241F9302FDBC9/0000000026
+[01:23:33]:    2 file(s) removed
+[01:23:33]: unloading prefabs for mod MOD_workshop-758532836	
+[01:23:33]: unloading prefabs for mod MOD_workshop-347079953	
+[01:23:33]: unloading prefabs for mod MOD_workshop-375859599	
+[01:23:33]: unloading prefabs for mod MOD_workshop-362175979	
+[01:23:33]: unloading prefabs for mod MOD_workshop-1079538195	
+[01:23:33]: unloading prefabs for mod MOD_workshop-503919639	
+[01:23:33]: unloading prefabs for mod MOD_workshop-378160973	
+[01:23:33]: [Shard] Stopping shard mode
+[01:23:34]: Collecting garbage...
+[01:23:34]: lua_gc took 0.10 seconds
+[01:23:34]: ~ShardLuaProxy()
+[01:23:34]: ~ItemServerLuaProxy()
+[01:23:34]: ~InventoryLuaProxy()
+[01:23:34]: ~NetworkLuaProxy()
+[01:23:34]: ~SimLuaProxy()
+[01:23:34]: lua_close took 0.17 seconds
+[01:23:34]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:23:34]: shaders/ui_yuv.ksh - 1
+[01:23:34]: CurlRequestManager::ClientThread::Main() complete
+[01:23:34]: HttpClient2 discarded 0 callbacks.
+[01:23:34]: Shutting down
