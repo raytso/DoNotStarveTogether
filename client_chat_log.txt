@@ -1,4 +1,2 @@
-[00:01:49]: [Join Announcement] 41205mw
-[00:02:34]: [Join Announcement] Gentleman
-[00:39:23]: [Death Announcement] Gentleman 死亡，因為： 夜晚。他變成一個毛骨悚然的鬼！
-[00:39:25]: [Skin Announcement] 41205mw feet_sneakers_blue_catcoon
+[00:01:04]: [Join Announcement] 41205mw
+[00:27:41]: [Death Announcement] 41205mw 死亡，因為： 蜘蛛戰士。她成了一個令人毛骨悚然的鬼！
