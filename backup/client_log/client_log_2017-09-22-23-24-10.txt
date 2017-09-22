@@ -1,0 +1,444 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 31%
+	Available Physical Memory: 5569m/8144m
+	Available Page File: 13558m/16288m
+	Available Virtual Memory: 3989m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 27m
+	Working Set Size: 27m
+	Quota Peak Page Pool Usage: 198k
+	Quota Page Pool Usage: 193k
+	Quota Peak Non Paged Pool Usage:17k
+	Quota Non Paged Pool Usage: 16k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 233071
+[00:00:00]: Current time: Fri Sep 22 23:23:19 2017
+
+[00:00:00]: Don't Starve Together: 233071 WIN32_STEAM
+[00:00:00]: Build Date: 2243
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 2127799
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (3720)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.46
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:00]: [Warning] Failed to initialize, ignoring AuthorizeApp request
+[00:00:00]: could not load ping_cache
+[00:00:00]: THREAD - started 'StreamInput' (1824)
+[00:00:00]: Offline user ID: OU_76561198061882216
+[00:00:00]: SteamID: 76561198061882216
+[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 7 Professional 
+    version                   6.1.7601
+    architecture              64-bit
+    platformSpecific          SP 1.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3301
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 1050 Ti
+    driverDate                20161127000000.000000-000
+    megsOfRam                 4095
+    refreshRate               60
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    driverVersion             21.21.13.7611
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1050 Ti)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (4076)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths loaded morgue	253	
+[00:00:03]: PlayerHistory loaded player_history	605	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:05]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:05]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:05]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:05]: SimLuaProxy::QueryServer()
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:12]: [Steam] Auth Session Ticket requested...
+[00:00:13]: [Steam] Got Auth Session Ticket
+[00:00:14]: [200] Account Communication Success (3)
+[00:00:14]: loaded inventory_cache
+[00:00:14]: Logging in as KU_DHYCXywJ
+[00:00:16]: saved inventory_cache
+[00:00:16]: saved inventory_cache_sig
+[00:00:17]: SimLuaProxy::QueryServer()
+[00:00:20]: Getting display mode: Querying display 1 [of 1]
+[00:00:20]: 	\: 1920, 1080, 60
+[00:00:20]: Getting display mode: Querying display 1 [of 1]
+[00:00:20]: 	\: 1920, 1080, 60
+[00:00:22]: DownloadPublishedFileV2()
+[00:00:22]: OnDownloadPublishedFileResultV2 
+[00:00:22]:    EResult 1, 267225002014536996
+[00:00:22]:    245850, 104477, [mod_publish_data_file.zip], 76561198075237023
+[00:00:22]: DownloadPublishedFileV2()
+[00:00:22]: THREAD - started 'cUnpackModThread' (572)
+[00:00:22]: DelDirectory [../mods/workshop-758532836] 2: FAILED
+[00:00:22]: cWorkshopMod::UnzipMod ../mods/workshop-758532836
+[00:00:23]: OnDownloadPublishedFileResultV2 
+[00:00:23]:    EResult 1, 529544281346802040
+[00:00:23]:    245850, 271856, [mod_publish_data_file.zip], 76561198049829886
+[00:00:23]: DownloadPublishedFileV2()
+[00:00:23]: THREAD - started 'cUnpackModThread' (732)
+[00:00:23]: DelDirectory [../mods/workshop-347079953] 2: FAILED
+[00:00:23]: cWorkshopMod::UnzipMod ../mods/workshop-347079953
+[00:00:23]: OnDownloadPublishedFileResultV2 
+[00:00:23]:    EResult 1, 832455290852058235
+[00:00:23]:    245850, 79702, [mod_publish_data_file.zip], 76561197972487188
+[00:00:23]: DownloadPublishedFileV2()
+[00:00:23]: THREAD - started 'cUnpackModThread' (2996)
+[00:00:23]: DelDirectory [../mods/workshop-1079538195] 2: FAILED
+[00:00:23]: cWorkshopMod::UnzipMod ../mods/workshop-1079538195
+[00:00:24]: OnDownloadPublishedFileResultV2 
+[00:00:24]:    EResult 1, 107357223490494217
+[00:00:24]:    245850, 31870, [mod_publish_data_file.zip], 76561198025486794
+[00:00:24]: DownloadPublishedFileV2()
+[00:00:24]: THREAD - started 'cUnpackModThread' (3616)
+[00:00:24]: DelDirectory [../mods/workshop-375859599] 2: FAILED
+[00:00:24]: cWorkshopMod::UnzipMod ../mods/workshop-375859599
+[00:00:24]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:27]: OnDownloadPublishedFileResultV2 
+[00:00:27]:    EResult 1, 226696864092565917
+[00:00:27]:    245850, 268396, [mod_publish_data_file.zip], 76561198097315001
+[00:00:27]: DownloadPublishedFileV2()
+[00:00:27]: THREAD - started 'cUnpackModThread' (2052)
+[00:00:27]: DelDirectory [../mods/workshop-714735102] 2: FAILED
+[00:00:27]: cWorkshopMod::UnzipMod ../mods/workshop-714735102
+[00:00:28]: OnDownloadPublishedFileResultV2 
+[00:00:28]:    EResult 1, 859477733470501516
+[00:00:28]:    245850, 184347, [mod_publish_data_file.zip], 76561198025931302
+[00:00:28]: DownloadPublishedFileV2()
+[00:00:28]: THREAD - started 'cUnpackModThread' (1816)
+[00:00:28]: DelDirectory [../mods/workshop-378160973] 2: FAILED
+[00:00:28]: cWorkshopMod::UnzipMod ../mods/workshop-378160973
+[00:00:28]: OnDownloadPublishedFileResultV2 
+[00:00:28]:    EResult 1, 288602101460363505
+[00:00:28]:    245850, 12828, [mod_publish_data_file.zip], 76561197960431333
+[00:00:28]: DownloadPublishedFileV2()
+[00:00:28]: THREAD - started 'cUnpackModThread' (2812)
+[00:00:28]: DelDirectory [../mods/workshop-345692228] 2: FAILED
+[00:00:28]: cWorkshopMod::UnzipMod ../mods/workshop-345692228
+[00:00:28]: OnDownloadPublishedFileResultV2 
+[00:00:28]:    EResult 1, 609478105747897135
+[00:00:28]:    245850, 75803, [mod_publish_data_file.zip], 76561198027077262
+[00:00:28]: DownloadPublishedFileV2()
+[00:00:28]: THREAD - started 'cUnpackModThread' (3328)
+[00:00:28]: DelDirectory [../mods/workshop-362175979] 2: FAILED
+[00:00:28]: cWorkshopMod::UnzipMod ../mods/workshop-362175979
+[00:00:29]: OnDownloadPublishedFileResultV2 
+[00:00:29]:    EResult 1, 545265027528129475
+[00:00:29]:    245850, 10017, [mod_publish_data_file.zip], 76561198046734376
+[00:00:29]: DownloadPublishedFileV2()
+[00:00:29]: THREAD - started 'cUnpackModThread' (3584)
+[00:00:29]: DelDirectory [../mods/workshop-360770741] 2: FAILED
+[00:00:29]: cWorkshopMod::UnzipMod ../mods/workshop-360770741
+[00:00:29]: OnDownloadPublishedFileResultV2 
+[00:00:29]:    EResult 1, 360652956751013310
+[00:00:29]:    245850, 81636, [mod_publish_data_file.zip], 76561198081024304
+[00:00:29]: DownloadPublishedFileV2()
+[00:00:29]: THREAD - started 'cUnpackModThread' (572)
+[00:00:29]: DelDirectory [../mods/workshop-604196908] 2: FAILED
+[00:00:29]: cWorkshopMod::UnzipMod ../mods/workshop-604196908
+[00:00:30]: OnDownloadPublishedFileResultV2 
+[00:00:30]:    EResult 1, 190668859949849084
+[00:00:30]:    245850, 9616, [mod_publish_data_file.zip], 76561198073178651
+[00:00:30]: DownloadPublishedFileV2()
+[00:00:30]: THREAD - started 'cUnpackModThread' (732)
+[00:00:30]: DelDirectory [../mods/workshop-503919639] 2: FAILED
+[00:00:30]: cWorkshopMod::UnzipMod ../mods/workshop-503919639
+[00:00:30]: OnDownloadPublishedFileResultV2 
+[00:00:30]:    EResult 1, 814433104398073193
+[00:00:30]:    245850, 20642, [mod_publish_data_file.zip], 76561198025931302
+[00:00:30]: DownloadPublishedFileV2()
+[00:00:30]: THREAD - started 'cUnpackModThread' (2996)
+[00:00:30]: DelDirectory [../mods/workshop-352373173] 2: FAILED
+[00:00:30]: cWorkshopMod::UnzipMod ../mods/workshop-352373173
+[00:00:30]: OnDownloadPublishedFileResultV2 
+[00:00:30]:    EResult 1, 865111643827793826
+[00:00:30]:    245850, 633478, [mod_publish_data_file.zip], 76561198052611789
+[00:00:30]: THREAD - started 'cUnpackModThread' (3616)
+[00:00:30]: DelDirectory [../mods/workshop-609429306] 2: FAILED
+[00:00:30]: cWorkshopMod::UnzipMod ../mods/workshop-609429306
+[00:00:35]: 29	
+[00:00:38]: Collecting garbage...
+[00:00:38]: lua_gc took 0.01 seconds
+[00:00:38]: ~ShardLuaProxy()
+[00:00:38]: ~ItemServerLuaProxy()
+[00:00:38]: ~InventoryLuaProxy()
+[00:00:38]: ~NetworkLuaProxy()
+[00:00:38]: ~SimLuaProxy()
+[00:00:38]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:38]: lua_close took 0.02 seconds
+[00:00:38]: ReleaseAll
+[00:00:38]: ReleaseAll Finished
+[00:00:38]: cGame::StartPlaying
+[00:00:38]: LOADING LUA
+[00:00:38]: DoLuaFile scripts/main.lua
+[00:00:38]: DoLuaFile loading buffer scripts/main.lua
+[00:00:38]: running main.lua
+	
+[00:00:38]: loaded modindex	
+[00:00:38]: ModIndex: Beginning normal load sequence.
+	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:38]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:00:38]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:00:38]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.6 (Old API! (mod: 4 game: 10) )	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:00:38]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:00:38]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:00:38]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:00:38]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:38]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:00:38]: ../mods/workshop-609429306//language.lua font installed.	
+[00:00:38]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:38]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:00:38]: LOADING LUA SUCCESS
+[00:00:38]: PlayerDeaths loaded morgue	253	
+[00:00:38]: PlayerHistory loaded player_history	605	
+[00:00:38]: bloom_enabled	false	
+[00:00:38]: loaded saveindex	
+[00:00:38]: OnFilesLoaded()	
+[00:00:38]: OnUpdatePurchaseStateComplete	
+[00:00:38]: 	Unload BE	
+[00:00:38]: 	Unload BE done	
+[00:00:38]: Could not unload undefined prefab 0x5ce87c8b (torchfire_rag)
+[00:00:38]: Could not unload undefined prefab 0x303eb17b (strawhat_floppy)
+[00:00:38]: Could not unload undefined prefab 0x57918ac2 (wendy_none)
+[00:00:38]: Could not unload undefined prefab 0x451aaca5 (wendy_lureplant)
+[00:00:38]: Could not unload undefined prefab 0x2974098a (wendy_shadow)
+[00:00:38]: Could not unload undefined prefab 0x6a7b4c20 (wendy_survivor)
+[00:00:38]: Could not unload undefined prefab 0x79922e (cane_ancient_fx1)
+[00:00:38]: Could not unload undefined prefab 0x79922f (cane_ancient_fx2)
+[00:00:38]: Could not unload undefined prefab 0x799230 (cane_ancient_fx3)
+[00:00:38]: Could not unload undefined prefab 0x42a4d2ca (shadow_puff_large_front)
+[00:00:38]: Could not unload undefined prefab 0x53c51cd7 (dragonling_winter_builder)
+[00:00:38]: Could not unload undefined prefab 0x37305d7f (dragonling_wyvern_builder)
+[00:00:38]: Could not unload undefined prefab 0x399804b (hat_chester_costume)
+[00:00:38]: Could not unload undefined prefab 0x4ce85c84 (tophat_festive_bell_red_firehound)
+[00:00:38]: Could not unload undefined prefab 0x44565b2b (glomling_winter)
+[00:00:38]: Could not unload undefined prefab 0x6160f633 (minerhat_floppy)
+[00:00:38]: Could not unload undefined prefab 0x1950012c (backpack_basic_blue_catcoon)
+[00:00:38]: Could not unload undefined prefab 0x2410fefc (backpack_deerclops)
+[00:00:38]: Could not unload undefined prefab 0x39a71db2 (backpack_mandrake)
+[00:00:38]: Could not unload undefined prefab 0x116a891d (backpack_mushy)
+[00:00:38]: Could not unload undefined prefab 0x12d1229f (backpack_poop)
+[00:00:38]: Could not unload undefined prefab 0x4c838081 (backpack_smallbird)
+[00:00:38]: Could not unload undefined prefab 0x3070c0a4 (backpack_spider)
+[00:00:38]: Could not unload undefined prefab 0x3f31bff0 (wathgrithr_formal)
+[00:00:38]: Could not unload undefined prefab 0x68a7b261 (wathgrithr_shadow)
+[00:00:38]: Could not unload undefined prefab 0x6439f977 (wathgrithr_survivor)
+[00:00:38]: Could not unload undefined prefab 0x3ee0adf6 (lamb_winter_builder)
+[00:00:38]: Could not unload undefined prefab 0x5404f78f (winona_survivor)
+[00:00:38]: Could not unload undefined prefab 0x352b2e1b (dragonling_winter)
+[00:00:38]: Could not unload undefined prefab 0x31c7ae78 (glomling_beardeddragon_builder)
+[00:00:38]: Could not unload undefined prefab 0x4f229e7 (glomling_winter_builder)
+[00:00:38]: Could not unload undefined prefab 0x26f06814 (endtable_dragonfly)
+[00:00:38]: Could not unload undefined prefab 0x1f7d0c5a (endtable_vintage)
+[00:00:38]: Could not unload undefined prefab 0x1f0cf1ad (wes_mandrake)
+[00:00:38]: Could not unload undefined prefab 0x33bfe130 (wes_survivor)
+[00:00:38]: Could not unload undefined prefab 0x1159f73 (webber_formal)
+[00:00:38]: Could not unload undefined prefab 0x2a8b91e4 (webber_shadow)
+[00:00:38]: Could not unload undefined prefab 0x37af843b (willow_survivor)
+[00:00:38]: Could not unload undefined prefab 0x11d691b2 (waxwell_formal)
+[00:00:38]: Could not unload undefined prefab 0x17dc3527 (catcoonhat_trapperup_rooster)
+[00:00:38]: Could not unload undefined prefab 0x3082b789 (wolfgang_formal)
+[00:00:38]: Could not unload undefined prefab 0x59f8a9fa (wolfgang_shadow)
+[00:00:38]: Could not unload undefined prefab 0x39ff5c68 (rainhat_floppy)
+[00:00:38]: Could not unload undefined prefab 0x211a4045 (woodie_formal)
+[00:00:38]: Could not unload undefined prefab 0x4a9032b6 (woodie_shadow)
+[00:00:38]: Could not unload undefined prefab 0x3bd9f4c (woodie_survivor)
+[00:00:38]: Could not unload undefined prefab 0x5e75e351 (woodie_treeguard)
+[00:00:38]: Could not unload undefined prefab 0x58316f36 (winterhat_pink_hibiscus)
+[00:00:38]: Could not unload undefined prefab 0x5763b33d (wilson_survivor)
+[00:00:38]: Could not unload undefined prefab 0x6f8359c (wickerbottom_formal)
+[00:00:38]: Could not unload undefined prefab 0x306e280d (wickerbottom_shadow)
+[00:00:38]: Could not unload undefined prefab 0x44873d17 (reviver_cupid)
+[00:00:38]: Could not unload undefined prefab 0x3e05a8f8 (icestaff_bee)
+[00:00:38]: Could not unload undefined prefab 0x56f121b0 (treasurechest_carpetbag)
+[00:00:38]: Could not unload undefined prefab 0x4821be21 (treasurechest_posh)
+[00:00:38]: Could not unload undefined prefab 0x4dbe6ea4 (treasurechest_steamertrunk)
+[00:00:38]: Could not unload undefined prefab 0x1d3ad72d (treasurechest_traveltrunk)
+[00:00:38]: Could not unload undefined prefab 0x63300a15 (torch_rag)
+[00:00:38]: Could not unload undefined prefab 0x222dd5a3 (torch_shadow)
+[00:00:38]: Could not unload undefined prefab 0x33f0c46d (torch_shadow_alt)
+[00:00:38]: Could not unload undefined prefab 0x1db827b8 (torchfire_spooky)
+[00:00:38]: Could not unload undefined prefab 0x2c3b5783 (birdcage_pirate)
+[00:00:38]: Could not unload undefined prefab 0x67b01be5 (researchlab4_catcoon_costume)
+[00:00:38]: Could not unload undefined prefab 0xb431ac8 (researchlab4_festive_bell_red_firehound)
+[00:00:38]: Could not unload undefined prefab 0x4046cc06 (researchlab2_pod)
+[00:00:38]: Could not unload undefined prefab 0x13043ea1 (researchlab2_pod_alt_fx)
+[00:00:38]: Could not unload undefined prefab 0x2ac4be2e (cane_ancient)
+[00:00:38]: Could not unload undefined prefab 0x2cdbf490 (wx78_rhinorook)
+[00:00:38]: Could not unload undefined prefab 0x5ad3db3 (wx78_survivor)
+[00:00:38]: Could not unload undefined prefab 0x20331a8d (firepit_fanged)
+[00:00:38]: Could not unload undefined prefab 0x1d79c25a (firepit_hole)
+[00:00:38]: Could not unload undefined prefab 0x440c36a4 (firepit_stonehenge)
+[00:00:38]: Could not unload undefined prefab 0x436fb359 (kitten_winter_builder)
+[00:00:39]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:00:39]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:00:39]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:00:39]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:00:39]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:39]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:39]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:39]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:39]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:00:39]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:00:39]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:00:39]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:00:39]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:00:39]: 	Load FE	
+[00:00:40]: 	Load FE: done	
+[00:00:40]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:40]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:40]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:40]: SimLuaProxy::QueryServer()
+[00:00:40]: ModIndex: Load sequence finished successfully.	
+[00:00:40]: Reset() returning
+[00:00:47]: unloading prefabs for mod MOD_workshop-714735102	
+[00:00:47]: unloading prefabs for mod MOD_workshop-609429306	
+[00:00:47]: unloading prefabs for mod MOD_workshop-345692228	
+[00:00:47]: unloading prefabs for mod MOD_workshop-604196908	
+[00:00:47]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:47]: Collecting garbage...
+[00:00:47]: lua_gc took 0.01 seconds
+[00:00:47]: ~ShardLuaProxy()
+[00:00:47]: ~ItemServerLuaProxy()
+[00:00:47]: ~InventoryLuaProxy()
+[00:00:47]: ~NetworkLuaProxy()
+[00:00:47]: ~SimLuaProxy()
+[00:00:47]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:47]: lua_close took 0.02 seconds
+[00:00:48]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:48]: [Steam] Auth ticket cancelled
+[00:00:48]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:00:48]: shaders/ui_yuv.ksh - 1
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:48]: CurlRequestManager::ClientThread::Main() complete
+[00:00:48]: HttpClient2 discarded 0 callbacks.
+[00:00:48]: Shutting down

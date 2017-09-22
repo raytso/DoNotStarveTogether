@@ -1,0 +1,5 @@
+[00:01:04]: [Join Announcement] 41205mw
+[00:27:41]: [Death Announcement] 41205mw 死亡，因為： 蜘蛛戰士。她成了一個令人毛骨悚然的鬼！
+[00:34:22]: [Resurrect Announcement] 41205mw 復活自 whatsupdude.
+[00:50:10]: [Skin Announcement] 41205mw body_flannel_blue_snowbird
+[01:12:47]: [Death Announcement] whatsupdude 死亡，因為： 兔人。她成了一個令人毛骨悚然的鬼！
