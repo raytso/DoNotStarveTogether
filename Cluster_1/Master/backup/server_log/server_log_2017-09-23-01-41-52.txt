@@ -1,11 +1,11 @@
-[00:00:00]: 
+[00:00:01]: 
 System Memory:
-	Memory Load: 43%
-	Available Physical Memory: 4592m/8144m
-	Available Page File: 12128m/16288m
+	Memory Load: 44%
+	Available Physical Memory: 4548m/8144m
+	Available Page File: 12094m/16288m
 	Available Virtual Memory: 3994m/4095m
 	Available Extended Virtual Memory: 0m
-[00:00:00]: 
+[00:00:01]: 
 Process Memory:
 	Peak Working Set Size: 27m
 	Working Set Size: 26m
@@ -15,40 +15,40 @@ Process Memory:
 	Quota Non Paged Pool Usage: 14k
 	Page File Usage: 5m
 	Peak Page File Usage: 5m
-[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
-[00:00:00]: Starting Up
-[00:00:00]: Version: 233071
-[00:00:00]: Current time: Sat Sep 23 01:57:28 2017
+[00:00:01]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:01]: Starting Up
+[00:00:01]: Version: 233071
+[00:00:01]: Current time: Sat Sep 23 01:11:34 2017
 
-[00:00:00]: Don't Starve Together: 233071 WIN32
-[00:00:00]: Build Date: 2383
-[00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 3964 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198061882216 -backup_log_count 10 -shard Master -sigprefix DST_Master 
-[00:00:00]: Initializing distribution platform
-[00:00:00]: Initializing Minidump handler
-[00:00:00]: ....Done
-[00:00:00]: ....Done
-[00:00:00]: Fixing DPI
-[00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (4524)
-[00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:4.18
-[00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
-[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
-[00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: [Warning] Failed to initialize, ignoring AuthorizeApp request
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (3844)
-[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
-[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
-[00:00:00]: Offline user ID: OU_76561198061882216
-[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
-[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
-[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
-[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
-[00:00:00]: HardwareStats:
+[00:00:01]: Don't Starve Together: 233071 WIN32
+[00:00:01]: Build Date: 2383
+[00:00:01]: Parsing command line
+[00:00:01]: Command Line Arguments: -monitor_parent_process 3964 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198061882216 -backup_log_count 10 -shard Master -sigprefix DST_Master 
+[00:00:01]: Initializing distribution platform
+[00:00:01]: Initializing Minidump handler
+[00:00:01]: ....Done
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (4692)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:4.16
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:01]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: [Warning] Failed to initialize, ignoring AuthorizeApp request
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (4104)
+[00:00:01]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:01]: Offline user ID: OU_76561198061882216
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:01]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:01]: HardwareStats:
   OS                        
     name                      Microsoft Windows 7 Professional 
     version                   6.1.7601
@@ -70,17 +70,17 @@ Process Memory:
     videoModeDescription      1920 x 1080 x 4294967296 colors
     driverVersion             21.21.13.7611
 
-[00:00:00]: cGame::InitializeOnMainThread
-[00:00:00]: Renderer initialize: Okay
-[00:00:00]: AnimManager initialize: Okay
-[00:00:00]: Buffers initialize: Okay
-[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: GameSpecific initialize: Okay
-[00:00:00]: cGame::StartPlaying
-[00:00:00]: LOADING LUA
-[00:00:00]: DoLuaFile scripts/main.lua
-[00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
 [00:00:01]: running main.lua
 	
 [00:00:01]: loaded modindex	
@@ -623,11 +623,11 @@ Process Memory:
 [00:00:04]: 	Load FE: done	
 [00:00:04]: ModIndex: Load sequence finished successfully.	
 [00:00:04]: Reset() returning
-[00:00:04]: [IPC] Signal 'DST_Master_Kill' opened  #0000032C
-[00:00:04]: [IPC] Registering handler for signal #0000032C
-[00:00:04]: [IPC] Handle #0000032C added to the Eventhandles
-[00:00:04]: [IPC] Signal 'DST_Master_Starting' opened  #00000324
-[00:00:04]: [IPC] Sending signal... #00000324
+[00:00:04]: [IPC] Signal 'DST_Master_Kill' opened  #0000031C
+[00:00:04]: [IPC] Registering handler for signal #0000031C
+[00:00:04]: [IPC] Handle #0000031C added to the Eventhandles
+[00:00:04]: [IPC] Signal 'DST_Master_Starting' opened  #00000320
+[00:00:04]: [IPC] Sending signal... #00000320
 [00:00:05]: [200] Account Communication Success (6)
 [00:00:05]: Received (KU_DHYCXywJ) from TokenPurpose
 [00:00:05]: Starting Dedicated Server Game	
@@ -1227,7 +1227,7 @@ Process Memory:
 [00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
 [00:00:07]: 	LOAD BE	
 [00:00:09]: 	LOAD BE: done	
-[00:00:09]: Loading world: session/50D874D52D5DBA28/0000000038	
+[00:00:09]: Loading world: session/50D874D52D5DBA28/0000000035	
 [00:00:09]: Save file is at version 4.77	
 [00:00:09]: Begin Session: 50D874D52D5DBA28
 [00:00:09]: saving to server_temp/server_save	
@@ -1263,26 +1263,26 @@ Process Memory:
 [00:00:10]: Loading Nav Grid	
 [00:00:10]: setting 	summerlength	15	
 [00:00:10]: setting 	isnightmaredawn	false	
-[00:00:10]: setting 	elapseddaysinseason	0	
+[00:00:10]: setting 	elapseddaysinseason	12	
 [00:00:10]: setting 	isfullmoon	false	
-[00:00:10]: setting 	moisture	1168.1973876953	
+[00:00:10]: setting 	moisture	1376.0227050781	
 [00:00:10]: setting 	springlength	20	
 [00:00:10]: setting 	isnightmarewild	false	
-[00:00:10]: setting 	moonphase	half	
+[00:00:10]: setting 	moonphase	threequarter	
 [00:00:10]: setting 	precipitationrate	0	
 [00:00:10]: setting 	iswet	false	
 [00:00:10]: setting 	isnewmoon	false	
-[00:00:10]: setting 	iswinter	false	
+[00:00:10]: setting 	iswinter	true	
 [00:00:10]: setting 	israining	false	
 [00:00:10]: setting 	isnightmarewarn	false	
 [00:00:10]: setting 	precipitation	none	
 [00:00:10]: setting 	cavephase	day	
-[00:00:10]: setting 	moistureceil	2364.41796875	
+[00:00:10]: setting 	moistureceil	1888.2998046875	
 [00:00:10]: setting 	isday	true	
 [00:00:10]: setting 	iscaveday	true	
-[00:00:10]: setting 	season	spring	
-[00:00:10]: setting 	timeinphase	0.0064932250976563	
-[00:00:10]: setting 	temperature	5.1234637822925	
+[00:00:10]: setting 	season	winter	
+[00:00:10]: setting 	timeinphase	0.0066246541341146	
+[00:00:10]: setting 	temperature	-13.09224901701	
 [00:00:10]: setting 	isnightmarecalm	false	
 [00:00:10]: setting 	isnight	false	
 [00:00:10]: setting 	isdusk	false	
@@ -1290,21 +1290,21 @@ Process Memory:
 [00:00:10]: setting 	isautumn	false	
 [00:00:10]: setting 	issnowing	false	
 [00:00:10]: setting 	iswaxingmoon	false	
-[00:00:10]: setting 	pop	0.16743702266931	
-[00:00:10]: setting 	snowlevel	0.78635722398758	
+[00:00:10]: setting 	pop	0.30504684578969	
+[00:00:10]: setting 	snowlevel	1	
 [00:00:10]: setting 	issnowcovered	true	
 [00:00:10]: setting 	autumnlength	20	
 [00:00:10]: setting 	phase	day	
 [00:00:10]: setting 	nightmaretime	0	
 [00:00:10]: setting 	winterlength	15	
-[00:00:10]: setting 	isspring	true	
+[00:00:10]: setting 	isspring	false	
 [00:00:10]: setting 	nightmarephase	none	
-[00:00:10]: setting 	remainingdaysinseason	20	
-[00:00:10]: setting 	cycles	35	
+[00:00:10]: setting 	remainingdaysinseason	3	
+[00:00:10]: setting 	cycles	32	
 [00:00:10]: setting 	iscavenight	false	
 [00:00:10]: setting 	nightmaretimeinphase	0	
 [00:00:10]: setting 	wetness	0	
-[00:00:10]: setting 	time	0.0020291328430176	
+[00:00:10]: setting 	time	0.0020702044169108	
 [00:00:10]: setting 	issummer	false	
 [00:00:15]: Reconstructing topology	
 [00:00:15]: 	...Sorting points	
@@ -1313,10 +1313,8 @@ Process Memory:
 [00:00:15]: 	...Validating connections	
 [00:00:15]: 	...Housekeeping	
 [00:00:15]: 	...Done!	
-[00:00:15]: Restoring user: session/50D874D52D5DBA28/A7ITR8891THU/0000000038	
-[00:00:15]: Restoring user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000038	
-[00:00:15]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000039
-[00:00:15]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000039
+[00:00:15]: Restoring user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000035	
+[00:00:15]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
 [00:00:15]: 1 uploads added to server. From server_temp
 [00:00:15]: About to start a shard with these settings:
 [00:00:15]:   ShardName: [SHDMASTER]
@@ -1328,20 +1326,20 @@ Process Memory:
 [00:00:15]: [Shard] Starting master server
 [00:00:15]: [Warning] Failed to initialize, ignoring IsPortOpen request
 [00:00:15]: [Shard] Shard server started on port: 10888
-[00:00:15]: [IPC] Signal 'DST_Master_Ready' opened  #000003F0
-[00:00:15]: [IPC] Sending signal... #000003F0
+[00:00:15]: [IPC] Signal 'DST_Master_Ready' opened  #00000420
+[00:00:15]: [IPC] Sending signal... #00000420
 [00:00:15]: Telling Client our new session identifier: 50D874D52D5DBA28
 [00:00:15]: ModIndex: Load sequence finished successfully.	
 [00:00:15]: Reset() returning
 [00:00:15]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
-[00:00:15]: [Steam] SteamGameServer_Init success
-[00:00:16]: Validating portal[2] <-> 993164935[2] (inactive)	
+[00:00:16]: [Steam] SteamGameServer_Init success
 [00:00:16]: Validating portal[1] <-> 993164935[1] (inactive)	
-[00:00:16]: Validating portal[10] <-> 993164935[10] (inactive)	
+[00:00:16]: Validating portal[2] <-> 993164935[2] (inactive)	
 [00:00:16]: Validating portal[4] <-> 993164935[4] (inactive)	
+[00:00:16]: Validating portal[3] <-> 993164935[3] (inactive)	
 [00:00:16]: Validating portal[7] <-> 993164935[7] (inactive)	
 [00:00:16]: Validating portal[9] <-> 993164935[9] (inactive)	
-[00:00:16]: Validating portal[3] <-> 993164935[3] (inactive)	
+[00:00:16]: Validating portal[10] <-> 993164935[10] (inactive)	
 [00:00:16]: Validating portal[6] <-> 993164935[6] (inactive)	
 [00:00:16]: Validating portal[8] <-> 993164935[8] (inactive)	
 [00:00:16]: Validating portal[5] <-> 993164935[5] (inactive)	
@@ -1349,81 +1347,186 @@ Process Memory:
 [00:00:20]: [Shard] Slave Caves(993164935) connected: [LAN] 127.0.0.1
 [00:00:22]: [Shard] Slave Caves(993164935) ready!
 [00:00:22]: World 993164935 is now connected	
-[00:00:22]: Validating portal[2] <-> 993164935[2] (disabled)	
 [00:00:22]: Validating portal[1] <-> 993164935[1] (disabled)	
-[00:00:22]: Validating portal[10] <-> 993164935[10] (disabled)	
+[00:00:22]: Validating portal[2] <-> 993164935[2] (disabled)	
 [00:00:22]: Validating portal[4] <-> 993164935[4] (disabled)	
+[00:00:22]: Validating portal[3] <-> 993164935[3] (disabled)	
 [00:00:22]: Validating portal[7] <-> 993164935[7] (disabled)	
 [00:00:22]: Validating portal[9] <-> 993164935[9] (disabled)	
-[00:00:22]: Validating portal[3] <-> 993164935[3] (disabled)	
+[00:00:22]: Validating portal[10] <-> 993164935[10] (disabled)	
 [00:00:22]: Validating portal[6] <-> 993164935[6] (disabled)	
 [00:00:22]: Validating portal[8] <-> 993164935[8] (active)	
 [00:00:22]: Validating portal[5] <-> 993164935[5] (active)	
 [00:00:22]: [Shard] Slave 'Caves(993164935)' restarting...
 [00:00:22]: World 993164935 is now disconnected	
-[00:00:22]: Validating portal[2] <-> 993164935[2] (inactive)	
 [00:00:22]: Validating portal[1] <-> 993164935[1] (inactive)	
-[00:00:22]: Validating portal[10] <-> 993164935[10] (inactive)	
+[00:00:22]: Validating portal[2] <-> 993164935[2] (inactive)	
 [00:00:22]: Validating portal[4] <-> 993164935[4] (inactive)	
+[00:00:22]: Validating portal[3] <-> 993164935[3] (inactive)	
 [00:00:22]: Validating portal[7] <-> 993164935[7] (inactive)	
 [00:00:22]: Validating portal[9] <-> 993164935[9] (inactive)	
-[00:00:22]: Validating portal[3] <-> 993164935[3] (inactive)	
+[00:00:22]: Validating portal[10] <-> 993164935[10] (inactive)	
 [00:00:22]: Validating portal[6] <-> 993164935[6] (inactive)	
 [00:00:22]: Validating portal[8] <-> 993164935[8] (inactive)	
 [00:00:22]: Validating portal[5] <-> 993164935[5] (inactive)	
-[00:00:28]: [Shard] Slave Caves(993164935) ready!
-[00:00:28]: World 993164935 is now connected	
-[00:00:28]: Validating portal[2] <-> 993164935[2] (disabled)	
-[00:00:28]: Validating portal[1] <-> 993164935[1] (disabled)	
-[00:00:28]: Validating portal[10] <-> 993164935[10] (disabled)	
-[00:00:28]: Validating portal[4] <-> 993164935[4] (disabled)	
-[00:00:28]: Validating portal[7] <-> 993164935[7] (disabled)	
-[00:00:28]: Validating portal[9] <-> 993164935[9] (disabled)	
-[00:00:28]: Validating portal[3] <-> 993164935[3] (disabled)	
-[00:00:28]: Validating portal[6] <-> 993164935[6] (disabled)	
-[00:00:28]: Validating portal[8] <-> 993164935[8] (active)	
-[00:00:28]: Validating portal[5] <-> 993164935[5] (active)	
-[00:00:28]: New incoming connection 192.168.2.36|54592 <2173954577875886538>
-[00:00:28]: Client connected from [LAN] 192.168.2.36|54592 <2173954577875886538>
-[00:00:28]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^RrmKBsYfLGzhAtG9/taUgypGVyHa+VxxzGfnQRyGtC8= for <2173954577875886538>
-[00:00:28]: Client authenticated: (KU_NTeGaFO-) 41205mw
-[00:00:28]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
-[00:00:29]: [Steam] Authenticated client '76561198192403467'
-[00:00:30]: New incoming connection 127.0.0.1|60095 <4562286558267518501>
-[00:00:30]: Client connected from [LAN] 127.0.0.1|60095 <4562286558267518501>
-[00:00:30]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^fVmuIs1blWZbS1LazjD5GJMqKUS/Q5H8foKgeElpLtQ= for <4562286558267518501>
-[00:00:30]: [Shard] Read save location file for (KU_NTeGaFO-)
-[00:00:30]: Client authenticated: (KU_DHYCXywJ) whatsupdude
-[00:00:30]: [Steam] Authenticated host '76561198061882216'
+[00:00:29]: [Shard] Slave Caves(993164935) ready!
+[00:00:29]: World 993164935 is now connected	
+[00:00:29]: Validating portal[1] <-> 993164935[1] (disabled)	
+[00:00:29]: Validating portal[2] <-> 993164935[2] (disabled)	
+[00:00:29]: Validating portal[4] <-> 993164935[4] (disabled)	
+[00:00:29]: Validating portal[3] <-> 993164935[3] (disabled)	
+[00:00:29]: Validating portal[7] <-> 993164935[7] (disabled)	
+[00:00:29]: Validating portal[9] <-> 993164935[9] (disabled)	
+[00:00:29]: Validating portal[10] <-> 993164935[10] (disabled)	
+[00:00:29]: Validating portal[6] <-> 993164935[6] (disabled)	
+[00:00:29]: Validating portal[8] <-> 993164935[8] (active)	
+[00:00:29]: Validating portal[5] <-> 993164935[5] (active)	
+[00:00:30]: New incoming connection 127.0.0.1|58997 <8257098199708516293>
+[00:00:30]: Client connected from [LAN] 127.0.0.1|58997 <8257098199708516293>
+[00:00:30]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^tiTbwPF3JD+5gdTe4vWh50iKXi+hOP8TeFgXr/DYeus= for <8257098199708516293>
+[00:00:31]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:00:31]: [Steam] Authenticated host '76561198061882216'
 [00:00:32]: [Shard] Read save location file for (KU_DHYCXywJ)
-[00:00:39]: Resuming user: session/50D874D52D5DBA28/A7ITR8891THU/0000000039
-[00:00:39]: Spawning player at: [Load] (251.19, 0.00, 350.68)	
-[00:00:39]: Sim unpaused
-[00:00:40]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000039
-[00:00:40]: Spawning player at: [Load] (-407.98, 0.00, -449.13)	
-[00:08:39]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000039
-[00:08:39]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000039
-[00:08:39]: Serializing world: session/50D874D52D5DBA28/0000000039
-[00:16:39]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000040
-[00:16:39]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000040
-[00:16:39]: Serializing world: session/50D874D52D5DBA28/0000000040
-[00:17:37]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
-[00:17:37]: toggling	
-[00:18:22]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
-[00:18:22]: toggling	
-[00:18:22]: OnGPUnpause	
-[00:23:19]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
-[00:23:19]: toggling	
-[00:23:36]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
-[00:23:36]: toggling	
-[00:23:36]: OnGPUnpause	
-[00:25:40]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000041
-[00:25:40]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000041
-[00:25:41]: Serializing world: session/50D874D52D5DBA28/0000000041
-[00:30:05]: [200] Account Communication Success (6)
-[00:30:05]: Received (KU_DHYCXywJ) from TokenPurpose
-[00:33:41]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000042
-[00:33:41]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000042
-[00:33:41]: Serializing world: session/50D874D52D5DBA28/0000000042
-[00:36:45]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
-[00:36:45]: toggling	
+[00:00:34]: New incoming connection 192.168.2.36|63906 <6876469593823854217>
+[00:00:34]: Client connected from [LAN] 192.168.2.36|63906 <6876469593823854217>
+[00:00:34]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^BExdtljZGikg19nA5oo1knf64hLu9ku82aGe3/tI1+o= for <6876469593823854217>
+[00:00:34]: Client authenticated: (KU_NTeGaFO-) 41205mw
+[00:00:34]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
+[00:00:34]: [Steam] Authenticated client '76561198192403467'
+[00:00:35]: [Shard] Read save location file for (KU_NTeGaFO-)
+[00:00:35]: [Shard] Forwarding player to Caves(993164935)
+[00:00:35]: [Shard] Begin migration #1 for (KU_NTeGaFO-)
+[00:00:35]: [Shard] #1 [SHDMASTER](1) -> Caves(993164935)
+[00:00:35]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:00:36]: Sim unpaused
+[00:00:36]: [Steam] SendUserDisconnect for '76561198192403467'
+[00:00:36]: [Shard] (KU_NTeGaFO-) disconnected from [SHDMASTER](1)
+[00:00:41]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
+[00:00:41]: Spawning player at: [Load] (-420.06, 0.00, -444.89)	
+[00:00:42]: [Shard] Completed migration #1 for player (KU_NTeGaFO-)
+[00:00:42]: [Shard] Writing save location file for (KU_NTeGaFO-)
+[00:01:18]: Activating portal[5] to 993164935	
+[00:01:19]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
+[00:01:19]: [Shard] Migration request: (KU_DHYCXywJ) to Caves(993164935)
+[00:01:19]: [Shard] Begin migration #2 for (KU_DHYCXywJ)
+[00:01:19]: [Shard] #2 [SHDMASTER](1) -> Caves(993164935)
+[00:01:19]: [Shard] #2 <- session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
+[00:01:19]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:01:19]: Ignored request to resume during migration
+[00:01:19]: [Steam] SendUserDisconnect for '76561198061882216'
+[00:01:19]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[00:01:21]: [Shard] Completed migration #2 for player (KU_DHYCXywJ)
+[00:01:21]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[00:01:51]: [Shard] Begin migration #3 for (KU_DHYCXywJ)
+[00:01:51]: [Shard] #3 Caves(993164935) -> [SHDMASTER](1)
+[00:01:51]: [Shard] #3 -> session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
+[00:01:51]: [Shard] Received migration #3 data for (KU_DHYCXywJ)
+[00:01:51]: [Shard] (KU_DHYCXywJ) disconnected from Caves(993164935)
+[00:01:53]: New incoming connection 127.0.0.1|60720 <2681682804558700133>
+[00:01:53]: Client connected from [LAN] 127.0.0.1|60720 <2681682804558700133>
+[00:01:53]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^vYzrob76KEgPWtwEuiylHcwzmx30aJC20a6/U+TUnWQ= for <2681682804558700133>
+[00:01:54]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:01:54]: [Steam] Authenticated host '76561198061882216'
+[00:01:54]: [Shard] Completed incoming migration #3 for (KU_DHYCXywJ)
+[00:01:54]: [Shard] Completed migration #3 for player (KU_DHYCXywJ)
+[00:01:54]: [Shard] Writing save location file for (KU_DHYCXywJ)
+[00:02:01]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
+[00:02:01]: Player will spawn close to portal #5	
+[00:02:01]: Spawning player at: [Load] (-364.57, 0.00, -408.71)	
+[00:02:01]: [Shard] Begin migration #4 for (KU_NTeGaFO-)
+[00:02:01]: [Shard] #4 Caves(993164935) -> [SHDMASTER](1)
+[00:02:01]: [Shard] #4 -> session/50D874D52D5DBA28/A7ITR8891THU/0000000036
+[00:02:01]: [Shard] Received migration #4 data for (KU_NTeGaFO-)
+[00:02:01]: [Shard] (KU_NTeGaFO-) disconnected from Caves(993164935)
+[00:02:03]: New incoming connection 192.168.2.36|63915 <8401477793417860777>
+[00:02:03]: Client connected from [LAN] 192.168.2.36|63915 <8401477793417860777>
+[00:02:03]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^XFWUqgXjsABaFe2AKmbeXNw6gn1qXlf94Et6tCNkhhg= for <8401477793417860777>
+[00:02:03]: Client authenticated: (KU_NTeGaFO-) 41205mw
+[00:02:03]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
+[00:02:04]: [Steam] Authenticated client '76561198192403467'
+[00:02:04]: [Shard] Completed incoming migration #4 for (KU_NTeGaFO-)
+[00:02:04]: [Shard] Completed migration #4 for player (KU_NTeGaFO-)
+[00:02:04]: [Shard] Writing save location file for (KU_NTeGaFO-)
+[00:02:10]: Resuming user: session/50D874D52D5DBA28/A7ITR8891THU/0000000036
+[00:02:10]: Player will spawn close to portal #5	
+[00:02:10]: Spawning player at: [Load] (-363.39, 0.00, -408.97)	
+[00:08:36]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000036
+[00:08:36]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000036
+[00:08:36]: Serializing world: session/50D874D52D5DBA28/0000000036
+[00:08:52]: Activating portal[5] to 993164935	
+[00:08:52]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000037
+[00:08:52]: [Shard] Migration request: (KU_NTeGaFO-) to Caves(993164935)
+[00:08:52]: [Shard] Begin migration #5 for (KU_NTeGaFO-)
+[00:08:52]: [Shard] #5 [SHDMASTER](1) -> Caves(993164935)
+[00:08:52]: [Shard] #5 <- session/50D874D52D5DBA28/A7ITR8891THU/0000000037
+[00:08:52]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
+[00:08:52]: [Steam] SendUserDisconnect for '76561198192403467'
+[00:08:52]: [Shard] (KU_NTeGaFO-) disconnected from [SHDMASTER](1)
+[00:08:56]: [Shard] Completed migration #5 for player (KU_NTeGaFO-)
+[00:08:56]: [Shard] Writing save location file for (KU_NTeGaFO-)
+[00:09:31]: [Shard] Begin migration #6 for (KU_NTeGaFO-)
+[00:09:31]: [Shard] #6 Caves(993164935) -> [SHDMASTER](1)
+[00:09:31]: [Shard] #6 -> session/50D874D52D5DBA28/A7ITR8891THU/0000000037
+[00:09:31]: [Shard] Received migration #6 data for (KU_NTeGaFO-)
+[00:09:31]: [Shard] (KU_NTeGaFO-) disconnected from Caves(993164935)
+[00:09:33]: New incoming connection 192.168.2.36|50894 <2508288592636390264>
+[00:09:33]: Client connected from [LAN] 192.168.2.36|50894 <2508288592636390264>
+[00:09:33]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^G1JvXuTbJWX8UcdltlXaSY0hjtUHcw5I4tJHwfmSuow= for <2508288592636390264>
+[00:09:34]: Client authenticated: (KU_NTeGaFO-) 41205mw
+[00:09:34]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
+[00:09:34]: [Steam] Authenticated client '76561198192403467'
+[00:09:34]: [Shard] Completed incoming migration #6 for (KU_NTeGaFO-)
+[00:09:34]: [Shard] Completed migration #6 for player (KU_NTeGaFO-)
+[00:09:34]: [Shard] Writing save location file for (KU_NTeGaFO-)
+[00:09:41]: Resuming user: session/50D874D52D5DBA28/A7ITR8891THU/0000000037
+[00:09:41]: Player will spawn close to portal #8	
+[00:09:41]: Spawning player at: [Load] (288.59, 0.00, 297.33)	
+[00:12:03]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[00:12:03]: toggling	
+[00:12:57]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[00:12:57]: toggling	
+[00:12:57]: OnGPUnpause	
+[00:12:59]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[00:12:59]: toggling	
+[00:15:38]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
+[00:15:38]: toggling	
+[00:15:38]: OnGPUnpause	
+[00:20:08]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000037
+[00:20:08]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000037
+[00:20:08]: Serializing world: session/50D874D52D5DBA28/0000000037
+[00:22:54]: Could not find anim [death] in bank [ghost]
+[00:22:54]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000038
+[00:23:11]: [Steam] SendUserDisconnect for '76561198192403467'
+[00:23:11]: [Shard] (KU_NTeGaFO-) disconnected from [SHDMASTER](1)
+[00:23:11]: [Steam] SendUserDisconnect for '76561198061882216'
+[00:23:11]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[00:23:11]: Serializing user: session/50D874D52D5DBA28/A7ITR8891THU/0000000038
+[00:23:11]: [IPC] Received shutdown signal.
+[00:23:11]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000038
+[00:23:12]: Serializing world: session/50D874D52D5DBA28/0000000038
+[00:23:12]: Truncating to snapshot #38...
+[00:23:12]:  - session/50D874D52D5DBA28/0000000032
+[00:23:12]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000032
+[00:23:12]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000032
+[00:23:12]:    3 file(s) removed
+[00:23:12]: unloading prefabs for mod MOD_workshop-758532836	
+[00:23:12]: unloading prefabs for mod MOD_workshop-347079953	
+[00:23:12]: unloading prefabs for mod MOD_workshop-375859599	
+[00:23:12]: unloading prefabs for mod MOD_workshop-362175979	
+[00:23:12]: unloading prefabs for mod MOD_workshop-1079538195	
+[00:23:12]: unloading prefabs for mod MOD_workshop-503919639	
+[00:23:12]: unloading prefabs for mod MOD_workshop-378160973	
+[00:23:12]: [Shard] Stopping shard mode
+[00:23:12]: Collecting garbage...
+[00:23:12]: lua_gc took 0.16 seconds
+[00:23:12]: ~ShardLuaProxy()
+[00:23:12]: ~ItemServerLuaProxy()
+[00:23:12]: ~InventoryLuaProxy()
+[00:23:12]: ~NetworkLuaProxy()
+[00:23:12]: ~SimLuaProxy()
+[00:23:13]: lua_close took 0.27 seconds
+[00:23:13]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:23:13]: shaders/ui_yuv.ksh - 1
+[00:23:13]: CurlRequestManager::ClientThread::Main() complete
+[00:23:13]: HttpClient2 discarded 1 callbacks.
+[00:23:13]: Shutting down

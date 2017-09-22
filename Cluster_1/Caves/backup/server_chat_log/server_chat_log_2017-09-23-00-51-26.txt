@@ -1,0 +1,5 @@
+[00:00:33]: [Join Announcement] 41205mw
+[00:00:35]: [Join Announcement] whatsupdude
+[00:26:30]: [Skin Announcement] whatsupdude body_cardigan_red_cardinal
+[00:36:31]: [Death Announcement] 41205mw 死亡，因為： 凍結。她成了一個令人毛骨悚然的鬼！
+[00:36:58]: [Leave Announcement] whatsupdude

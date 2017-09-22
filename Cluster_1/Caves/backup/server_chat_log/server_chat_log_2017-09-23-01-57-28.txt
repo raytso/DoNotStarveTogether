@@ -1,0 +1,5 @@
+[00:00:32]: [Join Announcement] 41205mw
+[00:00:39]: [Join Announcement] whatsupdude
+[00:14:45]: [Death Announcement] 41205mw 死亡，因為： 蜘蛛戰士。她成了一個令人毛骨悚然的鬼！
+[00:15:12]: [Leave Announcement] whatsupdude
+[00:15:13]: [Leave Announcement] 41205mw

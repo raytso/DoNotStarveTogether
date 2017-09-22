@@ -1,0 +1,5 @@
+[00:00:39]: [Join Announcement] whatsupdude
+[00:00:46]: [Join Announcement] 41205mw
+[00:22:53]: [Death Announcement] 41205mw 死亡，因為： 凍結。她成了一個令人毛骨悚然的鬼！
+[00:23:10]: [Leave Announcement] 41205mw
+[00:23:10]: [Leave Announcement] whatsupdude
