@@ -1,0 +1,4 @@
+[00:00:35]: [Join Announcement] 41205mw
+[00:00:37]: [Join Announcement] whatsupdude
+[00:02:58]: [Death Announcement] 41205mw 死亡，因為： 殺人蜂。她成了一個令人毛骨悚然的鬼！
+[00:03:03]: [Leave Announcement] whatsupdude
