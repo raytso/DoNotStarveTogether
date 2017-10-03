@@ -1,5 +1,0 @@
-[00:00:32]: [Join Announcement] 41205mw
-[00:00:39]: [Join Announcement] whatsupdude
-[00:19:46]: [Skin Announcement] 41205mw feet_sneakers_red_auburn
-[00:29:28]: [Death Announcement] whatsupdude 死亡，因為： 獨眼巨鹿。她成了一個令人毛骨悚然的鬼！
-[00:31:54]: [Leave Announcement] whatsupdude

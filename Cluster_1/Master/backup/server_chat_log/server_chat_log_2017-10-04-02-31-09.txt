@@ -1,0 +1,5 @@
+[00:00:39]: [Join Announcement] whatsupdude
+[00:00:47]: [Join Announcement] 41205mw
+[00:29:24]: [Death Announcement] whatsupdude 死亡，因為： 過熱。她成了一個令人毛骨悚然的鬼！
+[00:29:29]: [Leave Announcement] whatsupdude
+[00:29:29]: [Leave Announcement] 41205mw
