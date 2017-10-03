@@ -1,0 +1,10 @@
+[00:00:31]: [Join Announcement] 41205mw
+[00:00:38]: [Join Announcement] whatsupdude
+[00:24:21]: [Death Announcement] 41205mw 死亡，因為： 爬行夢魘。她成了一個令人毛骨悚然的鬼！
+[00:26:58]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
+[00:48:53]: [Skin Announcement] whatsupdude legs_checkered_pleats_green_laurel
+[01:30:54]: [Skin Announcement] whatsupdude body_trimmed_blouse_yellow_flax
+[02:20:47]: [Death Announcement] 41205mw 死亡，因為： 巨喙夢魘。她成了一個令人毛骨悚然的鬼！
+[02:22:42]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
+[03:12:12]: [Death Announcement] whatsupdude 死亡，因為： 豬人。她成了一個令人毛骨悚然的鬼！
+[03:13:20]: [Leave Announcement] whatsupdude
