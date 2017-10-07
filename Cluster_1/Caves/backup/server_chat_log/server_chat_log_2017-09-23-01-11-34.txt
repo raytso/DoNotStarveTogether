@@ -1,5 +1,0 @@
-[00:00:39]: [Join Announcement] whatsupdude
-[00:00:54]: [Join Announcement] 41205mw
-[00:16:23]: [Skin Announcement] 41205mw body_buttons_black_jet
-[00:19:35]: [Death Announcement] whatsupdude 死亡，因為： 獵犬。她成了一個令人毛骨悚然的鬼！
-[00:19:44]: [Leave Announcement] whatsupdude

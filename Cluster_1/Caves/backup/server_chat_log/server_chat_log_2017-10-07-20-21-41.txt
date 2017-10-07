@@ -1,0 +1,6 @@
+[00:00:45]: [Join Announcement] 41205mw
+[00:00:59]: [Join Announcement] whatsupdude
+[00:23:53]: [Skin Announcement] whatsupdude legs_pants_basic_grey_dark
+[00:43:59]: [Death Announcement] 41205mw 死亡，因為： 火獵犬。她成了一個令人毛骨悚然的鬼！
+[00:44:31]: [Death Announcement] whatsupdude 死亡，因為： 蜘蛛。她成了一個令人毛骨悚然的鬼！
+[00:44:37]: [Leave Announcement] whatsupdude

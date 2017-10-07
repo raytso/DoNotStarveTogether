@@ -1,0 +1,6 @@
+[00:00:39]: [Join Announcement] 41205mw
+[00:00:40]: [Join Announcement] whatsupdude
+[00:13:42]: [Death Announcement] 41205mw 死亡，因為： 熊獾。她成了一個令人毛骨悚然的鬼！
+[00:16:40]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
+[01:02:42]: [Leave Announcement] whatsupdude
+[01:02:42]: [Leave Announcement] 41205mw

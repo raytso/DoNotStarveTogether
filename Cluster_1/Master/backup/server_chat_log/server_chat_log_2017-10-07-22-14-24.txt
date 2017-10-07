@@ -1,0 +1,10 @@
+[00:00:38]: [Join Announcement] whatsupdude
+[00:00:57]: [Join Announcement] 41205mw
+[00:13:48]: [Skin Announcement] 41205mw hand_drivergloves_white_ivory
+[00:38:46]: [Skin Announcement] 41205mw body_sweatervest_blue_snowbird
+[00:43:21]: [Skin Announcement] whatsupdude legs_skirt_basic_grey_dark
+[01:22:36]: [Leave Announcement] 41205mw
+[01:27:15]: [Join Announcement] 41205mw
+[01:41:59]: [Death Announcement] 41205mw 死亡，因為： 熊獾。她成了一個令人毛骨悚然的鬼！
+[01:42:13]: [Leave Announcement] whatsupdude
+[01:42:14]: [Leave Announcement] 41205mw
