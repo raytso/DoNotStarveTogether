@@ -1,4 +1,0 @@
-[00:00:39]: [Join Announcement] whatsupdude
-[00:01:09]: [Join Announcement] 41205mw
-[00:11:47]: [Leave Announcement] whatsupdude
-[00:11:48]: [Leave Announcement] 41205mw

@@ -1,0 +1,5 @@
+[00:00:35]: [Join Announcement] whatsupdude
+[00:00:41]: [Join Announcement] 41205mw
+[00:17:53]: [Death Announcement] whatsupdude 死亡，因為： 爬行夢魘。她成了一個令人毛骨悚然的鬼！
+[00:18:01]: [Leave Announcement] whatsupdude
+[00:18:02]: [Leave Announcement] 41205mw

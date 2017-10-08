@@ -1,15 +1,2 @@
-[01:13:07]: [Death Announcement] 41205mw 死亡，因為： 火獵犬。她成了一個令人毛骨悚然的鬼！
-[01:13:38]: [Death Announcement] whatsupdude 死亡，因為： 蜘蛛。她成了一個令人毛骨悚然的鬼！
-[01:30:25]: [Join Announcement] 41205mw
-[01:38:41]: [Death Announcement] whatsupdude 死亡，因為： 獵犬。她成了一個令人毛骨悚然的鬼！
-[01:40:26]: [Join Announcement] 41205mw
-[01:53:17]: [Skin Announcement] 41205mw hand_drivergloves_white_ivory
-[02:18:15]: [Skin Announcement] 41205mw body_sweatervest_blue_snowbird
-[03:02:05]: [Leave Announcement] 41205mw
-[03:06:44]: [Join Announcement] 41205mw
-[03:21:28]: [Death Announcement] 41205mw 死亡，因為： 熊獾。她成了一個令人毛骨悚然的鬼！
-[03:23:25]: [Join Announcement] 41205mw
-[03:26:24]: [Join Announcement] 41205mw
-[03:39:25]: [Death Announcement] 41205mw 死亡，因為： 熊獾。她成了一個令人毛骨悚然的鬼！
-[03:42:23]: [Resurrect Announcement] 41205mw 復活自 臨時傳送門.
-[04:32:18]: [Join Announcement] 41205mw
+[00:01:16]: [Join Announcement] 41205mw
+[00:47:28]: [Death Announcement] 41205mw 死亡，因為： 獨眼巨鹿。她成了一個令人毛骨悚然的鬼！
