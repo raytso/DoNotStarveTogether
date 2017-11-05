@@ -1,0 +1,679 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 41%
+	Available Physical Memory: 4783m/8136m
+	Available Page File: 8501m/12134m
+	Available Virtual Memory: 3988m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 27m
+	Working Set Size: 26m
+	Quota Peak Page Pool Usage: 200k
+	Quota Page Pool Usage: 195k
+	Quota Peak Non Paged Pool Usage:16k
+	Quota Non Paged Pool Usage: 15k
+	Page File Usage: 5m
+	Peak Page File Usage: 5m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 239925
+[00:00:00]: Current time: Sun Nov 05 19:49:29 2017
+
+[00:00:00]: Don't Starve Together: 239925 WIN32_STEAM
+[00:00:00]: Build Date: 2397
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 2246952
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (3176)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.01
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:00]: [Warning] Failed to initialize, ignoring AuthorizeApp request
+[00:00:00]: could not load ping_cache
+[00:00:00]: THREAD - started 'StreamInput' (696)
+[00:00:00]: Offline user ID: OU_76561198061882216
+[00:00:00]: SteamID: 76561198061882216
+[00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
+[00:00:00]: [Warning] Failed to initialize Windows Firewall Profile
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 7 專業版 
+    version                   6.1.7601
+    architecture              64-bit
+    platformSpecific          SP 1.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3201
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 750
+    driverDate                20160208000000.000000-000
+    megsOfRam                 1024
+    refreshRate               60
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    driverVersion             10.18.13.6191
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 12 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 750)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (4128)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-780009141	
+[00:00:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-825009701	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:02]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:02]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:00:02]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:00:02]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.6 (Old API! (mod: 4 game: 10) )	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:00:02]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-780009141	
+[00:00:02]: Loading mod: workshop-780009141 (Finder) Version:1.1 (Old API! (mod: 6 game: 10) )	
+[00:00:02]: Could not load mod_config_data/modconfiguration_workshop-825009701	
+[00:00:02]: Loading mod: workshop-825009701 (Trap Auto-reset) Version:0.2	
+[00:00:02]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:02]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:02]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:02]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:02]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:02]: Mod: workshop-780009141 (Finder)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-780009141 (Finder)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-780009141 (Finder)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:00:02]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:00:02]: Mod: workshop-825009701 (Trap Auto-reset)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-825009701 (Trap Auto-reset)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-825009701 (Trap Auto-reset)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:00:02]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:00:02]: ../mods/workshop-609429306//language.lua font installed.	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:00:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	1696	
+[00:00:04]: PlayerHistory loaded player_history	606	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:06]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-780009141 (Finder)	Registering prefabs	
+[00:00:06]: Mod: workshop-780009141 (Finder)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:00:06]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:00:06]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:00:06]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-825009701 (Trap Auto-reset)	Registering prefabs	
+[00:00:06]: Mod: workshop-825009701 (Trap Auto-reset)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:00:06]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:06]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:00:06]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:00:06]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:00:06]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:00:06]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:00:06]: 	Load FE	
+[00:00:06]: 	Load FE: done	
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:06]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:06]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:06]: SimLuaProxy::QueryServer()
+[00:00:06]: ModIndex: Load sequence finished successfully.	
+[00:00:06]: Reset() returning
+[00:00:13]: [Steam] Auth Session Ticket requested...
+[00:00:13]: [Steam] Got Auth Session Ticket
+[00:00:15]: [200] Account Communication Success (3)
+[00:00:15]: loaded inventory_cache
+[00:00:15]: Logging in as KU_DHYCXywJ
+[00:00:16]: loaded inventory_cache
+[00:00:17]: SimLuaProxy::QueryServer()
+[00:00:19]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"external", "limit": 20}
+[00:00:19]: Frontend-Unloading mod 'all'.	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:19]: FrontendLoadMod	workshop-758532836	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:19]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:19]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: FrontendLoadMod	workshop-378160973	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:19]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:19]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: FrontendLoadMod	workshop-1079538195	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:19]: Fontend-Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:19]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: FrontendLoadMod	workshop-503919639	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:00:19]: Fontend-Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:00:19]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: FrontendLoadMod	workshop-362175979	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:00:19]: Fontend-Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:19]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: FrontendLoadMod	workshop-347079953	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:19]: Fontend-Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:19]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:19]: FrontendLoadMod	workshop-375859599	
+[00:00:19]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:19]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:19]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:19]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:24]: Truncating to snapshot #109...
+[00:00:24]:  - session/50D874D52D5DBA28/0000000110
+[00:00:24]:  - session/50D874D52D5DBA28/0000000111
+[00:00:24]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000111
+[00:00:24]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000110
+[00:00:24]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000111
+[00:00:24]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000110
+[00:00:24]:    6 file(s) removed
+[00:00:24]:  > session/50D874D52D5DBA28/A7ITR8891THU/savelocation
+[00:00:24]:    1 file(s) updated
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-503919639	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-362175979	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-347079953	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:26]: [IPC] Signal 'DST_Master_Starting' created  #00000594
+[00:00:26]: [IPC] Clearing pending signals #00000594...
+[00:00:26]: [IPC] Registering handler for signal #00000594
+[00:00:26]: [IPC] Handle #00000594 added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Master_WorldGen' created  #000005A0
+[00:00:26]: [IPC] Clearing pending signals #000005A0...
+[00:00:26]: [IPC] Registering handler for signal #000005A0
+[00:00:26]: [IPC] Handle #000005A0 added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Master_Ready' created  #000005AC
+[00:00:26]: [IPC] Clearing pending signals #000005AC...
+[00:00:26]: [IPC] Registering handler for signal #000005AC
+[00:00:26]: [IPC] Handle #000005AC added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Master_ErrPort' created  #0000059C
+[00:00:26]: [IPC] Clearing pending signals #0000059C...
+[00:00:26]: [IPC] Registering handler for signal #0000059C
+[00:00:26]: [IPC] Handle #0000059C added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Master_ErrStartup' created  #00000508
+[00:00:26]: [IPC] Clearing pending signals #00000508...
+[00:00:26]: [IPC] Registering handler for signal #00000508
+[00:00:26]: [IPC] Handle #00000508 added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Master_Kill' created  #000005B0
+[00:00:26]: [IPC] Clearing pending signals #000005B0...
+[00:00:26]: [IPC] Signal 'DST_Slave_Starting' created  #000005C0
+[00:00:26]: [IPC] Clearing pending signals #000005C0...
+[00:00:26]: [IPC] Registering handler for signal #000005C0
+[00:00:26]: [IPC] Handle #000005C0 added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Slave_WorldGen' created  #000005BC
+[00:00:26]: [IPC] Clearing pending signals #000005BC...
+[00:00:26]: [IPC] Registering handler for signal #000005BC
+[00:00:26]: [IPC] Handle #000005BC added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Slave_Ready' created  #000005CC
+[00:00:26]: [IPC] Clearing pending signals #000005CC...
+[00:00:26]: [IPC] Registering handler for signal #000005CC
+[00:00:26]: [IPC] Handle #000005CC added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Slave_ErrPort' created  #000005D0
+[00:00:26]: [IPC] Clearing pending signals #000005D0...
+[00:00:26]: [IPC] Registering handler for signal #000005D0
+[00:00:26]: [IPC] Handle #000005D0 added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Slave_ErrStartup' created  #000005D4
+[00:00:26]: [IPC] Clearing pending signals #000005D4...
+[00:00:26]: [IPC] Registering handler for signal #000005D4
+[00:00:26]: [IPC] Handle #000005D4 added to the Eventhandles
+[00:00:26]: [IPC] Signal 'DST_Slave_Kill' created  #000005D8
+[00:00:26]: [IPC] Clearing pending signals #000005D8...
+[00:00:32]: [IPC] Received DST_Slave Starting signal !
+[00:00:32]: [IPC] Received DST_Master Starting signal !
+[00:00:44]: [IPC] Received DST_Master Ready signal !
+[00:00:57]: [IPC] Received DST_Slave Ready signal !
+[00:00:57]: [Connect] Init client connection to 127.0.0.1|10999
+[00:00:57]: [Connect] PendingConnection::Reset(true)
+[00:00:57]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:57]: [Connect] InternalInitClient <5061847375547672207>
+[00:00:57]: [Shard] Starting shard mode as player
+[00:00:57]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:00:57]: [Connect] Sending ping(s)...
+[00:00:57]: [Connect] Ping 127.0.0.1|10999
+[00:00:57]: [Connect] Ping response from 127.0.0.1|10999
+[00:00:57]: [Connect] Joining server from ping response...
+[00:00:57]: Friends are currently playing in 0 games(s)!
+[00:00:57]: You belong to 0 clan(s)!
+[00:00:57]: [Connect] Got join server response from lua
+[00:00:58]: [200] Account Communication Success (13)
+[00:00:58]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:00:58]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:00:58]: Connection accepted to 127.0.0.1|10999 <7376902314330125879>
+[00:00:58]: Network external address discovered: 127.0.0.1|59083
+[00:00:58]: SendClientHandShakePacket "pgs-sing^KU_DHYCXywJ^DontStarveTogether^zEV7sCm2dLclqCJPfDhefd/mzPnneI07WeKgWg4EwWY=" to <7376902314330125879>
+[00:00:58]: DeserializeHandShakeServerListing
+[00:00:58]: Network tick rate: U=10(3), D=15
+[00:00:58]: Version: 239925
+[00:00:58]: [Steam] Game Connection initiated
+[00:00:58]: SendClientInventoryHandShakePacket to <7376902314330125879>
+[00:00:59]: Begin Session: 50D874D52D5DBA28
+[00:01:00]: Done Downloading Client Object Data
+[00:01:00]: DownloadMods and temp disable	
+[00:01:00]: We now have the required mods, enable them for server	
+[00:01:00]: Temp Enabling workshop-758532836	
+[00:01:00]: Temp Enabling workshop-378160973	
+[00:01:00]: Temp Enabling workshop-362175979	
+[00:01:00]: Temp Enabling workshop-1079538195	
+[00:01:00]: Temp Enabling workshop-503919639	
+[00:01:00]: Temp Enabling workshop-347079953	
+[00:01:00]: Temp Enabling workshop-375859599	
+[00:01:00]: ModIndex:SetTempModConfigData	
+[00:01:00]: Setting temp mod config for mod 	workshop-503919639	
+[00:01:00]: Setting temp mod config for mod 	workshop-758532836	
+[00:01:00]: Setting temp mod config for mod 	workshop-362175979	
+[00:01:00]: Setting temp mod config for mod 	workshop-378160973	
+[00:01:00]: Setting temp mod config for mod 	workshop-1079538195	
+[00:01:00]: Setting temp mod config for mod 	workshop-347079953	
+[00:01:00]: Setting temp mod config for mod 	workshop-375859599	
+[00:01:00]: Mods are setup for server, save the mod index and proceed.	
+[00:01:00]: Downloading [0] From: server_temp
+[00:01:00]: Download complete[0] Files: 7536745 Size: 7602273
+[00:01:02]: unloading prefabs for mod MOD_workshop-365119238	
+[00:01:02]: unloading prefabs for mod MOD_workshop-780009141	
+[00:01:02]: unloading prefabs for mod MOD_workshop-714735102	
+[00:01:02]: unloading prefabs for mod MOD_workshop-825009701	
+[00:01:02]: unloading prefabs for mod MOD_workshop-609429306	
+[00:01:02]: unloading prefabs for mod MOD_workshop-345692228	
+[00:01:02]: unloading prefabs for mod MOD_workshop-604196908	
+[00:01:02]: Collecting garbage...
+[00:01:02]: lua_gc took 0.02 seconds
+[00:01:02]: ~ShardLuaProxy()
+[00:01:02]: ~ItemServerLuaProxy()
+[00:01:02]: ~InventoryLuaProxy()
+[00:01:02]: ~NetworkLuaProxy()
+[00:01:02]: ~SimLuaProxy()
+[00:01:02]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:02]: lua_close took 0.04 seconds
+[00:01:02]: ReleaseAll
+[00:01:02]: ReleaseAll Finished
+[00:01:02]: cGame::StartPlaying
+[00:01:02]: LOADING LUA
+[00:01:02]: DoLuaFile scripts/main.lua
+[00:01:02]: DoLuaFile loading buffer scripts/main.lua
+[00:01:02]: Translator:LoadPOFile - loading file: scripts/languages/zh_TW.po	
+[00:01:02]: running main.lua
+	
+[00:01:02]: loaded modindex	
+[00:01:02]: ModIndex: Beginning normal load sequence.
+	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-503919639	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-780009141	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-825009701	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:01:02]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:01:02]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:01:02]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:01:02]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:02]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:01:02]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:01:02]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-503919639_CLIENT	
+[00:01:02]: Loading mod: workshop-503919639 (DST Equipment Switcher) Version:1.33	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-604196908	
+[00:01:02]: Loading mod: workshop-604196908 (Auto ReEquip Weapon) Version:1.0.0 (Old API! (mod: 6 game: 10) )	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-609429306	
+[00:01:02]: Loading mod: workshop-609429306 (Traditional Chinese Language Pack) Version:beta 1.6 (Old API! (mod: 4 game: 10) )	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-714735102	
+[00:01:02]: Loading mod: workshop-714735102 (Waypoint) Version:1.0.6c	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-758532836_CLIENT	
+[00:01:02]: Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-780009141	
+[00:01:02]: Loading mod: workshop-780009141 (Finder) Version:1.1 (Old API! (mod: 6 game: 10) )	
+[00:01:02]: Could not load mod_config_data/modconfiguration_workshop-825009701	
+[00:01:02]: Loading mod: workshop-825009701 (Trap Auto-reset) Version:0.2	
+[00:01:02]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:01:02]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:01:02]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:01:02]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:01:02]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:01:02]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:01:02]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-758532836 (Global Pause)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-780009141 (Finder)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-780009141 (Finder)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-780009141 (Finder)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:01:02]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:01:02]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-714735102 (Waypoint)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-714735102 (Waypoint)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-714735102 (Waypoint)	Loading modmain.lua	
+[00:01:02]: modimport: ../mods/workshop-714735102/stringlocalization_en.lua	
+[00:01:02]: Mod: workshop-825009701 (Trap Auto-reset)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-825009701 (Trap Auto-reset)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-825009701 (Trap Auto-reset)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Loading modmain.lua	
+[00:01:02]: ../mods/workshop-609429306//zh_TW.po font installed.	
+[00:01:02]: ../mods/workshop-609429306//language.lua font installed.	
+[00:01:02]: Mod: workshop-1079538195 (Moving Box)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-1079538195 (Moving Box)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-1079538195 (Moving Box)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-503919639 (DST Equipment Switcher)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-503919639 (DST Equipment Switcher)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Loading modmain.lua	
+[00:01:02]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:02]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:02]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-503919639	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-604196908	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-609429306	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-714735102	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-780009141	
+[00:01:02]: ModIndex:GetModsToLoad inserting moddir, 	workshop-825009701	
+[00:01:03]: LOADING LUA SUCCESS
+[00:01:03]: Registering mod namespace "globalpause"
+[00:01:03]: Registering mod namespace "workshop-378160973"
+[00:01:03]: Registering mod namespace "food item"
+[00:01:03]: PlayerDeaths loaded morgue	1696	
+[00:01:03]: PlayerHistory loaded player_history	606	
+[00:01:03]: bloom_enabled	false	
+[00:01:03]: loaded saveindex	
+[00:01:03]: OnFilesLoaded()	
+[00:01:03]: OnUpdatePurchaseStateComplete	
+[00:01:03]: 	Unload FE	
+[00:01:03]: 	Unload FE done	
+[00:01:04]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:01:04]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:01:04]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:01:04]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-780009141 (Finder)	Registering prefabs	
+[00:01:04]: Mod: workshop-780009141 (Finder)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:01:04]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:01:04]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-714735102 (Waypoint)	Registering prefabs	
+[00:01:04]: Mod: workshop-714735102 (Waypoint)	  Registering prefab file: prefabs/flagplacer	
+[00:01:04]: Mod: workshop-714735102 (Waypoint)	    flagplacer	
+[00:01:04]: Mod: workshop-714735102 (Waypoint)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-825009701 (Trap Auto-reset)	Registering prefabs	
+[00:01:04]: Mod: workshop-825009701 (Trap Auto-reset)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	Registering prefabs	
+[00:01:04]: Mod: workshop-609429306 (Traditional Chinese Language Pack)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[00:01:04]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[00:01:04]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[00:01:04]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[00:01:04]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:01:04]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-503919639 (DST Equipment Switcher)	Registering prefabs	
+[00:01:04]: Mod: workshop-503919639 (DST Equipment Switcher)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-604196908 (Auto ReEquip Weapon)	Registering prefabs	
+[00:01:04]: Mod: workshop-604196908 (Auto ReEquip Weapon)	  Registering default mod prefab	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:01:04]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:01:04]: ../mods/workshop-714735102/images/flagmini.tex is 96x96 but compressed textures must have power of 2 dimensions.
+[00:01:04]: ../mods/workshop-714735102/images/white.tex is 3x3 but compressed textures must have power of 2 dimensions.
+[00:01:04]: ../mods/workshop-714735102/images/nline.tex is 1230x3 but compressed textures must have power of 2 dimensions.
+[00:01:04]: 	LOAD BE	
+[00:01:06]: 	LOAD BE: done	
+[00:01:06]: Loading world: client_temp/server_save	
+[00:01:06]: Save file is at version 4.77	
+[00:01:06]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-714735102/images/flagmini.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:01:06]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:01:07]: Loading Nav Grid	
+[00:01:07]: setting 	summerlength	15	
+[00:01:07]: setting 	isnightmaredawn	false	
+[00:01:07]: setting 	elapseddaysinseason	13	
+[00:01:07]: setting 	isfullmoon	false	
+[00:01:07]: setting 	moisture	829.4384765625	
+[00:01:07]: setting 	springlength	20	
+[00:01:07]: setting 	isnightmarewild	false	
+[00:01:07]: setting 	moonphase	quarter	
+[00:01:07]: setting 	precipitationrate	0	
+[00:01:07]: setting 	iswet	false	
+[00:01:07]: setting 	isnewmoon	false	
+[00:01:07]: setting 	iswinter	true	
+[00:01:07]: setting 	israining	false	
+[00:01:07]: setting 	issummer	false	
+[00:01:07]: setting 	time	0.0020614624023437	
+[00:01:07]: setting 	wetness	0	
+[00:01:07]: setting 	moistureceil	2364.2861328125	
+[00:01:07]: setting 	isday	true	
+[00:01:07]: setting 	nightmaretimeinphase	0	
+[00:01:07]: setting 	season	winter	
+[00:01:07]: setting 	isnight	false	
+[00:01:07]: setting 	cycles	103	
+[00:01:07]: setting 	isnightmarecalm	false	
+[00:01:07]: setting 	timeinphase	0.0065966796875	
+[00:01:07]: setting 	isdusk	false	
+[00:01:07]: setting 	iscavedusk	false	
+[00:01:07]: setting 	isautumn	false	
+[00:01:07]: setting 	iscaveday	true	
+[00:01:07]: setting 	remainingdaysinseason	2	
+[00:01:07]: setting 	phase	day	
+[00:01:07]: setting 	snowlevel	1	
+[00:01:07]: setting 	iswaxingmoon	true	
+[00:01:07]: setting 	autumnlength	20	
+[00:01:07]: setting 	pop	0.10525586761073	
+[00:01:07]: setting 	nightmaretime	0	
+[00:01:07]: setting 	isspring	false	
+[00:01:07]: setting 	winterlength	15	
+[00:01:07]: setting 	nightmarephase	none	
+[00:01:07]: setting 	issnowcovered	true	
+[00:01:07]: setting 	issnowing	false	
+[00:01:07]: setting 	iscavenight	false	
+[00:01:07]: setting 	temperature	-7.1020400996804	
+[00:01:07]: setting 	cavephase	day	
+[00:01:07]: setting 	precipitation	none	
+[00:01:07]: setting 	isnightmarewarn	false	
+[00:01:07]: Reconstructing topology	
+[00:01:07]: 	...Sorting points	
+[00:01:07]: 	...Sorting edges	
+[00:01:07]: 	...Connecting nodes	
+[00:01:07]: 	...Validating connections	
+[00:01:07]: 	...Housekeeping	
+[00:01:07]: 	...Done!	
+[00:01:07]: ModIndex: Load sequence finished successfully.	
+[00:01:07]: Reset() returning
+[00:01:08]: Attempting to send resume request
+[00:01:08]: ReceiveResumeNotification
+[00:01:09]: Movement prediction enabled	
+[00:01:09]: Deserializing tile data (425 x 425)
+[00:04:35]: SendRemoteExecute(GPTogglePause())
