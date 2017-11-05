@@ -1,8 +1,0 @@
-[00:01:00]: [Join Announcement] 41205mw
-[00:01:18]: [Join Announcement] whatsupdude
-[00:30:24]: [Leave Announcement] 41205mw
-[00:31:35]: [Skin Announcement] whatsupdude body_flannel_purple_grape
-[00:31:55]: [Join Announcement] 41205mw
-[00:36:27]: [Death Announcement] whatsupdude 死亡，因為： 兔人。她成了一個令人毛骨悚然的鬼！
-[00:36:37]: [Leave Announcement] 41205mw
-[00:36:39]: [Leave Announcement] whatsupdude

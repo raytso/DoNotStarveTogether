@@ -1,7 +1,0 @@
-[00:00:41]: [Join Announcement] whatsupdude
-[00:00:50]: [Join Announcement] 41205mw
-[00:25:11]: [Skin Announcement] 41205mw body_cardigan_white_ghost
-[00:59:55]: [Leave Announcement] 41205mw
-[01:00:28]: [Join Announcement] 41205mw
-[01:41:25]: [Skin Announcement] whatsupdude feet_sneakers_blue_catcoon
-[01:55:34]: [Leave Announcement] whatsupdude

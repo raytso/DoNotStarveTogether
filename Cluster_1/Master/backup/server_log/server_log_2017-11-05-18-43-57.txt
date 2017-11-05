@@ -1,8 +1,8 @@
 [00:00:00]: 
 System Memory:
 	Memory Load: 48%
-	Available Physical Memory: 4184m/8136m
-	Available Page File: 7670m/12134m
+	Available Physical Memory: 4164m/8136m
+	Available Page File: 7723m/12134m
 	Available Virtual Memory: 3993m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
@@ -18,21 +18,21 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 239925
-[00:00:00]: Current time: Sun Nov 05 19:49:57 2017
+[00:00:00]: Current time: Sun Nov 05 18:40:43 2017
 
 [00:00:00]: Don't Starve Together: 239925 WIN32
 [00:00:00]: Build Date: 2537
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 4820 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198061882216 -backup_log_count 10 -shard Master -sigprefix DST_Master 
+[00:00:00]: Command Line Arguments: -monitor_parent_process 4056 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198061882216 -backup_log_count 10 -shard Master -sigprefix DST_Master 
 [00:00:00]: Initializing distribution platform
 [00:00:00]: Initializing Minidump handler
 [00:00:00]: ....Done
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (1876)
+[00:00:00]: THREAD - started 'GAClient' (5020)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:4.51
+[00:00:00]: ProfileIndex:4.42
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: [Warning] CoCreateInstance failed: 0x800706d9
@@ -40,7 +40,7 @@ Process Memory:
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: [Warning] Failed to initialize, ignoring AuthorizeApp request
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
-[00:00:00]: THREAD - started 'StreamInput' (3800)
+[00:00:00]: THREAD - started 'StreamInput' (5024)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
 [00:00:00]: Offline user ID: OU_76561198061882216
@@ -623,65 +623,65 @@ Process Memory:
 [00:00:04]: 	Load FE: done	
 [00:00:04]: ModIndex: Load sequence finished successfully.	
 [00:00:04]: Reset() returning
-[00:00:04]: [IPC] Signal 'DST_Master_Kill' opened  #000002F4
-[00:00:04]: [IPC] Registering handler for signal #000002F4
-[00:00:04]: [IPC] Handle #000002F4 added to the Eventhandles
-[00:00:04]: [IPC] Signal 'DST_Master_Starting' opened  #000002E8
-[00:00:04]: [IPC] Sending signal... #000002E8
-[00:00:04]: [200] Account Communication Success (6)
-[00:00:04]: Received (KU_DHYCXywJ) from TokenPurpose
-[00:00:04]: Starting Dedicated Server Game	
-[00:00:04]: Network tick rate: U=15(2), D=0
-[00:00:04]: About to start a server with the following settings:
-[00:00:04]:   Dedicated: true
-[00:00:04]:   Online: true
-[00:00:04]:   Passworded: false
-[00:00:04]:   ServerPort: 10999
-[00:00:04]:   SteamAuthPort: 8766
-[00:00:04]:   SteamMasterServerPort: 27016
-[00:00:04]:   ClanID: false
-[00:00:04]:   ClanOnly: false
-[00:00:04]:   ClanAdmin: false
-[00:00:04]:   LanOnly: false
-[00:00:04]:   FriendsOnly: true
-[00:00:04]:   EnableAutosaver: true
-[00:00:04]:   EncodeUserPath: true
-[00:00:04]:   PVP: false
-[00:00:04]:   Event: false
-[00:00:04]:   MaxPlayers: 4
-[00:00:04]:   GameMode: endless
-[00:00:04]:   OverridenDNS: 
-[00:00:04]:   PauseWhenEmpty: true
-[00:00:04]:   VoteEnabled: false
-[00:00:04]:   InternetBroadcasting: true
-[00:00:04]:   Intent: cooperative
-[00:00:04]: [Warning] Failed to initialize, ignoring IsPortOpen request
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-758532836	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-378160973	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-362175979	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-503919639	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-347079953	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-375859599	
-[00:00:04]: Online Server Started on port: 10999
-[00:00:04]: unloading prefabs for mod MOD_workshop-758532836	
-[00:00:04]: unloading prefabs for mod MOD_workshop-347079953	
-[00:00:04]: unloading prefabs for mod MOD_workshop-375859599	
-[00:00:04]: unloading prefabs for mod MOD_workshop-362175979	
-[00:00:04]: unloading prefabs for mod MOD_workshop-1079538195	
-[00:00:04]: unloading prefabs for mod MOD_workshop-503919639	
-[00:00:04]: unloading prefabs for mod MOD_workshop-378160973	
-[00:00:04]: Collecting garbage...
-[00:00:04]: lua_gc took 0.02 seconds
-[00:00:04]: ~ShardLuaProxy()
-[00:00:04]: ~ItemServerLuaProxy()
-[00:00:04]: ~InventoryLuaProxy()
-[00:00:04]: ~NetworkLuaProxy()
-[00:00:04]: ~SimLuaProxy()
-[00:00:04]: lua_close took 0.03 seconds
-[00:00:04]: ReleaseAll
-[00:00:04]: ReleaseAll Finished
-[00:00:04]: cGame::StartPlaying
+[00:00:04]: [IPC] Signal 'DST_Master_Kill' opened  #000002F0
+[00:00:04]: [IPC] Registering handler for signal #000002F0
+[00:00:04]: [IPC] Handle #000002F0 added to the Eventhandles
+[00:00:04]: [IPC] Signal 'DST_Master_Starting' opened  #0000030C
+[00:00:04]: [IPC] Sending signal... #0000030C
+[00:00:05]: [200] Account Communication Success (6)
+[00:00:05]: Received (KU_DHYCXywJ) from TokenPurpose
+[00:00:05]: Starting Dedicated Server Game	
+[00:00:05]: Network tick rate: U=15(2), D=0
+[00:00:05]: About to start a server with the following settings:
+[00:00:05]:   Dedicated: true
+[00:00:05]:   Online: true
+[00:00:05]:   Passworded: false
+[00:00:05]:   ServerPort: 10999
+[00:00:05]:   SteamAuthPort: 8766
+[00:00:05]:   SteamMasterServerPort: 27016
+[00:00:05]:   ClanID: false
+[00:00:05]:   ClanOnly: false
+[00:00:05]:   ClanAdmin: false
+[00:00:05]:   LanOnly: false
+[00:00:05]:   FriendsOnly: true
+[00:00:05]:   EnableAutosaver: true
+[00:00:05]:   EncodeUserPath: true
+[00:00:05]:   PVP: false
+[00:00:05]:   Event: false
+[00:00:05]:   MaxPlayers: 4
+[00:00:05]:   GameMode: endless
+[00:00:05]:   OverridenDNS: 
+[00:00:05]:   PauseWhenEmpty: true
+[00:00:05]:   VoteEnabled: false
+[00:00:05]:   InternetBroadcasting: true
+[00:00:05]:   Intent: cooperative
+[00:00:05]: [Warning] Failed to initialize, ignoring IsPortOpen request
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1079538195	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-503919639	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:05]: Online Server Started on port: 10999
+[00:00:05]: unloading prefabs for mod MOD_workshop-758532836	
+[00:00:05]: unloading prefabs for mod MOD_workshop-347079953	
+[00:00:05]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:05]: unloading prefabs for mod MOD_workshop-362175979	
+[00:00:05]: unloading prefabs for mod MOD_workshop-1079538195	
+[00:00:05]: unloading prefabs for mod MOD_workshop-503919639	
+[00:00:05]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:05]: Collecting garbage...
+[00:00:05]: lua_gc took 0.02 seconds
+[00:00:05]: ~ShardLuaProxy()
+[00:00:05]: ~ItemServerLuaProxy()
+[00:00:05]: ~InventoryLuaProxy()
+[00:00:05]: ~NetworkLuaProxy()
+[00:00:05]: ~SimLuaProxy()
+[00:00:05]: lua_close took 0.02 seconds
+[00:00:05]: ReleaseAll
+[00:00:05]: ReleaseAll Finished
+[00:00:05]: cGame::StartPlaying
 [00:00:05]: LOADING LUA
 [00:00:05]: DoLuaFile scripts/main.lua
 [00:00:05]: DoLuaFile loading buffer scripts/main.lua
@@ -1182,55 +1182,55 @@ Process Memory:
 [00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
 [00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-503919639	
 [00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
-[00:00:05]: LOADING LUA SUCCESS
-[00:00:05]: Registering mod namespace "globalpause"
-[00:00:05]: Registering mod namespace "workshop-378160973"
-[00:00:05]: Registering mod namespace "food item"
-[00:00:05]: PlayerDeaths could not load morgue	
-[00:00:05]: PlayerHistory could not load player_history	
-[00:00:05]: bloom_enabled	false	
-[00:00:05]: loaded saveindex	
-[00:00:05]: OnFilesLoaded()	
-[00:00:05]: OnUpdatePurchaseStateComplete	
-[00:00:05]: 	Unload FE	
-[00:00:05]: 	Unload FE done	
-[00:00:06]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
-[00:00:06]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
-[00:00:06]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
-[00:00:06]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
-[00:00:06]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
-[00:00:06]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
-[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
-[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
-[00:00:06]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
-[00:00:06]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
-[00:00:06]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
-[00:00:06]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
-[00:00:06]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
-[00:00:06]: Mod: workshop-503919639 (DST Equipment Switcher)	Registering prefabs	
-[00:00:06]: Mod: workshop-503919639 (DST Equipment Switcher)	  Registering default mod prefab	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
-[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
-[00:00:06]: 	LOAD BE	
+[00:00:06]: LOADING LUA SUCCESS
+[00:00:06]: Registering mod namespace "globalpause"
+[00:00:06]: Registering mod namespace "workshop-378160973"
+[00:00:06]: Registering mod namespace "food item"
+[00:00:06]: PlayerDeaths could not load morgue	
+[00:00:06]: PlayerHistory could not load player_history	
+[00:00:06]: bloom_enabled	false	
+[00:00:06]: loaded saveindex	
+[00:00:06]: OnFilesLoaded()	
+[00:00:06]: OnUpdatePurchaseStateComplete	
+[00:00:06]: 	Unload FE	
+[00:00:06]: 	Unload FE done	
+[00:00:07]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:00:07]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:07]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:07]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:07]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-1079538195 (Moving Box)	Registering prefabs	
+[00:00:07]: Mod: workshop-1079538195 (Moving Box)	  Registering prefab file: prefabs/moving_box	
+[00:00:07]: Mod: workshop-1079538195 (Moving Box)	    moving_box	
+[00:00:07]: Mod: workshop-1079538195 (Moving Box)	    moving_box_full	
+[00:00:07]: Mod: workshop-1079538195 (Moving Box)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-503919639 (DST Equipment Switcher)	Registering prefabs	
+[00:00:07]: Mod: workshop-503919639 (DST Equipment Switcher)	  Registering default mod prefab	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:07]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:07]: 	LOAD BE	
 [00:00:08]: 	LOAD BE: done	
-[00:00:08]: Loading world: session/50D874D52D5DBA28/0000000109	
-[00:00:08]: Save file is at version 4.77	
-[00:00:08]: Begin Session: 50D874D52D5DBA28
-[00:00:08]: saving to server_temp/server_save	
+[00:00:08]: Loading world: session/50D874D52D5DBA28/0000000110	
+[00:00:09]: Save file is at version 4.77	
+[00:00:09]: Begin Session: 50D874D52D5DBA28
+[00:00:09]: saving to server_temp/server_save	
 [00:00:09]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
 [00:00:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
 [00:00:09]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
@@ -1260,62 +1260,60 @@ Process Memory:
 [00:00:09]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
 [00:00:09]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
 [00:00:09]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
-[00:00:09]: Loading Nav Grid	
-[00:00:09]: setting 	summerlength	15	
-[00:00:09]: setting 	isnightmaredawn	false	
-[00:00:09]: setting 	elapseddaysinseason	13	
-[00:00:09]: setting 	isfullmoon	false	
-[00:00:09]: setting 	moisture	829.4384765625	
-[00:00:09]: setting 	springlength	20	
-[00:00:09]: setting 	isnightmarewild	false	
-[00:00:09]: setting 	moonphase	quarter	
-[00:00:09]: setting 	precipitationrate	0	
-[00:00:09]: setting 	iswet	false	
-[00:00:09]: setting 	isnewmoon	false	
-[00:00:09]: setting 	iswinter	true	
-[00:00:09]: setting 	israining	false	
-[00:00:09]: setting 	isnightmarewarn	false	
-[00:00:09]: setting 	precipitation	none	
-[00:00:09]: setting 	cavephase	day	
-[00:00:09]: setting 	moistureceil	2364.2861328125	
-[00:00:09]: setting 	isday	true	
-[00:00:09]: setting 	iscaveday	true	
-[00:00:09]: setting 	season	winter	
-[00:00:09]: setting 	timeinphase	0.0065966796875	
-[00:00:09]: setting 	temperature	-7.1020400996804	
-[00:00:09]: setting 	isnightmarecalm	false	
-[00:00:09]: setting 	isnight	false	
-[00:00:09]: setting 	isdusk	false	
-[00:00:09]: setting 	iscavedusk	false	
-[00:00:09]: setting 	isautumn	false	
-[00:00:09]: setting 	issnowing	false	
-[00:00:09]: setting 	iswaxingmoon	true	
-[00:00:09]: setting 	pop	0.10525586761073	
-[00:00:09]: setting 	snowlevel	1	
-[00:00:09]: setting 	issnowcovered	true	
-[00:00:09]: setting 	autumnlength	20	
-[00:00:09]: setting 	phase	day	
-[00:00:09]: setting 	nightmaretime	0	
-[00:00:09]: setting 	winterlength	15	
-[00:00:09]: setting 	isspring	false	
-[00:00:09]: setting 	nightmarephase	none	
-[00:00:09]: setting 	remainingdaysinseason	2	
-[00:00:09]: setting 	cycles	103	
-[00:00:09]: setting 	iscavenight	false	
-[00:00:09]: setting 	nightmaretimeinphase	0	
-[00:00:09]: setting 	wetness	0	
-[00:00:09]: setting 	time	0.0020614624023437	
-[00:00:09]: setting 	issummer	false	
-[00:00:15]: Reconstructing topology	
-[00:00:15]: 	...Sorting points	
-[00:00:15]: 	...Sorting edges	
-[00:00:15]: 	...Connecting nodes	
-[00:00:15]: 	...Validating connections	
-[00:00:15]: 	...Housekeeping	
-[00:00:15]: 	...Done!	
-[00:00:15]: Halloween Trinkets added: 71	
-[00:00:15]: Restoring user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000109	
-[00:00:16]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000110
+[00:00:10]: Loading Nav Grid	
+[00:00:10]: setting 	summerlength	15	
+[00:00:10]: setting 	isnightmaredawn	false	
+[00:00:10]: setting 	elapseddaysinseason	13	
+[00:00:10]: setting 	isfullmoon	false	
+[00:00:10]: setting 	moisture	1102.2619628906	
+[00:00:10]: setting 	springlength	20	
+[00:00:10]: setting 	isnightmarewild	false	
+[00:00:10]: setting 	moonphase	quarter	
+[00:00:10]: setting 	precipitationrate	0	
+[00:00:10]: setting 	iswet	false	
+[00:00:10]: setting 	isnewmoon	false	
+[00:00:10]: setting 	iswinter	true	
+[00:00:10]: setting 	israining	false	
+[00:00:10]: setting 	isnightmarewarn	false	
+[00:00:10]: setting 	precipitation	none	
+[00:00:10]: setting 	cavephase	night	
+[00:00:10]: setting 	moistureceil	2364.2861328125	
+[00:00:10]: setting 	isday	false	
+[00:00:10]: setting 	iscaveday	false	
+[00:00:10]: setting 	season	winter	
+[00:00:10]: setting 	timeinphase	0.42070617675781	
+[00:00:10]: setting 	temperature	-14.080929709063	
+[00:00:10]: setting 	isnightmarecalm	false	
+[00:00:10]: setting 	isnight	true	
+[00:00:10]: setting 	isdusk	false	
+[00:00:10]: setting 	iscavedusk	false	
+[00:00:10]: setting 	isautumn	false	
+[00:00:10]: setting 	issnowing	false	
+[00:00:10]: setting 	iswaxingmoon	true	
+[00:00:10]: setting 	pop	0.26429915283585	
+[00:00:10]: setting 	snowlevel	1	
+[00:00:10]: setting 	issnowcovered	true	
+[00:00:10]: setting 	autumnlength	20	
+[00:00:10]: setting 	phase	night	
+[00:00:10]: setting 	nightmaretime	0	
+[00:00:10]: setting 	winterlength	15	
+[00:00:10]: setting 	isspring	false	
+[00:00:10]: setting 	nightmarephase	none	
+[00:00:10]: setting 	remainingdaysinseason	2	
+[00:00:10]: setting 	cycles	103	
+[00:00:10]: setting 	iscavenight	true	
+[00:00:10]: setting 	nightmaretimeinphase	0	
+[00:00:10]: setting 	wetness	0	
+[00:00:10]: setting 	time	0.81897068023682	
+[00:00:10]: setting 	issummer	false	
+[00:00:16]: Reconstructing topology	
+[00:00:16]: 	...Sorting points	
+[00:00:16]: 	...Sorting edges	
+[00:00:16]: 	...Connecting nodes	
+[00:00:16]: 	...Validating connections	
+[00:00:16]: 	...Housekeeping	
+[00:00:16]: 	...Done!	
+[00:00:16]: Halloween Trinkets added: 71	
 [00:00:16]: 1 uploads added to server. From server_temp
 [00:00:16]: About to start a shard with these settings:
 [00:00:16]:   ShardName: [SHDMASTER]
@@ -1327,114 +1325,74 @@ Process Memory:
 [00:00:16]: [Shard] Starting master server
 [00:00:16]: [Warning] Failed to initialize, ignoring IsPortOpen request
 [00:00:16]: [Shard] Shard server started on port: 10888
-[00:00:16]: [IPC] Signal 'DST_Master_Ready' opened  #000003B0
-[00:00:16]: [IPC] Sending signal... #000003B0
+[00:00:16]: [IPC] Signal 'DST_Master_Ready' opened  #00000398
+[00:00:16]: [IPC] Sending signal... #00000398
 [00:00:16]: Telling Client our new session identifier: 50D874D52D5DBA28
 [00:00:16]: ModIndex: Load sequence finished successfully.	
 [00:00:16]: Reset() returning
 [00:00:16]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
 [00:00:16]: [Steam] SteamGameServer_Init success
-[00:00:16]: Validating portal[8] <-> 993164935[8] (inactive)	
-[00:00:16]: Validating portal[5] <-> 993164935[5] (inactive)	
-[00:00:16]: Validating portal[3] <-> 993164935[3] (inactive)	
-[00:00:16]: Validating portal[4] <-> 993164935[4] (inactive)	
-[00:00:16]: Validating portal[2] <-> 993164935[2] (inactive)	
-[00:00:16]: Validating portal[10] <-> 993164935[10] (inactive)	
-[00:00:16]: Validating portal[1] <-> 993164935[1] (inactive)	
-[00:00:16]: Validating portal[6] <-> 993164935[6] (inactive)	
-[00:00:16]: Validating portal[9] <-> 993164935[9] (inactive)	
-[00:00:16]: Validating portal[7] <-> 993164935[7] (inactive)	
-[00:00:16]: Sim paused
+[00:00:17]: Validating portal[6] <-> 993164935[6] (inactive)	
+[00:00:17]: Validating portal[2] <-> 993164935[2] (inactive)	
+[00:00:17]: Validating portal[9] <-> 993164935[9] (inactive)	
+[00:00:17]: Validating portal[7] <-> 993164935[7] (inactive)	
+[00:00:17]: Validating portal[5] <-> 993164935[5] (inactive)	
+[00:00:17]: Validating portal[10] <-> 993164935[10] (inactive)	
+[00:00:17]: Validating portal[1] <-> 993164935[1] (inactive)	
+[00:00:17]: Validating portal[3] <-> 993164935[3] (inactive)	
+[00:00:17]: Validating portal[4] <-> 993164935[4] (inactive)	
+[00:00:17]: Validating portal[8] <-> 993164935[8] (inactive)	
+[00:00:17]: Sim paused
 [00:00:20]: [Shard] Slave Caves(993164935) connected: [LAN] 127.0.0.1
 [00:00:21]: [Shard] Slave Caves(993164935) ready!
 [00:00:21]: World 993164935 is now connected	
-[00:00:21]: Validating portal[8] <-> 993164935[8] (active)	
-[00:00:21]: Validating portal[5] <-> 993164935[5] (active)	
-[00:00:21]: Validating portal[3] <-> 993164935[3] (active)	
-[00:00:21]: Validating portal[4] <-> 993164935[4] (active)	
-[00:00:21]: Validating portal[2] <-> 993164935[2] (disabled)	
-[00:00:21]: Validating portal[10] <-> 993164935[10] (disabled)	
-[00:00:21]: Validating portal[1] <-> 993164935[1] (disabled)	
 [00:00:21]: Validating portal[6] <-> 993164935[6] (active)	
+[00:00:21]: Validating portal[2] <-> 993164935[2] (disabled)	
 [00:00:21]: Validating portal[9] <-> 993164935[9] (active)	
 [00:00:21]: Validating portal[7] <-> 993164935[7] (active)	
-[00:00:21]: [Shard] Slave 'Caves(993164935)' restarting...
-[00:00:21]: World 993164935 is now disconnected	
-[00:00:21]: Validating portal[8] <-> 993164935[8] (inactive)	
-[00:00:21]: Validating portal[5] <-> 993164935[5] (inactive)	
-[00:00:21]: Validating portal[3] <-> 993164935[3] (inactive)	
-[00:00:21]: Validating portal[4] <-> 993164935[4] (inactive)	
-[00:00:21]: Validating portal[2] <-> 993164935[2] (inactive)	
-[00:00:21]: Validating portal[10] <-> 993164935[10] (inactive)	
-[00:00:21]: Validating portal[1] <-> 993164935[1] (inactive)	
-[00:00:21]: Validating portal[6] <-> 993164935[6] (inactive)	
-[00:00:21]: Validating portal[9] <-> 993164935[9] (inactive)	
-[00:00:21]: Validating portal[7] <-> 993164935[7] (inactive)	
-[00:00:23]: New incoming connection 192.168.10.27|59586 <3665416748939347668>
-[00:00:23]: Client connected from [LAN] 192.168.10.27|59586 <3665416748939347668>
-[00:00:23]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^CnmOkvSR7Ce7Zyhb9YWmdlANwdQh0CA2bXlqzivj62M= for <3665416748939347668>
-[00:00:23]: Client authenticated: (KU_NTeGaFO-) 41205mw
-[00:00:23]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
-[00:00:23]: [Steam] Authenticated client '76561198192403467'
-[00:00:25]: [Shard] Read save location file for (KU_NTeGaFO-)
-[00:00:25]: [Shard] Forwarding player to Caves(993164935)
-[00:00:25]: [Shard] Player KU_NTeGaFO- trying to migrate to an unknown or not-ready world (Caves(993164935))
-[00:00:25]: [Shard] Failed to initiate migration for a player forward.
-[00:00:25]: CloseConnectionWithReason: ID_DST_USER_CONNECTION_FAILED
-[00:00:25]: [Steam] SendUserDisconnect for '76561198192403467'
-[00:00:25]: [Shard] (KU_NTeGaFO-) disconnected from [SHDMASTER](1)
-[00:00:27]: New incoming connection 192.168.10.27|50761 <3593126436611103518>
-[00:00:27]: Client connected from [LAN] 192.168.10.27|50761 <3593126436611103518>
-[00:00:27]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^+Na9fevS9xhIBaLPL4C1nJPQbBLRV9Nd5jB0HwsPl4g= for <3593126436611103518>
-[00:00:28]: Client authenticated: (KU_NTeGaFO-) 41205mw
-[00:00:28]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
-[00:00:28]: [Shard] Slave Caves(993164935) ready!
-[00:00:28]: World 993164935 is now connected	
-[00:00:28]: Validating portal[8] <-> 993164935[8] (active)	
-[00:00:28]: Validating portal[5] <-> 993164935[5] (active)	
-[00:00:28]: Validating portal[3] <-> 993164935[3] (active)	
-[00:00:28]: Validating portal[4] <-> 993164935[4] (active)	
-[00:00:28]: Validating portal[2] <-> 993164935[2] (disabled)	
-[00:00:28]: Validating portal[10] <-> 993164935[10] (disabled)	
-[00:00:28]: Validating portal[1] <-> 993164935[1] (disabled)	
-[00:00:28]: Validating portal[6] <-> 993164935[6] (active)	
-[00:00:28]: Validating portal[9] <-> 993164935[9] (active)	
-[00:00:28]: Validating portal[7] <-> 993164935[7] (active)	
-[00:00:28]: [Steam] Authenticated client '76561198192403467'
-[00:00:29]: [Shard] Read save location file for (KU_NTeGaFO-)
-[00:00:29]: [Shard] Forwarding player to Caves(993164935)
-[00:00:29]: [Shard] Begin migration #1 for (KU_NTeGaFO-)
-[00:00:29]: [Shard] #1 [SHDMASTER](1) -> Caves(993164935)
-[00:00:29]: Sim unpaused
-[00:00:29]: CloseConnectionWithReason: ID_DST_SHARD_SILENT_DISCONNECT
-[00:00:29]: [Steam] SendUserDisconnect for '76561198192403467'
-[00:00:29]: [Shard] (KU_NTeGaFO-) disconnected from [SHDMASTER](1)
-[00:00:30]: New incoming connection 127.0.0.1|59083 <5061847375547672207>
-[00:00:30]: Client connected from [LAN] 127.0.0.1|59083 <5061847375547672207>
-[00:00:30]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^zEV7sCm2dLclqCJPfDhefd/mzPnneI07WeKgWg4EwWY= for <5061847375547672207>
-[00:00:30]: Client authenticated: (KU_DHYCXywJ) whatsupdude
-[00:00:30]: [Steam] Authenticated host '76561198061882216'
-[00:00:31]: [Shard] Read save location file for (KU_DHYCXywJ)
-[00:00:35]: [Shard] Completed migration #1 for player (KU_NTeGaFO-)
-[00:00:35]: [Shard] Writing save location file for (KU_NTeGaFO-)
-[00:00:40]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000110
-[00:00:40]: Spawning player at: [Load] (286.28, 0.00, 295.43)	
-[00:00:45]: [Shard] Begin migration #2 for (KU_NTeGaFO-)
-[00:00:45]: [Shard] #2 Caves(993164935) -> [SHDMASTER](1)
-[00:00:45]: [Shard] #2 -> session/50D874D52D5DBA28/A7ITR8891THU/0000000110
-[00:00:45]: [Shard] Received migration #2 data for (KU_NTeGaFO-)
-[00:00:45]: [Shard] (KU_NTeGaFO-) disconnected from Caves(993164935)
-[00:00:46]: New incoming connection 192.168.10.27|58268 <4386334972716113722>
-[00:00:46]: Client connected from [LAN] 192.168.10.27|58268 <4386334972716113722>
-[00:00:46]: ValidateGameSessionToken pgs-sing^KU_NTeGaFO-^DontStarveTogether^687nfl6mnBzhnerMtGjLqQRcsgKEnQ0bnPQ+sTcoJYQ= for <4386334972716113722>
-[00:00:47]: Client authenticated: (KU_NTeGaFO-) 41205mw
-[00:00:47]: [Steam] SendUserConnectAndAuthenticate for '76561198192403467'
-[00:00:48]: [Steam] Authenticated client '76561198192403467'
-[00:00:48]: [Shard] Completed incoming migration #2 for (KU_NTeGaFO-)
-[00:00:48]: [Shard] Completed migration #2 for player (KU_NTeGaFO-)
-[00:00:48]: [Shard] Writing save location file for (KU_NTeGaFO-)
-[00:00:54]: Resuming user: session/50D874D52D5DBA28/A7ITR8891THU/0000000110
-[00:00:54]: Player will spawn close to portal #8	
-[00:00:54]: Spawning player at: [Load] (286.04, 0.00, 296.66)	
-[00:04:07]: [(KU_DHYCXywJ) whatsupdude] ReceiveRemoteExecute(GPTogglePause())
-[00:04:07]: toggling	
+[00:00:21]: Validating portal[5] <-> 993164935[5] (active)	
+[00:00:21]: Validating portal[10] <-> 993164935[10] (disabled)	
+[00:00:21]: Validating portal[1] <-> 993164935[1] (disabled)	
+[00:00:21]: Validating portal[3] <-> 993164935[3] (active)	
+[00:00:21]: Validating portal[4] <-> 993164935[4] (active)	
+[00:00:21]: Validating portal[8] <-> 993164935[8] (active)	
+[00:00:23]: New incoming connection 127.0.0.1|56404 <4990868491849712569>
+[00:00:23]: Client connected from [LAN] 127.0.0.1|56404 <4990868491849712569>
+[00:00:23]: ValidateGameSessionToken pgs-sing^KU_DHYCXywJ^DontStarveTogether^4b3/Woqo/F47s0k+cjrd/Kzf8XyMtD9elDI1MP7b7J4= for <4990868491849712569>
+[00:00:23]: Client authenticated: (KU_DHYCXywJ) whatsupdude
+[00:00:23]: [Steam] Authenticated host '76561198061882216'
+[00:00:25]: [Shard] Read save location file for (KU_DHYCXywJ)
+[00:00:34]: Resuming user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000110
+[00:00:34]: Spawning player at: [Load] (252.37, 0.00, 355.38)	
+[00:00:34]: Sim unpaused
+[00:00:44]: [Steam] SendUserDisconnect for '76561198061882216'
+[00:00:44]: [Shard] (KU_DHYCXywJ) disconnected from [SHDMASTER](1)
+[00:00:44]: [IPC] Received shutdown signal.
+[00:00:45]: Serializing user: session/50D874D52D5DBA28/A7HL3268FJKJ/0000000111
+[00:00:45]: Serializing world: session/50D874D52D5DBA28/0000000111
+[00:00:45]: Truncating to snapshot #111...
+[00:00:45]:  - session/50D874D52D5DBA28/0000000105
+[00:00:45]:  - session/50D874D52D5DBA28/A7HL3268FJKJ/0000000105
+[00:00:45]:  - session/50D874D52D5DBA28/A7ITR8891THU/0000000105
+[00:00:45]:    3 file(s) removed
+[00:00:45]: unloading prefabs for mod MOD_workshop-758532836	
+[00:00:45]: unloading prefabs for mod MOD_workshop-347079953	
+[00:00:45]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:45]: unloading prefabs for mod MOD_workshop-362175979	
+[00:00:45]: unloading prefabs for mod MOD_workshop-1079538195	
+[00:00:45]: unloading prefabs for mod MOD_workshop-503919639	
+[00:00:45]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:45]: [Shard] Stopping shard mode
+[00:00:45]: Collecting garbage...
+[00:00:46]: lua_gc took 0.20 seconds
+[00:00:46]: ~ShardLuaProxy()
+[00:00:46]: ~ItemServerLuaProxy()
+[00:00:46]: ~InventoryLuaProxy()
+[00:00:46]: ~NetworkLuaProxy()
+[00:00:46]: ~SimLuaProxy()
+[00:00:46]: lua_close took 0.33 seconds
+[00:00:46]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:00:46]: shaders/ui_yuv.ksh - 1
+[00:00:46]: CurlRequestManager::ClientThread::Main() complete
+[00:00:46]: HttpClient2 discarded 1 callbacks.
+[00:00:46]: Shutting down

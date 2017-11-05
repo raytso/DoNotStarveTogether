@@ -1,0 +1,4 @@
+[00:00:40]: [Join Announcement] whatsupdude
+[00:00:48]: [Join Announcement] 41205mw
+[00:07:51]: [Death Announcement] 41205mw 死亡，因為： 獨眼巨鹿。她成了一個令人毛骨悚然的鬼！
+[00:08:02]: [Leave Announcement] whatsupdude
